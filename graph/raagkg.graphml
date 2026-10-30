@@ -1,0 +1,2375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+  <key id="label" for="node" attr.name="label" attr.type="string"/>
+  <key id="name" for="node" attr.name="name" attr.type="string"/>
+  <key id="aroha" for="node" attr.name="aroha" attr.type="string"/>
+  <key id="avaroha" for="node" attr.name="avaroha" attr.type="string"/>
+  <key id="pakad" for="node" attr.name="pakad" attr.type="string"/>
+  <key id="prahar_text" for="node" attr.name="prahar_text" attr.type="string"/>
+  <key id="type" for="edge" attr.name="type" attr.type="string"/>
+  <graph id="RaagKG" edgedefault="directed">
+    <node id="jaati:audav-audav">
+      <data key="label">Jaati</data>
+      <data key="name">Audav-Audav</data>
+    </node>
+    <node id="jaati:audav-audav-often">
+      <data key="label">Jaati</data>
+      <data key="name">Audav-Audav (often)</data>
+    </node>
+    <node id="jaati:audav-sampurna">
+      <data key="label">Jaati</data>
+      <data key="name">Audav-Sampurna</data>
+    </node>
+    <node id="jaati:audav-shadav">
+      <data key="label">Jaati</data>
+      <data key="name">Audav-Shadav</data>
+    </node>
+    <node id="jaati:sampurna-sampurna">
+      <data key="label">Jaati</data>
+      <data key="name">Sampurna-Sampurna</data>
+    </node>
+    <node id="jaati:shadav-sampurna">
+      <data key="label">Jaati</data>
+      <data key="name">Shadav-Sampurna</data>
+    </node>
+    <node id="jaati:shadav-shadav">
+      <data key="label">Jaati</data>
+      <data key="name">Shadav-Shadav</data>
+    </node>
+    <node id="jaati:vakra-sampurna">
+      <data key="label">Jaati</data>
+      <data key="name">Vakra Sampurna</data>
+    </node>
+    <node id="prahar:1">
+      <data key="label">Prahar</data>
+      <data key="name">Prahar 1 (6 AM - 9 AM)</data>
+    </node>
+    <node id="prahar:2">
+      <data key="label">Prahar</data>
+      <data key="name">Prahar 2 (9 AM - 12 PM)</data>
+    </node>
+    <node id="prahar:3">
+      <data key="label">Prahar</data>
+      <data key="name">Prahar 3 (12 PM - 3 PM)</data>
+    </node>
+    <node id="prahar:4">
+      <data key="label">Prahar</data>
+      <data key="name">Prahar 4 (3 PM - 6 PM)</data>
+    </node>
+    <node id="prahar:5">
+      <data key="label">Prahar</data>
+      <data key="name">Prahar 5 (6 PM - 9 PM)</data>
+    </node>
+    <node id="prahar:6">
+      <data key="label">Prahar</data>
+      <data key="name">Prahar 6 (9 PM - 12 AM)</data>
+    </node>
+    <node id="prahar:7">
+      <data key="label">Prahar</data>
+      <data key="name">Prahar 7 (12 AM - 3 AM)</data>
+    </node>
+    <node id="prahar:8">
+      <data key="label">Prahar</data>
+      <data key="name">Prahar 8 (3 AM - 6 AM)</data>
+    </node>
+    <node id="prahar:any">
+      <data key="label">Prahar</data>
+      <data key="name">Any time</data>
+    </node>
+    <node id="prakriti:anticipation-of-rain">
+      <data key="label">Prakriti</data>
+      <data key="name">Anticipation of rain</data>
+    </node>
+    <node id="prakriti:anxious">
+      <data key="label">Prakriti</data>
+      <data key="name">Anxious</data>
+    </node>
+    <node id="prakriti:bold">
+      <data key="label">Prakriti</data>
+      <data key="name">Bold</data>
+    </node>
+    <node id="prakriti:bright">
+      <data key="label">Prakriti</data>
+      <data key="name">Bright</data>
+    </node>
+    <node id="prakriti:calm">
+      <data key="label">Prakriti</data>
+      <data key="name">Calm</data>
+    </node>
+    <node id="prakriti:celebratory">
+      <data key="label">Prakriti</data>
+      <data key="name">Celebratory</data>
+    </node>
+    <node id="prakriti:charming">
+      <data key="label">Prakriti</data>
+      <data key="name">Charming</data>
+    </node>
+    <node id="prakriti:cheerful">
+      <data key="label">Prakriti</data>
+      <data key="name">Cheerful</data>
+    </node>
+    <node id="prakriti:complex">
+      <data key="label">Prakriti</data>
+      <data key="name">Complex</data>
+    </node>
+    <node id="prakriti:deep-pathos">
+      <data key="label">Prakriti</data>
+      <data key="name">Deep Pathos</data>
+    </node>
+    <node id="prakriti:deeply-emotional">
+      <data key="label">Prakriti</data>
+      <data key="name">Deeply emotional</data>
+    </node>
+    <node id="prakriti:detachment">
+      <data key="label">Prakriti</data>
+      <data key="name">Detachment</data>
+    </node>
+    <node id="prakriti:devotion">
+      <data key="label">Prakriti</data>
+      <data key="name">Devotion</data>
+    </node>
+    <node id="prakriti:devotional">
+      <data key="label">Prakriti</data>
+      <data key="name">Devotional</data>
+    </node>
+    <node id="prakriti:dramatic">
+      <data key="label">Prakriti</data>
+      <data key="name">Dramatic</data>
+    </node>
+    <node id="prakriti:dynamic">
+      <data key="label">Prakriti</data>
+      <data key="name">Dynamic</data>
+    </node>
+    <node id="prakriti:energetic">
+      <data key="label">Prakriti</data>
+      <data key="name">Energetic</data>
+    </node>
+    <node id="prakriti:festive">
+      <data key="label">Prakriti</data>
+      <data key="name">Festive</data>
+    </node>
+    <node id="prakriti:folk-based">
+      <data key="label">Prakriti</data>
+      <data key="name">Folk-based</data>
+    </node>
+    <node id="prakriti:gentle-sadness">
+      <data key="label">Prakriti</data>
+      <data key="name">Gentle sadness</data>
+    </node>
+    <node id="prakriti:grave">
+      <data key="label">Prakriti</data>
+      <data key="name">Grave</data>
+    </node>
+    <node id="prakriti:heroic">
+      <data key="label">Prakriti</data>
+      <data key="name">Heroic</data>
+    </node>
+    <node id="prakriti:intellectual">
+      <data key="label">Prakriti</data>
+      <data key="name">Intellectual</data>
+    </node>
+    <node id="prakriti:intense">
+      <data key="label">Prakriti</data>
+      <data key="name">Intense</data>
+    </node>
+    <node id="prakriti:intense-longing">
+      <data key="label">Prakriti</data>
+      <data key="name">Intense Longing</data>
+    </node>
+    <node id="prakriti:intense-romance">
+      <data key="label">Prakriti</data>
+      <data key="name">Intense Romance</data>
+    </node>
+    <node id="prakriti:intense-sadness">
+      <data key="label">Prakriti</data>
+      <data key="name">Intense sadness</data>
+    </node>
+    <node id="prakriti:joyful">
+      <data key="label">Prakriti</data>
+      <data key="name">Joyful</data>
+    </node>
+    <node id="prakriti:light">
+      <data key="label">Prakriti</data>
+      <data key="name">Light</data>
+    </node>
+    <node id="prakriti:longing">
+      <data key="label">Prakriti</data>
+      <data key="name">Longing</data>
+    </node>
+    <node id="prakriti:majestic">
+      <data key="label">Prakriti</data>
+      <data key="name">Majestic</data>
+    </node>
+    <node id="prakriti:majestic-rain">
+      <data key="label">Prakriti</data>
+      <data key="name">Majestic Rain</data>
+    </node>
+    <node id="prakriti:meditative">
+      <data key="label">Prakriti</data>
+      <data key="name">Meditative</data>
+    </node>
+    <node id="prakriti:melancholic">
+      <data key="label">Prakriti</data>
+      <data key="name">Melancholic</data>
+    </node>
+    <node id="prakriti:melancholy">
+      <data key="label">Prakriti</data>
+      <data key="name">Melancholy</data>
+    </node>
+    <node id="prakriti:mysterious">
+      <data key="label">Prakriti</data>
+      <data key="name">Mysterious</data>
+    </node>
+    <node id="prakriti:mystical">
+      <data key="label">Prakriti</data>
+      <data key="name">Mystical</data>
+    </node>
+    <node id="prakriti:pathos">
+      <data key="label">Prakriti</data>
+      <data key="name">Pathos</data>
+    </node>
+    <node id="prakriti:patriotic">
+      <data key="label">Prakriti</data>
+      <data key="name">Patriotic</data>
+    </node>
+    <node id="prakriti:peaceful">
+      <data key="label">Prakriti</data>
+      <data key="name">Peaceful</data>
+    </node>
+    <node id="prakriti:pensive">
+      <data key="label">Prakriti</data>
+      <data key="name">Pensive</data>
+    </node>
+    <node id="prakriti:philosophical">
+      <data key="label">Prakriti</data>
+      <data key="name">Philosophical</data>
+    </node>
+    <node id="prakriti:playful">
+      <data key="label">Prakriti</data>
+      <data key="name">Playful</data>
+    </node>
+    <node id="prakriti:pleading">
+      <data key="label">Prakriti</data>
+      <data key="name">Pleading</data>
+    </node>
+    <node id="prakriti:pleasing">
+      <data key="label">Prakriti</data>
+      <data key="name">Pleasing</data>
+    </node>
+    <node id="prakriti:poignant">
+      <data key="label">Prakriti</data>
+      <data key="name">Poignant</data>
+    </node>
+    <node id="prakriti:ponderous">
+      <data key="label">Prakriti</data>
+      <data key="name">Ponderous</data>
+    </node>
+    <node id="prakriti:powerful">
+      <data key="label">Prakriti</data>
+      <data key="name">Powerful</data>
+    </node>
+    <node id="prakriti:prayerful">
+      <data key="label">Prakriti</data>
+      <data key="name">Prayerful</data>
+    </node>
+    <node id="prakriti:pure">
+      <data key="label">Prakriti</data>
+      <data key="name">Pure</data>
+    </node>
+    <node id="prakriti:renunciation">
+      <data key="label">Prakriti</data>
+      <data key="name">Renunciation</data>
+    </node>
+    <node id="prakriti:romantic">
+      <data key="label">Prakriti</data>
+      <data key="name">Romantic</data>
+    </node>
+    <node id="prakriti:romantic-sadness">
+      <data key="label">Prakriti</data>
+      <data key="name">Romantic sadness</data>
+    </node>
+    <node id="prakriti:sad">
+      <data key="label">Prakriti</data>
+      <data key="name">Sad</data>
+    </node>
+    <node id="prakriti:sadness">
+      <data key="label">Prakriti</data>
+      <data key="name">Sadness</data>
+    </node>
+    <node id="prakriti:separation">
+      <data key="label">Prakriti</data>
+      <data key="name">Separation</data>
+    </node>
+    <node id="prakriti:serene">
+      <data key="label">Prakriti</data>
+      <data key="name">Serene</data>
+    </node>
+    <node id="prakriti:serious">
+      <data key="label">Prakriti</data>
+      <data key="name">Serious</data>
+    </node>
+    <node id="prakriti:sober">
+      <data key="label">Prakriti</data>
+      <data key="name">Sober</data>
+    </node>
+    <node id="prakriti:somber">
+      <data key="label">Prakriti</data>
+      <data key="name">Somber</data>
+    </node>
+    <node id="prakriti:soothing">
+      <data key="label">Prakriti</data>
+      <data key="name">Soothing</data>
+    </node>
+    <node id="prakriti:spiritual">
+      <data key="label">Prakriti</data>
+      <data key="name">Spiritual</data>
+    </node>
+    <node id="prakriti:sweet">
+      <data key="label">Prakriti</data>
+      <data key="name">Sweet</data>
+    </node>
+    <node id="prakriti:swinging-motion">
+      <data key="label">Prakriti</data>
+      <data key="name">Swinging motion</data>
+    </node>
+    <node id="prakriti:tender">
+      <data key="label">Prakriti</data>
+      <data key="name">Tender</data>
+    </node>
+    <node id="prakriti:thumri-ang">
+      <data key="label">Prakriti</data>
+      <data key="name">Thumri-ang</data>
+    </node>
+    <node id="prakriti:tranquil">
+      <data key="label">Prakriti</data>
+      <data key="name">Tranquil</data>
+    </node>
+    <node id="prakriti:welcoming-rain">
+      <data key="label">Prakriti</data>
+      <data key="name">Welcoming Rain</data>
+    </node>
+    <node id="prakriti:yearning">
+      <data key="label">Prakriti</data>
+      <data key="name">Yearning</data>
+    </node>
+    <node id="raga:abhogi">
+      <data key="label">Raga</data>
+      <data key="name">Abhogi</data>
+      <data key="aroha">S R g m D S'</data>
+      <data key="avaroha">S' D m g R S</data>
+      <data key="pakad">g m D S', D m g R S</data>
+      <data key="prahar_text">Mid Night (9PM-12AM)</data>
+    </node>
+    <node id="raga:adana">
+      <data key="label">Raga</data>
+      <data key="name">Adana</data>
+      <data key="aroha">S R g m P, d n S'</data>
+      <data key="avaroha">S' d n P, m P g R S</data>
+      <data key="pakad">S R g m P, d n P, g m R S</data>
+      <data key="prahar_text">Late Night (12AM-3AM)</data>
+    </node>
+    <node id="raga:ahir-bhairav">
+      <data key="label">Raga</data>
+      <data key="name">Ahir Bhairav</data>
+      <data key="aroha">S r G m P D n S'</data>
+      <data key="avaroha">S' n D P m G r S</data>
+      <data key="pakad">S, r G m, (G)r, S</data>
+      <data key="prahar_text">Early Morning (6AM-9AM)</data>
+    </node>
+    <node id="raga:alhaiya-bilawal">
+      <data key="label">Raga</data>
+      <data key="name">Alhaiya Bilawal</data>
+      <data key="aroha">S R G P, D N S'</data>
+      <data key="avaroha">S' N D P, D n D P, m G, R S</data>
+      <data key="pakad">G R G P, D N S', N D P</data>
+      <data key="prahar_text">Late Morning (9AM-12PM)</data>
+    </node>
+    <node id="raga:asavari">
+      <data key="label">Raga</data>
+      <data key="name">Asavari</data>
+      <data key="aroha">S R m P d S'</data>
+      <data key="avaroha">S' n d P m g R S</data>
+      <data key="pakad">R m P, 'n 'd S', d m P g, R g R S</data>
+      <data key="prahar_text">Late Morning (9AM-12PM)</data>
+    </node>
+    <node id="raga:bageshri">
+      <data key="label">Raga</data>
+      <data key="name">Bageshri</data>
+      <data key="aroha">S g m D n S'</data>
+      <data key="avaroha">S' n D m, P D g, R S</data>
+      <data key="pakad">S, 'n 'D, 'n S m, g R S</data>
+      <data key="prahar_text">Mid Night (9PM-12AM)</data>
+    </node>
+    <node id="raga:bahar">
+      <data key="label">Raga</data>
+      <data key="name">Bahar</data>
+      <data key="aroha">n S G m, P G m, n D N S'</data>
+      <data key="avaroha">S' n D n P, m P G m, R S</data>
+      <data key="pakad">m P G m, n D N S'</data>
+      <data key="prahar_text">Mid Night (12AM-3AM)</data>
+    </node>
+    <node id="raga:barwa">
+      <data key="label">Raga</data>
+      <data key="name">Barwa</data>
+      <data key="aroha">S R g R m P D n D S'</data>
+      <data key="avaroha">S' n D P m g R S</data>
+      <data key="pakad">R g R m P D P</data>
+      <data key="prahar_text">Late Afternoon (3-6pm)</data>
+    </node>
+    <node id="raga:basant">
+      <data key="label">Raga</data>
+      <data key="name">Basant</data>
+      <data key="aroha">S G M' d N S'</data>
+      <data key="avaroha">S' N d P, M' G r S</data>
+      <data key="pakad">M' G r S, 'd 'N S</data>
+      <data key="prahar_text">Late Night / Spring Season</data>
+    </node>
+    <node id="raga:bhairav">
+      <data key="label">Raga</data>
+      <data key="name">Bhairav</data>
+      <data key="aroha">S r G m P d N S'</data>
+      <data key="avaroha">S' N d P m G r S</data>
+      <data key="pakad">G m r S, d P</data>
+      <data key="prahar_text">Early Morning (6AM-9AM)</data>
+    </node>
+    <node id="raga:bhairavi">
+      <data key="label">Raga</data>
+      <data key="name">Bhairavi</data>
+      <data key="aroha">S r g m P d n S'</data>
+      <data key="avaroha">S' n d P m g r S</data>
+      <data key="pakad">m g r S, 'd 'n S'</data>
+      <data key="prahar_text">Early Morning (6AM-9AM)</data>
+    </node>
+    <node id="raga:bhatiyar">
+      <data key="label">Raga</data>
+      <data key="name">Bhatiyar</data>
+      <data key="aroha">S M', P M' G, r S, 'N D' S</data>
+      <data key="avaroha">S' N D P M' G, r S</data>
+      <data key="pakad">P M' G r S, D' S</data>
+      <data key="prahar_text">Dawn (3AM-6AM)</data>
+    </node>
+    <node id="raga:bhimpalasi">
+      <data key="label">Raga</data>
+      <data key="name">Bhimpalasi</data>
+      <data key="aroha">n S g m P n S'</data>
+      <data key="avaroha">S' n D P m g R S</data>
+      <data key="pakad">n S m, m P g, R S</data>
+      <data key="prahar_text">Late Afternoon (3PM-6PM)</data>
+    </node>
+    <node id="raga:bhupali">
+      <data key="label">Raga</data>
+      <data key="name">Bhupali</data>
+      <data key="aroha">S R G P D S'</data>
+      <data key="avaroha">S' D P G R S</data>
+      <data key="pakad">G R S, 'D S R G, P G D P G R S</data>
+      <data key="prahar_text">First Quarter of Night (6PM-9PM)</data>
+    </node>
+    <node id="raga:bibhas-bhairav-ang">
+      <data key="label">Raga</data>
+      <data key="name">Bibhas (Bhairav Ang)</data>
+      <data key="aroha">S r G P d S'</data>
+      <data key="avaroha">S' d P G r S</data>
+      <data key="pakad">G P d, P G r S</data>
+      <data key="prahar_text">Early Morning (6AM-9AM)</data>
+    </node>
+    <node id="raga:bihag">
+      <data key="label">Raga</data>
+      <data key="name">Bihag</data>
+      <data key="aroha">N S G m P N S'</data>
+      <data key="avaroha">S' N D P, M' P G m G, R S</data>
+      <data key="pakad">N S G m P</data>
+      <data key="prahar_text">First Quarter of Night (9PM-12AM)</data>
+    </node>
+    <node id="raga:bihagda">
+      <data key="label">Raga</data>
+      <data key="name">Bihagda</data>
+      <data key="aroha">N S G m P D P, N S'</data>
+      <data key="avaroha">S' N D P, M' G m R S</data>
+      <data key="pakad">P N S' G' m' R' S', S' N D P</data>
+      <data key="prahar_text">Mid Night (9PM-12AM)</data>
+    </node>
+    <node id="raga:bilaskhani-todi">
+      <data key="label">Raga</data>
+      <data key="name">Bilaskhani Todi</data>
+      <data key="aroha">S r g P d S'</data>
+      <data key="avaroha">S' r' n d P, d m g r S</data>
+      <data key="pakad">r g P, d, m g r S</data>
+      <data key="prahar_text">Late Morning (9AM-12PM)</data>
+    </node>
+    <node id="raga:brindabani-sarang">
+      <data key="label">Raga</data>
+      <data key="name">Brindabani Sarang</data>
+      <data key="aroha">N' S R m P N S'</data>
+      <data key="avaroha">S' n P m R S</data>
+      <data key="pakad">N' S R m, R P, m R S</data>
+      <data key="prahar_text">Mid-day (12PM-3PM)</data>
+    </node>
+    <node id="raga:chandrakauns">
+      <data key="label">Raga</data>
+      <data key="name">Chandrakauns</data>
+      <data key="aroha">S g m d N S'</data>
+      <data key="avaroha">S' N d m g S</data>
+      <data key="pakad">g m d N S', N d m g S</data>
+      <data key="prahar_text">Late Night (12AM-3AM)</data>
+    </node>
+    <node id="raga:charukeshi">
+      <data key="label">Raga</data>
+      <data key="name">Charukeshi</data>
+      <data key="aroha">S R G m P d n S'</data>
+      <data key="avaroha">S' n d P m G R S</data>
+      <data key="pakad">d n S' R G m P</data>
+      <data key="prahar_text">Late Night (10pm-1am)</data>
+    </node>
+    <node id="raga:chhayanat">
+      <data key="label">Raga</data>
+      <data key="name">Chhayanat</data>
+      <data key="aroha">S R G m P, P D N S'</data>
+      <data key="avaroha">S' N D P, M' P G m R S</data>
+      <data key="pakad">R G m P, G m R S</data>
+      <data key="prahar_text">First Quarter of Night (9PM-12AM)</data>
+    </node>
+    <node id="raga:darbari-kanada">
+      <data key="label">Raga</data>
+      <data key="name">Darbari Kanada</data>
+      <data key="aroha">S R g m P d n S'</data>
+      <data key="avaroha">S' d n P, m P g, m R S</data>
+      <data key="pakad">d 'n P, m P g, m R S</data>
+      <data key="prahar_text">Late Night (9PM-12AM)</data>
+    </node>
+    <node id="raga:des">
+      <data key="label">Raga</data>
+      <data key="name">Des</data>
+      <data key="aroha">N S R m P N S'</data>
+      <data key="avaroha">S' n D P, m G R G 'N S</data>
+      <data key="pakad">R m P, n D P, m G R</data>
+      <data key="prahar_text">Second Quarter of Night (9PM-12PM)</data>
+    </node>
+    <node id="raga:deshkar">
+      <data key="label">Raga</data>
+      <data key="name">Deshkar</data>
+      <data key="aroha">S R G P D S'</data>
+      <data key="avaroha">S' D P G R S</data>
+      <data key="pakad">G P D, P G, R S</data>
+      <data key="prahar_text">Early Morning (6AM-9AM)</data>
+    </node>
+    <node id="raga:desi">
+      <data key="label">Raga</data>
+      <data key="name">Desi</data>
+      <data key="aroha">S R m P n S'</data>
+      <data key="avaroha">S' n d P m g R S</data>
+      <data key="pakad">P n' S' R' n d P</data>
+      <data key="prahar_text">Late Morning (9-12am)</data>
+    </node>
+    <node id="raga:devgandhar">
+      <data key="label">Raga</data>
+      <data key="name">Devgandhar</data>
+      <data key="aroha">S R g m P d S'</data>
+      <data key="avaroha">S' n d P m g R S</data>
+      <data key="pakad">R g m P, d m P, g R S</data>
+      <data key="prahar_text">Late Morning (9-12am)</data>
+    </node>
+    <node id="raga:dhani">
+      <data key="label">Raga</data>
+      <data key="name">Dhani</data>
+      <data key="aroha">n S g m P n S'</data>
+      <data key="avaroha">S' n P m g S</data>
+      <data key="pakad">S g m P, n P, m g S</data>
+      <data key="prahar_text">Late Afternoon (3PM-6PM)</data>
+    </node>
+    <node id="raga:durga">
+      <data key="label">Raga</data>
+      <data key="name">Durga</data>
+      <data key="aroha">S R m P D S'</data>
+      <data key="avaroha">S' D P m R S</data>
+      <data key="pakad">m P D m R, 'D S</data>
+      <data key="prahar_text">Second Quarter of Night (9PM-12AM)</data>
+    </node>
+    <node id="raga:gaud-malhar">
+      <data key="label">Raga</data>
+      <data key="name">Gaud Malhar</data>
+      <data key="aroha">S R G m, R P, m D N S'</data>
+      <data key="avaroha">S' n D m P, G m R S</data>
+      <data key="pakad">R G m, R P</data>
+      <data key="prahar_text">Rainy Season (any time)</data>
+    </node>
+    <node id="raga:gaud-sarang">
+      <data key="label">Raga</data>
+      <data key="name">Gaud Sarang</data>
+      <data key="aroha">S G R m G, P M' D P, N S'</data>
+      <data key="avaroha">S' D n P, D M' P, G R S</data>
+      <data key="pakad">S G R m G</data>
+      <data key="prahar_text">Mid-day (12PM-3PM)</data>
+    </node>
+    <node id="raga:gorakh-kalyan">
+      <data key="label">Raga</data>
+      <data key="name">Gorakh Kalyan</data>
+      <data key="aroha">S R m, P D N S'</data>
+      <data key="avaroha">S' N D P m R S</data>
+      <data key="pakad">S R , m R , 'D 'N S</data>
+      <data key="prahar_text">Mid Night (9PM-12AM)</data>
+    </node>
+    <node id="raga:gujari-todi">
+      <data key="label">Raga</data>
+      <data key="name">Gujari Todi</data>
+      <data key="aroha">S r g M' d S'</data>
+      <data key="avaroha">S' d M' g r S</data>
+      <data key="pakad">d 'N S r g, r S</data>
+      <data key="prahar_text">Late Morning (9AM-12PM)</data>
+    </node>
+    <node id="raga:gunkali">
+      <data key="label">Raga</data>
+      <data key="name">Gunkali</data>
+      <data key="aroha">S r m P d S'</data>
+      <data key="avaroha">S' d P m r S</data>
+      <data key="pakad">r m P d, m P d, m r S</data>
+      <data key="prahar_text">Early Morning (6AM-9AM)</data>
+    </node>
+    <node id="raga:hamir">
+      <data key="label">Raga</data>
+      <data key="name">Hamir</data>
+      <data key="aroha">S G m D N S'</data>
+      <data key="avaroha">S' N D P, M' P G m R S</data>
+      <data key="pakad">S G m D, N D, P</data>
+      <data key="prahar_text">First Quarter of Night (7PM-9PM)</data>
+    </node>
+    <node id="raga:hansadhwani">
+      <data key="label">Raga</data>
+      <data key="name">Hansadhwani</data>
+      <data key="aroha">S R G P N S'</data>
+      <data key="avaroha">S' N P G R S</data>
+      <data key="pakad">R G P N, P G R S</data>
+      <data key="prahar_text">First Quarter of Night (7PM-9PM)</data>
+    </node>
+    <node id="raga:hemant">
+      <data key="label">Raga</data>
+      <data key="name">Hemant</data>
+      <data key="aroha">S g m d N S'</data>
+      <data key="avaroha">S' N d m g S, 'd 'N S</data>
+      <data key="pakad">g m d N S'</data>
+      <data key="prahar_text">Late Night (12AM-3AM)</data>
+    </node>
+    <node id="raga:hindol">
+      <data key="label">Raga</data>
+      <data key="name">Hindol</data>
+      <data key="aroha">S G M' D N S'</data>
+      <data key="avaroha">S' N D M' G S</data>
+      <data key="pakad">S G M' D, N D, M' G S</data>
+      <data key="prahar_text">First Quarter of Morning (6AM-9AM)</data>
+    </node>
+    <node id="raga:jait">
+      <data key="label">Raga</data>
+      <data key="name">Jait</data>
+      <data key="aroha">S G P G, D P S'</data>
+      <data key="avaroha">S' D P G, r S</data>
+      <data key="pakad">G P D P G, r S</data>
+      <data key="prahar_text">Mid-day (12PM-3PM)</data>
+    </node>
+    <node id="raga:jait-kalyan">
+      <data key="label">Raga</data>
+      <data key="name">Jait Kalyan</data>
+      <data key="aroha">S R G P D S'</data>
+      <data key="avaroha">S' N D P G R S</data>
+      <data key="pakad">G P D P G, R S</data>
+      <data key="prahar_text">First quarter of night (6-9pm)</data>
+    </node>
+    <node id="raga:jaunpuri">
+      <data key="label">Raga</data>
+      <data key="name">Jaunpuri</data>
+      <data key="aroha">S R m P d n S'</data>
+      <data key="avaroha">S' n d P m g R S</data>
+      <data key="pakad">m P, n d P, d m P g, R g R S</data>
+      <data key="prahar_text">Late Morning (9AM-12PM)</data>
+    </node>
+    <node id="raga:jhinjhoti">
+      <data key="label">Raga</data>
+      <data key="name">Jhinjhoti</data>
+      <data key="aroha">S R G m P D n S'</data>
+      <data key="avaroha">S' n D P m G R S</data>
+      <data key="pakad">D' n' S R G m, G R S</data>
+      <data key="prahar_text">Second Quarter of Night (9PM-12AM)</data>
+    </node>
+    <node id="raga:jog">
+      <data key="label">Raga</data>
+      <data key="name">Jog</data>
+      <data key="aroha">S g m P n S'</data>
+      <data key="avaroha">S' n P m g S, R S</data>
+      <data key="pakad">g m P n S', n P m g S</data>
+      <data key="prahar_text">Second Quarter of Night (10PM-1AM)</data>
+    </node>
+    <node id="raga:jogiya">
+      <data key="label">Raga</data>
+      <data key="name">Jogiya</data>
+      <data key="aroha">S r m P d S'</data>
+      <data key="avaroha">S' N d P m G r S</data>
+      <data key="pakad">S r m, P d S'</data>
+      <data key="prahar_text">Early Morning (6AM-9AM)</data>
+    </node>
+    <node id="raga:jogkauns">
+      <data key="label">Raga</data>
+      <data key="name">Jogkauns</data>
+      <data key="aroha">S g m P d n S'</data>
+      <data key="avaroha">S' n d P m g S</data>
+      <data key="pakad">g m P d n S'</data>
+      <data key="prahar_text">Late Night (12AM-3AM)</data>
+    </node>
+    <node id="raga:kafi">
+      <data key="label">Raga</data>
+      <data key="name">Kafi</data>
+      <data key="aroha">S R g m P D n S'</data>
+      <data key="avaroha">S' n D P m g R S</data>
+      <data key="pakad">S R g m P</data>
+      <data key="prahar_text">Mid Night (9PM-12AM)</data>
+    </node>
+    <node id="raga:kalawati">
+      <data key="label">Raga</data>
+      <data key="name">Kalawati</data>
+      <data key="aroha">S G P D n S'</data>
+      <data key="avaroha">S' n D P G S</data>
+      <data key="pakad">G P D n D P, G S</data>
+      <data key="prahar_text">Mid Night (9PM-12AM)</data>
+    </node>
+    <node id="raga:kalingda">
+      <data key="label">Raga</data>
+      <data key="name">Kalingda</data>
+      <data key="aroha">S r G m P d N S'</data>
+      <data key="avaroha">S' N d P m G r S</data>
+      <data key="pakad">P d P G m, G r S</data>
+      <data key="prahar_text">Early Morning (6AM-9AM)</data>
+    </node>
+    <node id="raga:kamod">
+      <data key="label">Raga</data>
+      <data key="name">Kamod</data>
+      <data key="aroha">S R P, M' P D N S'</data>
+      <data key="avaroha">S' N D P, M' P G m R S</data>
+      <data key="pakad">G m P, G m R S</data>
+      <data key="prahar_text">First Quarter of Night (7PM-9PM)</data>
+    </node>
+    <node id="raga:kaunsi-kanada">
+      <data key="label">Raga</data>
+      <data key="name">Kaunsi Kanada</data>
+      <data key="aroha">g m d n S', R' S'</data>
+      <data key="avaroha">S' n d P m g, R S</data>
+      <data key="pakad">g m d n S', R' S'</data>
+      <data key="prahar_text">Late Night (11PM-2AM)</data>
+    </node>
+    <node id="raga:kedar">
+      <data key="label">Raga</data>
+      <data key="name">Kedar</data>
+      <data key="aroha">S M, M P, D P, N D S'</data>
+      <data key="avaroha">S' N D P, M P D P M, G P M, R S</data>
+      <data key="pakad">S M, G P, M R S</data>
+      <data key="prahar_text">First Quarter of Night (7PM-9PM)</data>
+    </node>
+    <node id="raga:khamaj">
+      <data key="label">Raga</data>
+      <data key="name">Khamaj</data>
+      <data key="aroha">S G m P D N S'</data>
+      <data key="avaroha">S' n D P m G R S</data>
+      <data key="pakad">S G m P, D m G</data>
+      <data key="prahar_text">Second Quarter of Night (9PM-12AM)</data>
+    </node>
+    <node id="raga:kirwani">
+      <data key="label">Raga</data>
+      <data key="name">Kirwani</data>
+      <data key="aroha">S R g m P d N S'</data>
+      <data key="avaroha">S' N d P m g R S</data>
+      <data key="pakad">d P m g R S, R g m P</data>
+      <data key="prahar_text">Late Night (12AM-3AM)</data>
+    </node>
+    <node id="raga:lalit">
+      <data key="label">Raga</data>
+      <data key="name">Lalit</data>
+      <data key="aroha">N r G m, M' m G, M' d S'</data>
+      <data key="avaroha">S' N d P M' G r S</data>
+      <data key="pakad">N r G, m M' m G</data>
+      <data key="prahar_text">Last Quarter of Night (3AM-6AM)</data>
+    </node>
+    <node id="raga:lankadahan-sarang">
+      <data key="label">Raga</data>
+      <data key="name">Lankadahan Sarang</data>
+      <data key="aroha">S R m P N S'</data>
+      <data key="avaroha">S' N P m R S</data>
+      <data key="pakad">S R m P N P m R S</data>
+      <data key="prahar_text">Mid-day (12PM-3PM)</data>
+    </node>
+    <node id="raga:madhmad-sarang">
+      <data key="label">Raga</data>
+      <data key="name">Madhmad Sarang</data>
+      <data key="aroha">S R m P n S'</data>
+      <data key="avaroha">S' n P m R S</data>
+      <data key="pakad">R m P n P, m R S</data>
+      <data key="prahar_text">Mid-day (12PM-3PM)</data>
+    </node>
+    <node id="raga:madhukauns">
+      <data key="label">Raga</data>
+      <data key="name">Madhukauns</data>
+      <data key="aroha">S g m d N S'</data>
+      <data key="avaroha">S' N d m g S</data>
+      <data key="pakad">g m d N S'</data>
+      <data key="prahar_text">Late Night (12AM-3AM)</data>
+    </node>
+    <node id="raga:madhuvanti">
+      <data key="label">Raga</data>
+      <data key="name">Madhuvanti</data>
+      <data key="aroha">N S g M' P N S'</data>
+      <data key="avaroha">S' N D P M' g R S</data>
+      <data key="pakad">g M' P N S', D P M' g R S</data>
+      <data key="prahar_text">Late Afternoon (4PM-7PM)</data>
+    </node>
+    <node id="raga:malgunji">
+      <data key="label">Raga</data>
+      <data key="name">Malgunji</data>
+      <data key="aroha">S g m D n S'</data>
+      <data key="avaroha">S' n D P m g R S</data>
+      <data key="pakad">D' n S g m, g R S</data>
+      <data key="prahar_text">Late Night (11PM-2AM)</data>
+    </node>
+    <node id="raga:malkauns">
+      <data key="label">Raga</data>
+      <data key="name">Malkauns</data>
+      <data key="aroha">n S g m d n S'</data>
+      <data key="avaroha">S' n d m g S</data>
+      <data key="pakad">d 'n S g m, g S</data>
+      <data key="prahar_text">Late Night (12AM-3AM)</data>
+    </node>
+    <node id="raga:mand">
+      <data key="label">Raga</data>
+      <data key="name">Mand</data>
+      <data key="aroha">S R G m P D N S'</data>
+      <data key="avaroha">S' N D P m G R S</data>
+      <data key="pakad">G m D N S', D P m G R S</data>
+      <data key="prahar_text">Any time (Sarvakalik)</data>
+    </node>
+    <node id="raga:maru-bihag">
+      <data key="label">Raga</data>
+      <data key="name">Maru Bihag</data>
+      <data key="aroha">S G M' P N S'</data>
+      <data key="avaroha">S' N D P M' G R S</data>
+      <data key="pakad">G M' P N S', D P M' G R S</data>
+      <data key="prahar_text">Second Quarter of Night (9PM-12AM)</data>
+    </node>
+    <node id="raga:marwa">
+      <data key="label">Raga</data>
+      <data key="name">Marwa</data>
+      <data key="aroha">N r G M' D N S'</data>
+      <data key="avaroha">S' N D M' G r S</data>
+      <data key="pakad">D M' G r, G M' D, M' G r S</data>
+      <data key="prahar_text">Late Afternoon / Sunset (4PM-6PM)</data>
+    </node>
+    <node id="raga:megh">
+      <data key="label">Raga</data>
+      <data key="name">Megh</data>
+      <data key="aroha">S R m P n S'</data>
+      <data key="avaroha">S' n P m R S</data>
+      <data key="pakad">R m P n P, m R S</data>
+      <data key="prahar_text">Rainy Season (any time)</data>
+    </node>
+    <node id="raga:miyan-ki-malhar">
+      <data key="label">Raga</data>
+      <data key="name">Miyan Ki Malhar</data>
+      <data key="aroha">S R g m P D n S'</data>
+      <data key="avaroha">S' n D P m g R S</data>
+      <data key="pakad">R g m, P n D, N S'</data>
+      <data key="prahar_text">Mid Night (Rainy Season)</data>
+    </node>
+    <node id="raga:miyan-ki-todi">
+      <data key="label">Raga</data>
+      <data key="name">Miyan Ki Todi</data>
+      <data key="aroha">S r g M' P d N S'</data>
+      <data key="avaroha">S' N d P M' g r S</data>
+      <data key="pakad">d 'N S r g, r S, P M' g r S</data>
+      <data key="prahar_text">Late Morning (9AM-12PM)</data>
+    </node>
+    <node id="raga:multani">
+      <data key="label">Raga</data>
+      <data key="name">Multani</data>
+      <data key="aroha">N S g M' P N S'</data>
+      <data key="avaroha">S' N d P M' g r S</data>
+      <data key="pakad">N S M' g P, M' g r S</data>
+      <data key="prahar_text">Late Afternoon (3PM-5PM)</data>
+    </node>
+    <node id="raga:nand">
+      <data key="label">Raga</data>
+      <data key="name">Nand</data>
+      <data key="aroha">S G m P D N S'</data>
+      <data key="avaroha">S' N D P, M' P D P, G R S</data>
+      <data key="pakad">G m D N, D P, M' P G</data>
+      <data key="prahar_text">Late Night (9PM-12AM)</data>
+    </node>
+    <node id="raga:nat-bhairav">
+      <data key="label">Raga</data>
+      <data key="name">Nat Bhairav</data>
+      <data key="aroha">S R G m P d N S'</data>
+      <data key="avaroha">S' N d P m G R S</data>
+      <data key="pakad">S G m P, G m r r S</data>
+      <data key="prahar_text">Early Morning (6AM-9AM)</data>
+    </node>
+    <node id="raga:nayaki-kanada">
+      <data key="label">Raga</data>
+      <data key="name">Nayaki Kanada</data>
+      <data key="aroha">S R g m P n S'</data>
+      <data key="avaroha">S' n P m P g R S</data>
+      <data key="pakad">R P, g m R S</data>
+      <data key="prahar_text">Mid Night (9PM-12AM)</data>
+    </node>
+    <node id="raga:pahadi">
+      <data key="label">Raga</data>
+      <data key="name">Pahadi</data>
+      <data key="aroha">S R G P D S' (varies)</data>
+      <data key="avaroha">S' D P G R S (varies)</data>
+      <data key="pakad">P D S' R' G', R' S' D P</data>
+      <data key="prahar_text">Any time (Sarvakalik)</data>
+    </node>
+    <node id="raga:palasi">
+      <data key="label">Raga</data>
+      <data key="name">Palasi</data>
+      <data key="aroha">n S g m P n S'</data>
+      <data key="avaroha">S' n d P m g R S</data>
+      <data key="pakad">d P m g, R g m P</data>
+      <data key="prahar_text">Late Afternoon (3-6pm)</data>
+    </node>
+    <node id="raga:paraj">
+      <data key="label">Raga</data>
+      <data key="name">Paraj</data>
+      <data key="aroha">N S G M' P D N S'</data>
+      <data key="avaroha">S' N d P, M' P d G, M' G r S</data>
+      <data key="pakad">N S G M' P</data>
+      <data key="prahar_text">Last Quarter of Night (3AM-6AM)</data>
+    </node>
+    <node id="raga:patdeep">
+      <data key="label">Raga</data>
+      <data key="name">Patdeep</data>
+      <data key="aroha">N S g m P N S'</data>
+      <data key="avaroha">S' N D P m g R S</data>
+      <data key="pakad">N S g m P, D P, m g R S</data>
+      <data key="prahar_text">Late Afternoon (3PM-6PM)</data>
+    </node>
+    <node id="raga:pilu">
+      <data key="label">Raga</data>
+      <data key="name">Pilu</data>
+      <data key="aroha">S G m P N S'</data>
+      <data key="avaroha">S' n D P m G R S</data>
+      <data key="pakad">N S G m P</data>
+      <data key="prahar_text">Late Afternoon (3PM-6PM)</data>
+    </node>
+    <node id="raga:poorvi">
+      <data key="label">Raga</data>
+      <data key="name">Poorvi</data>
+      <data key="aroha">N r G M' d N S'</data>
+      <data key="avaroha">S' N d P M' G r S</data>
+      <data key="pakad">N r G, M' d P, M' G r S</data>
+      <data key="prahar_text">Sunset (6PM-9PM)</data>
+    </node>
+    <node id="raga:puriya">
+      <data key="label">Raga</data>
+      <data key="name">Puriya</data>
+      <data key="aroha">N r G M' D N S'</data>
+      <data key="avaroha">S' N D M' G r S</data>
+      <data key="pakad">N r G, M' D, N D, M' G r S</data>
+      <data key="prahar_text">Sunset (6PM-9PM)</data>
+    </node>
+    <node id="raga:puriya-dhanashree">
+      <data key="label">Raga</data>
+      <data key="name">Puriya Dhanashree</data>
+      <data key="aroha">N r G M' P D N S'</data>
+      <data key="avaroha">S' N D P M' G r S</data>
+      <data key="pakad">N r G, M' P, D P, M' G M' r S</data>
+      <data key="prahar_text">Late Afternoon / Sunset (4PM-6PM)</data>
+    </node>
+    <node id="raga:rageshri">
+      <data key="label">Raga</data>
+      <data key="name">Rageshri</data>
+      <data key="aroha">S G m D n S'</data>
+      <data key="avaroha">S' n D m G R S</data>
+      <data key="pakad">D' n S G m, G R S</data>
+      <data key="prahar_text">Second Quarter of Night (9PM-12AM)</data>
+    </node>
+    <node id="raga:ramkali">
+      <data key="label">Raga</data>
+      <data key="name">Ramkali</data>
+      <data key="aroha">S G m P d N S'</data>
+      <data key="avaroha">S' N d P M' G r S</data>
+      <data key="pakad">P d N S', N d P, M' P G m</data>
+      <data key="prahar_text">Early Morning (6AM-9AM)</data>
+    </node>
+    <node id="raga:salag-varali">
+      <data key="label">Raga</data>
+      <data key="name">Salag Varali</data>
+      <data key="aroha">S r M' P D S'</data>
+      <data key="avaroha">S' D P M' r S</data>
+      <data key="pakad">S r M' P</data>
+      <data key="prahar_text">Mid-day (12-3pm)</data>
+    </node>
+    <node id="raga:saraswati">
+      <data key="label">Raga</data>
+      <data key="name">Saraswati</data>
+      <data key="aroha">S R M' P D S'</data>
+      <data key="avaroha">S' D P M' R S</data>
+      <data key="pakad">S R M' P D</data>
+      <data key="prahar_text">First Quarter of Night (6-9pm)</data>
+    </node>
+    <node id="raga:shahana-kanada">
+      <data key="label">Raga</data>
+      <data key="name">Shahana Kanada</data>
+      <data key="aroha">S R g m, P D n S'</data>
+      <data key="avaroha">S' n D P, m P g m, R S</data>
+      <data key="pakad">g m P D n S'</data>
+      <data key="prahar_text">Late Night (11PM-2AM)</data>
+    </node>
+    <node id="raga:shankara">
+      <data key="label">Raga</data>
+      <data key="name">Shankara</data>
+      <data key="aroha">S G P N S'</data>
+      <data key="avaroha">S' N P G P R S</data>
+      <data key="pakad">G P N S', N P G, P R S</data>
+      <data key="prahar_text">Late Night (9PM-12AM)</data>
+    </node>
+    <node id="raga:shree">
+      <data key="label">Raga</data>
+      <data key="name">Shree</data>
+      <data key="aroha">S r M' P N S'</data>
+      <data key="avaroha">S' N d P M' G r S</data>
+      <data key="pakad">S, r, r P, M' P, N d P</data>
+      <data key="prahar_text">Sunset (6PM-9PM)</data>
+    </node>
+    <node id="raga:shuddha-bilawal">
+      <data key="label">Raga</data>
+      <data key="name">Shuddha Bilawal</data>
+      <data key="aroha">S R G m P D N S'</data>
+      <data key="avaroha">S' N D P m G R S</data>
+      <data key="pakad">S R G, m G R, G m P D</data>
+      <data key="prahar_text">Late Morning (9AM-12PM)</data>
+    </node>
+    <node id="raga:shuddha-kalyan">
+      <data key="label">Raga</data>
+      <data key="name">Shuddha Kalyan</data>
+      <data key="aroha">S R G P D S'</data>
+      <data key="avaroha">S' N D P, M' P G R S</data>
+      <data key="pakad">G P D, P G, R S</data>
+      <data key="prahar_text">First Quarter of Night (7PM-9PM)</data>
+    </node>
+    <node id="raga:shuddha-sarang">
+      <data key="label">Raga</data>
+      <data key="name">Shuddha Sarang</data>
+      <data key="aroha">S R M' P N S'</data>
+      <data key="avaroha">S' N P M' R S</data>
+      <data key="pakad">S R, M' R, P M' R S</data>
+      <data key="prahar_text">Mid-day (12PM-3PM)</data>
+    </node>
+    <node id="raga:shyam-kalyan">
+      <data key="label">Raga</data>
+      <data key="name">Shyam Kalyan</data>
+      <data key="aroha">N R M' P N S'</data>
+      <data key="avaroha">S' N D P M' G R S</data>
+      <data key="pakad">N R, G m P, N D P</data>
+      <data key="prahar_text">First Quarter of Night (7PM-9PM)</data>
+    </node>
+    <node id="raga:sindhura">
+      <data key="label">Raga</data>
+      <data key="name">Sindhura</data>
+      <data key="aroha">S R G m P D N S'</data>
+      <data key="avaroha">S' n D P m G R S</data>
+      <data key="pakad">D P m G, R G m P</data>
+      <data key="prahar_text">Late Afternoon (3-6pm)</data>
+    </node>
+    <node id="raga:sohani">
+      <data key="label">Raga</data>
+      <data key="name">Sohani</data>
+      <data key="aroha">S G M' D N S'</data>
+      <data key="avaroha">S' N D M' G r S</data>
+      <data key="pakad">G M' D N, M' D N S'</data>
+      <data key="prahar_text">Last Quarter of Night (3AM-6AM)</data>
+    </node>
+    <node id="raga:sorath">
+      <data key="label">Raga</data>
+      <data key="name">Sorath</data>
+      <data key="aroha">S R m P N S'</data>
+      <data key="avaroha">S' n D P m R S</data>
+      <data key="pakad">R m P, n D P, D m R S</data>
+      <data key="prahar_text">Mid Night (9PM-12AM)</data>
+    </node>
+    <node id="raga:suha-kanada">
+      <data key="label">Raga</data>
+      <data key="name">Suha Kanada</data>
+      <data key="aroha">S R g m P n S'</data>
+      <data key="avaroha">S' n P m g R S</data>
+      <data key="pakad">R g m P n P, m g R S</data>
+      <data key="prahar_text">Mid Night (9PM-12AM)</data>
+    </node>
+    <node id="raga:sur-malhar">
+      <data key="label">Raga</data>
+      <data key="name">Sur Malhar</data>
+      <data key="aroha">S R m P n D S'</data>
+      <data key="avaroha">S' n D P m, g R S</data>
+      <data key="pakad">R m P, n D S'</data>
+      <data key="prahar_text">Rainy Season (any time)</data>
+    </node>
+    <node id="raga:surdasi-malhar">
+      <data key="label">Raga</data>
+      <data key="name">Surdasi Malhar</data>
+      <data key="aroha">S R m P n S'</data>
+      <data key="avaroha">S' n P m R S</data>
+      <data key="pakad">S R R m m P P</data>
+      <data key="prahar_text">Rainy Season (any time)</data>
+    </node>
+    <node id="raga:tilak-kamod">
+      <data key="label">Raga</data>
+      <data key="name">Tilak Kamod</data>
+      <data key="aroha">S R G P S'</data>
+      <data key="avaroha">S' n D P, G S R G, S 'N</data>
+      <data key="pakad">P' N' S R G, S 'N</data>
+      <data key="prahar_text">Second Quarter of Night (9PM-12AM)</data>
+    </node>
+    <node id="raga:tilang">
+      <data key="label">Raga</data>
+      <data key="name">Tilang</data>
+      <data key="aroha">S G m P N S'</data>
+      <data key="avaroha">S' n P m G S</data>
+      <data key="pakad">P N S' n P G</data>
+      <data key="prahar_text">Second Quarter of Night (9PM-12AM)</data>
+    </node>
+    <node id="raga:todi">
+      <data key="label">Raga</data>
+      <data key="name">Todi</data>
+      <data key="aroha">S r g M' d N S'</data>
+      <data key="avaroha">S' N d P M' g r S</data>
+      <data key="pakad">N S r g, r S, d N S r</data>
+      <data key="prahar_text">Late Morning (9AM-12PM)</data>
+    </node>
+    <node id="raga:vachaspati">
+      <data key="label">Raga</data>
+      <data key="name">Vachaspati</data>
+      <data key="aroha">S R G M' P d N S'</data>
+      <data key="avaroha">S' N d P M' G R S</data>
+      <data key="pakad">P d N S', N d P, M' G R S</data>
+      <data key="prahar_text">Second Quarter of Night (9PM-12AM)</data>
+    </node>
+    <node id="raga:vibhas">
+      <data key="label">Raga</data>
+      <data key="name">Vibhas</data>
+      <data key="aroha">S r G P D P, G r S</data>
+      <data key="avaroha">S' D P G r S</data>
+      <data key="pakad">G P D, P G r S</data>
+      <data key="prahar_text">Early Morning (6AM-9AM)</data>
+    </node>
+    <node id="raga:yaman">
+      <data key="label">Raga</data>
+      <data key="name">Yaman</data>
+      <data key="aroha">N' R G M' P D N S'</data>
+      <data key="avaroha">S' N D P M' G R S</data>
+      <data key="pakad">N' R G, R S, P M' G R S</data>
+      <data key="prahar_text">First Quarter of Night (6PM-9PM)</data>
+    </node>
+    <node id="rasa:bhakti">
+      <data key="label">Rasa</data>
+      <data key="name">Bhakti</data>
+    </node>
+    <node id="rasa:chanchal">
+      <data key="label">Rasa</data>
+      <data key="name">Chanchal</data>
+    </node>
+    <node id="rasa:gambhir">
+      <data key="label">Rasa</data>
+      <data key="name">Gambhir</data>
+    </node>
+    <node id="rasa:joyful">
+      <data key="label">Rasa</data>
+      <data key="name">Joyful</data>
+    </node>
+    <node id="rasa:karuna">
+      <data key="label">Rasa</data>
+      <data key="name">Karuna</data>
+    </node>
+    <node id="rasa:shanti">
+      <data key="label">Rasa</data>
+      <data key="name">Shanti</data>
+    </node>
+    <node id="rasa:shringar">
+      <data key="label">Rasa</data>
+      <data key="name">Shringar</data>
+    </node>
+    <node id="rasa:vairagya">
+      <data key="label">Rasa</data>
+      <data key="name">Vairagya</data>
+    </node>
+    <node id="rasa:veer">
+      <data key="label">Rasa</data>
+      <data key="name">Veer</data>
+    </node>
+    <node id="rasa:viyog">
+      <data key="label">Rasa</data>
+      <data key="name">Viyog</data>
+    </node>
+    <node id="ritu:all">
+      <data key="label">Ritu</data>
+      <data key="name">All seasons (Sarvakalik)</data>
+    </node>
+    <node id="ritu:autumn">
+      <data key="label">Ritu</data>
+      <data key="name">Autumn</data>
+    </node>
+    <node id="ritu:monsoon">
+      <data key="label">Ritu</data>
+      <data key="name">Monsoon</data>
+    </node>
+    <node id="ritu:spring">
+      <data key="label">Ritu</data>
+      <data key="name">Spring</data>
+    </node>
+    <node id="ritu:summer">
+      <data key="label">Ritu</data>
+      <data key="name">Summer</data>
+    </node>
+    <node id="ritu:winter">
+      <data key="label">Ritu</data>
+      <data key="name">Winter</data>
+    </node>
+    <node id="swar:D">
+      <data key="label">Swar</data>
+      <data key="name">D</data>
+    </node>
+    <node id="swar:G">
+      <data key="label">Swar</data>
+      <data key="name">G</data>
+    </node>
+    <node id="swar:N">
+      <data key="label">Swar</data>
+      <data key="name">N</data>
+    </node>
+    <node id="swar:P">
+      <data key="label">Swar</data>
+      <data key="name">P</data>
+    </node>
+    <node id="swar:R">
+      <data key="label">Swar</data>
+      <data key="name">R</data>
+    </node>
+    <node id="swar:S">
+      <data key="label">Swar</data>
+      <data key="name">S</data>
+    </node>
+    <node id="swar:d">
+      <data key="label">Swar</data>
+      <data key="name">d</data>
+    </node>
+    <node id="swar:g">
+      <data key="label">Swar</data>
+      <data key="name">g</data>
+    </node>
+    <node id="swar:m">
+      <data key="label">Swar</data>
+      <data key="name">m</data>
+    </node>
+    <node id="swar:n">
+      <data key="label">Swar</data>
+      <data key="name">n</data>
+    </node>
+    <node id="swar:r">
+      <data key="label">Swar</data>
+      <data key="name">r</data>
+    </node>
+    <node id="thaat:asavari">
+      <data key="label">Thaat</data>
+      <data key="name">Asavari</data>
+    </node>
+    <node id="thaat:bhairav">
+      <data key="label">Thaat</data>
+      <data key="name">Bhairav</data>
+    </node>
+    <node id="thaat:bhairavi">
+      <data key="label">Thaat</data>
+      <data key="name">Bhairavi</data>
+    </node>
+    <node id="thaat:bilawal">
+      <data key="label">Thaat</data>
+      <data key="name">Bilawal</data>
+    </node>
+    <node id="thaat:kafi">
+      <data key="label">Thaat</data>
+      <data key="name">Kafi</data>
+    </node>
+    <node id="thaat:kalyan">
+      <data key="label">Thaat</data>
+      <data key="name">Kalyan</data>
+    </node>
+    <node id="thaat:khamaj">
+      <data key="label">Thaat</data>
+      <data key="name">Khamaj</data>
+    </node>
+    <node id="thaat:marwa">
+      <data key="label">Thaat</data>
+      <data key="name">Marwa</data>
+    </node>
+    <node id="thaat:poorvi">
+      <data key="label">Thaat</data>
+      <data key="name">Poorvi</data>
+    </node>
+    <node id="thaat:todi">
+      <data key="label">Thaat</data>
+      <data key="name">Todi</data>
+    </node>
+    <edge id="e0" source="raga:abhogi" target="thaat:kafi"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e1" source="raga:abhogi" target="prahar:6"><data key="type">performed_in</data></edge>
+    <edge id="e2" source="raga:abhogi" target="jaati:audav-audav"><data key="type">has_jaati</data></edge>
+    <edge id="e3" source="raga:abhogi" target="rasa:veer"><data key="type">has_rasa</data></edge>
+    <edge id="e4" source="raga:abhogi" target="rasa:bhakti"><data key="type">has_rasa</data></edge>
+    <edge id="e5" source="raga:abhogi" target="prakriti:powerful"><data key="type">has_prakriti</data></edge>
+    <edge id="e6" source="raga:abhogi" target="prakriti:devotional"><data key="type">has_prakriti</data></edge>
+    <edge id="e7" source="raga:abhogi" target="swar:S"><data key="type">vadi_swar</data></edge>
+    <edge id="e8" source="raga:abhogi" target="swar:m"><data key="type">samvadi_swar</data></edge>
+    <edge id="e9" source="raga:adana" target="thaat:asavari"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e10" source="raga:adana" target="prahar:7"><data key="type">performed_in</data></edge>
+    <edge id="e11" source="raga:adana" target="jaati:shadav-shadav"><data key="type">has_jaati</data></edge>
+    <edge id="e12" source="raga:adana" target="rasa:veer"><data key="type">has_rasa</data></edge>
+    <edge id="e13" source="raga:adana" target="rasa:joyful"><data key="type">has_rasa</data></edge>
+    <edge id="e14" source="raga:adana" target="prakriti:heroic"><data key="type">has_prakriti</data></edge>
+    <edge id="e15" source="raga:adana" target="prakriti:energetic"><data key="type">has_prakriti</data></edge>
+    <edge id="e16" source="raga:adana" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e17" source="raga:adana" target="swar:S"><data key="type">vadi_swar</data></edge>
+    <edge id="e18" source="raga:adana" target="swar:g"><data key="type">samvadi_swar</data></edge>
+    <edge id="e19" source="raga:adana" target="raga:darbari-kanada"><data key="type">samaprakritic</data></edge>
+    <edge id="e20" source="raga:adana" target="raga:suha-kanada"><data key="type">samaprakritic</data></edge>
+    <edge id="e21" source="raga:ahir-bhairav" target="thaat:bhairav"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e22" source="raga:ahir-bhairav" target="prahar:1"><data key="type">performed_in</data></edge>
+    <edge id="e23" source="raga:ahir-bhairav" target="jaati:sampurna-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e24" source="raga:ahir-bhairav" target="rasa:bhakti"><data key="type">has_rasa</data></edge>
+    <edge id="e25" source="raga:ahir-bhairav" target="rasa:shanti"><data key="type">has_rasa</data></edge>
+    <edge id="e26" source="raga:ahir-bhairav" target="prakriti:devotional"><data key="type">has_prakriti</data></edge>
+    <edge id="e27" source="raga:ahir-bhairav" target="prakriti:serene"><data key="type">has_prakriti</data></edge>
+    <edge id="e28" source="raga:ahir-bhairav" target="prakriti:peaceful"><data key="type">has_prakriti</data></edge>
+    <edge id="e29" source="raga:ahir-bhairav" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e30" source="raga:ahir-bhairav" target="swar:m"><data key="type">vadi_swar</data></edge>
+    <edge id="e31" source="raga:ahir-bhairav" target="swar:S"><data key="type">samvadi_swar</data></edge>
+    <edge id="e32" source="raga:ahir-bhairav" target="raga:bhairav"><data key="type">samaprakritic</data></edge>
+    <edge id="e33" source="raga:ahir-bhairav" target="raga:kalingda"><data key="type">samaprakritic</data></edge>
+    <edge id="e34" source="raga:alhaiya-bilawal" target="thaat:bilawal"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e35" source="raga:alhaiya-bilawal" target="prahar:2"><data key="type">performed_in</data></edge>
+    <edge id="e36" source="raga:alhaiya-bilawal" target="jaati:shadav-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e37" source="raga:alhaiya-bilawal" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e38" source="raga:alhaiya-bilawal" target="rasa:bhakti"><data key="type">has_rasa</data></edge>
+    <edge id="e39" source="raga:alhaiya-bilawal" target="prakriti:joyful"><data key="type">has_prakriti</data></edge>
+    <edge id="e40" source="raga:alhaiya-bilawal" target="prakriti:romantic"><data key="type">has_prakriti</data></edge>
+    <edge id="e41" source="raga:alhaiya-bilawal" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e42" source="raga:alhaiya-bilawal" target="swar:D"><data key="type">vadi_swar</data></edge>
+    <edge id="e43" source="raga:alhaiya-bilawal" target="swar:G"><data key="type">samvadi_swar</data></edge>
+    <edge id="e44" source="raga:alhaiya-bilawal" target="raga:gaud-sarang"><data key="type">samaprakritic</data></edge>
+    <edge id="e45" source="raga:asavari" target="thaat:asavari"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e46" source="raga:asavari" target="prahar:2"><data key="type">performed_in</data></edge>
+    <edge id="e47" source="raga:asavari" target="jaati:audav-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e48" source="raga:asavari" target="rasa:vairagya"><data key="type">has_rasa</data></edge>
+    <edge id="e49" source="raga:asavari" target="rasa:karuna"><data key="type">has_rasa</data></edge>
+    <edge id="e50" source="raga:asavari" target="prakriti:detachment"><data key="type">has_prakriti</data></edge>
+    <edge id="e51" source="raga:asavari" target="prakriti:melancholy"><data key="type">has_prakriti</data></edge>
+    <edge id="e52" source="raga:asavari" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e53" source="raga:asavari" target="swar:d"><data key="type">vadi_swar</data></edge>
+    <edge id="e54" source="raga:asavari" target="swar:g"><data key="type">samvadi_swar</data></edge>
+    <edge id="e55" source="raga:bageshri" target="thaat:kafi"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e56" source="raga:bageshri" target="prahar:6"><data key="type">performed_in</data></edge>
+    <edge id="e57" source="raga:bageshri" target="jaati:audav-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e58" source="raga:bageshri" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e59" source="raga:bageshri" target="rasa:karuna"><data key="type">has_rasa</data></edge>
+    <edge id="e60" source="raga:bageshri" target="prakriti:romantic"><data key="type">has_prakriti</data></edge>
+    <edge id="e61" source="raga:bageshri" target="prakriti:longing"><data key="type">has_prakriti</data></edge>
+    <edge id="e62" source="raga:bageshri" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e63" source="raga:bageshri" target="swar:m"><data key="type">vadi_swar</data></edge>
+    <edge id="e64" source="raga:bageshri" target="swar:S"><data key="type">samvadi_swar</data></edge>
+    <edge id="e65" source="raga:bahar" target="thaat:kafi"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e66" source="raga:bahar" target="prahar:7"><data key="type">performed_in</data></edge>
+    <edge id="e67" source="raga:bahar" target="jaati:shadav-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e68" source="raga:bahar" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e69" source="raga:bahar" target="rasa:joyful"><data key="type">has_rasa</data></edge>
+    <edge id="e70" source="raga:bahar" target="prakriti:playful"><data key="type">has_prakriti</data></edge>
+    <edge id="e71" source="raga:bahar" target="prakriti:celebratory"><data key="type">has_prakriti</data></edge>
+    <edge id="e72" source="raga:bahar" target="ritu:spring"><data key="type">associated_with_season</data></edge>
+    <edge id="e73" source="raga:bahar" target="swar:m"><data key="type">vadi_swar</data></edge>
+    <edge id="e74" source="raga:bahar" target="swar:S"><data key="type">samvadi_swar</data></edge>
+    <edge id="e75" source="raga:bahar" target="raga:miyan-ki-malhar"><data key="type">samaprakritic</data></edge>
+    <edge id="e76" source="raga:bahar" target="raga:shahana-kanada"><data key="type">samaprakritic</data></edge>
+    <edge id="e77" source="raga:barwa" target="thaat:kafi"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e78" source="raga:barwa" target="prahar:4"><data key="type">performed_in</data></edge>
+    <edge id="e79" source="raga:barwa" target="jaati:sampurna-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e80" source="raga:barwa" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e81" source="raga:barwa" target="prakriti:playful"><data key="type">has_prakriti</data></edge>
+    <edge id="e82" source="raga:barwa" target="prakriti:romantic"><data key="type">has_prakriti</data></edge>
+    <edge id="e83" source="raga:barwa" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e84" source="raga:barwa" target="swar:R"><data key="type">vadi_swar</data></edge>
+    <edge id="e85" source="raga:barwa" target="swar:P"><data key="type">samvadi_swar</data></edge>
+    <edge id="e86" source="raga:barwa" target="raga:sindhura"><data key="type">samaprakritic</data></edge>
+    <edge id="e87" source="raga:basant" target="thaat:poorvi"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e88" source="raga:basant" target="prahar:7"><data key="type">performed_in</data></edge>
+    <edge id="e89" source="raga:basant" target="jaati:audav-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e90" source="raga:basant" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e91" source="raga:basant" target="rasa:joyful"><data key="type">has_rasa</data></edge>
+    <edge id="e92" source="raga:basant" target="prakriti:celebratory"><data key="type">has_prakriti</data></edge>
+    <edge id="e93" source="raga:basant" target="prakriti:playful"><data key="type">has_prakriti</data></edge>
+    <edge id="e94" source="raga:basant" target="ritu:spring"><data key="type">associated_with_season</data></edge>
+    <edge id="e95" source="raga:basant" target="swar:S"><data key="type">vadi_swar</data></edge>
+    <edge id="e96" source="raga:basant" target="swar:P"><data key="type">samvadi_swar</data></edge>
+    <edge id="e97" source="raga:bhairav" target="thaat:bhairav"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e98" source="raga:bhairav" target="prahar:1"><data key="type">performed_in</data></edge>
+    <edge id="e99" source="raga:bhairav" target="jaati:sampurna-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e100" source="raga:bhairav" target="rasa:bhakti"><data key="type">has_rasa</data></edge>
+    <edge id="e101" source="raga:bhairav" target="rasa:shanti"><data key="type">has_rasa</data></edge>
+    <edge id="e102" source="raga:bhairav" target="prakriti:devotional"><data key="type">has_prakriti</data></edge>
+    <edge id="e103" source="raga:bhairav" target="prakriti:grave"><data key="type">has_prakriti</data></edge>
+    <edge id="e104" source="raga:bhairav" target="prakriti:peaceful"><data key="type">has_prakriti</data></edge>
+    <edge id="e105" source="raga:bhairav" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e106" source="raga:bhairav" target="swar:d"><data key="type">vadi_swar</data></edge>
+    <edge id="e107" source="raga:bhairav" target="swar:r"><data key="type">samvadi_swar</data></edge>
+    <edge id="e108" source="raga:bhairav" target="raga:ramkali"><data key="type">samaprakritic</data></edge>
+    <edge id="e109" source="raga:bhairav" target="raga:kalingda"><data key="type">samaprakritic</data></edge>
+    <edge id="e110" source="raga:bhairavi" target="thaat:bhairavi"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e111" source="raga:bhairavi" target="prahar:1"><data key="type">performed_in</data></edge>
+    <edge id="e112" source="raga:bhairavi" target="jaati:sampurna-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e113" source="raga:bhairavi" target="rasa:bhakti"><data key="type">has_rasa</data></edge>
+    <edge id="e114" source="raga:bhairavi" target="rasa:karuna"><data key="type">has_rasa</data></edge>
+    <edge id="e115" source="raga:bhairavi" target="prakriti:devotional"><data key="type">has_prakriti</data></edge>
+    <edge id="e116" source="raga:bhairavi" target="prakriti:poignant"><data key="type">has_prakriti</data></edge>
+    <edge id="e117" source="raga:bhairavi" target="prakriti:soothing"><data key="type">has_prakriti</data></edge>
+    <edge id="e118" source="raga:bhairavi" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e119" source="raga:bhairavi" target="swar:m"><data key="type">vadi_swar</data></edge>
+    <edge id="e120" source="raga:bhairavi" target="swar:P"><data key="type">vadi_swar</data></edge>
+    <edge id="e121" source="raga:bhairavi" target="swar:S"><data key="type">samvadi_swar</data></edge>
+    <edge id="e122" source="raga:bhairavi" target="raga:bilaskhani-todi"><data key="type">samaprakritic</data></edge>
+    <edge id="e123" source="raga:bhatiyar" target="thaat:marwa"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e124" source="raga:bhatiyar" target="prahar:8"><data key="type">performed_in</data></edge>
+    <edge id="e125" source="raga:bhatiyar" target="jaati:sampurna-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e126" source="raga:bhatiyar" target="rasa:bhakti"><data key="type">has_rasa</data></edge>
+    <edge id="e127" source="raga:bhatiyar" target="rasa:karuna"><data key="type">has_rasa</data></edge>
+    <edge id="e128" source="raga:bhatiyar" target="prakriti:devotional"><data key="type">has_prakriti</data></edge>
+    <edge id="e129" source="raga:bhatiyar" target="prakriti:pensive"><data key="type">has_prakriti</data></edge>
+    <edge id="e130" source="raga:bhatiyar" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e131" source="raga:bhatiyar" target="swar:m"><data key="type">vadi_swar</data></edge>
+    <edge id="e132" source="raga:bhatiyar" target="swar:S"><data key="type">samvadi_swar</data></edge>
+    <edge id="e133" source="raga:bhatiyar" target="raga:mand"><data key="type">samaprakritic</data></edge>
+    <edge id="e134" source="raga:bhimpalasi" target="thaat:kafi"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e135" source="raga:bhimpalasi" target="prahar:4"><data key="type">performed_in</data></edge>
+    <edge id="e136" source="raga:bhimpalasi" target="jaati:audav-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e137" source="raga:bhimpalasi" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e138" source="raga:bhimpalasi" target="rasa:karuna"><data key="type">has_rasa</data></edge>
+    <edge id="e139" source="raga:bhimpalasi" target="prakriti:romantic"><data key="type">has_prakriti</data></edge>
+    <edge id="e140" source="raga:bhimpalasi" target="prakriti:yearning"><data key="type">has_prakriti</data></edge>
+    <edge id="e141" source="raga:bhimpalasi" target="prakriti:sweet"><data key="type">has_prakriti</data></edge>
+    <edge id="e142" source="raga:bhimpalasi" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e143" source="raga:bhimpalasi" target="swar:m"><data key="type">vadi_swar</data></edge>
+    <edge id="e144" source="raga:bhimpalasi" target="swar:S"><data key="type">samvadi_swar</data></edge>
+    <edge id="e145" source="raga:bhupali" target="thaat:kalyan"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e146" source="raga:bhupali" target="prahar:5"><data key="type">performed_in</data></edge>
+    <edge id="e147" source="raga:bhupali" target="jaati:audav-audav"><data key="type">has_jaati</data></edge>
+    <edge id="e148" source="raga:bhupali" target="rasa:bhakti"><data key="type">has_rasa</data></edge>
+    <edge id="e149" source="raga:bhupali" target="rasa:shanti"><data key="type">has_rasa</data></edge>
+    <edge id="e150" source="raga:bhupali" target="prakriti:peaceful"><data key="type">has_prakriti</data></edge>
+    <edge id="e151" source="raga:bhupali" target="prakriti:devotional"><data key="type">has_prakriti</data></edge>
+    <edge id="e152" source="raga:bhupali" target="prakriti:meditative"><data key="type">has_prakriti</data></edge>
+    <edge id="e153" source="raga:bhupali" target="swar:G"><data key="type">vadi_swar</data></edge>
+    <edge id="e154" source="raga:bhupali" target="swar:D"><data key="type">samvadi_swar</data></edge>
+    <edge id="e155" source="raga:bibhas-bhairav-ang" target="thaat:bhairav"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e156" source="raga:bibhas-bhairav-ang" target="prahar:1"><data key="type">performed_in</data></edge>
+    <edge id="e157" source="raga:bibhas-bhairav-ang" target="jaati:audav-audav"><data key="type">has_jaati</data></edge>
+    <edge id="e158" source="raga:bibhas-bhairav-ang" target="rasa:shanti"><data key="type">has_rasa</data></edge>
+    <edge id="e159" source="raga:bibhas-bhairav-ang" target="rasa:bhakti"><data key="type">has_rasa</data></edge>
+    <edge id="e160" source="raga:bibhas-bhairav-ang" target="prakriti:peaceful"><data key="type">has_prakriti</data></edge>
+    <edge id="e161" source="raga:bibhas-bhairav-ang" target="prakriti:devotional"><data key="type">has_prakriti</data></edge>
+    <edge id="e162" source="raga:bibhas-bhairav-ang" target="swar:d"><data key="type">vadi_swar</data></edge>
+    <edge id="e163" source="raga:bibhas-bhairav-ang" target="swar:r"><data key="type">samvadi_swar</data></edge>
+    <edge id="e164" source="raga:bihag" target="thaat:bilawal"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e165" source="raga:bihag" target="prahar:6"><data key="type">performed_in</data></edge>
+    <edge id="e166" source="raga:bihag" target="jaati:audav-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e167" source="raga:bihag" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e168" source="raga:bihag" target="rasa:shanti"><data key="type">has_rasa</data></edge>
+    <edge id="e169" source="raga:bihag" target="prakriti:romantic"><data key="type">has_prakriti</data></edge>
+    <edge id="e170" source="raga:bihag" target="prakriti:peaceful"><data key="type">has_prakriti</data></edge>
+    <edge id="e171" source="raga:bihag" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e172" source="raga:bihag" target="swar:G"><data key="type">vadi_swar</data></edge>
+    <edge id="e173" source="raga:bihag" target="swar:N"><data key="type">samvadi_swar</data></edge>
+    <edge id="e174" source="raga:bihagda" target="thaat:kalyan"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e175" source="raga:bihagda" target="prahar:6"><data key="type">performed_in</data></edge>
+    <edge id="e176" source="raga:bihagda" target="jaati:shadav-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e177" source="raga:bihagda" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e178" source="raga:bihagda" target="rasa:karuna"><data key="type">has_rasa</data></edge>
+    <edge id="e179" source="raga:bihagda" target="prakriti:romantic"><data key="type">has_prakriti</data></edge>
+    <edge id="e180" source="raga:bihagda" target="prakriti:serious"><data key="type">has_prakriti</data></edge>
+    <edge id="e181" source="raga:bihagda" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e182" source="raga:bihagda" target="swar:G"><data key="type">vadi_swar</data></edge>
+    <edge id="e183" source="raga:bihagda" target="swar:N"><data key="type">samvadi_swar</data></edge>
+    <edge id="e184" source="raga:bihagda" target="raga:bihag"><data key="type">samaprakritic</data></edge>
+    <edge id="e185" source="raga:bihagda" target="raga:hamir"><data key="type">samaprakritic</data></edge>
+    <edge id="e186" source="raga:bilaskhani-todi" target="thaat:bhairavi"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e187" source="raga:bilaskhani-todi" target="prahar:2"><data key="type">performed_in</data></edge>
+    <edge id="e188" source="raga:bilaskhani-todi" target="jaati:audav-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e189" source="raga:bilaskhani-todi" target="rasa:karuna"><data key="type">has_rasa</data></edge>
+    <edge id="e190" source="raga:bilaskhani-todi" target="rasa:gambhir"><data key="type">has_rasa</data></edge>
+    <edge id="e191" source="raga:bilaskhani-todi" target="prakriti:pathos"><data key="type">has_prakriti</data></edge>
+    <edge id="e192" source="raga:bilaskhani-todi" target="prakriti:grave"><data key="type">has_prakriti</data></edge>
+    <edge id="e193" source="raga:bilaskhani-todi" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e194" source="raga:bilaskhani-todi" target="swar:d"><data key="type">vadi_swar</data></edge>
+    <edge id="e195" source="raga:bilaskhani-todi" target="swar:g"><data key="type">samvadi_swar</data></edge>
+    <edge id="e196" source="raga:brindabani-sarang" target="thaat:kafi"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e197" source="raga:brindabani-sarang" target="prahar:3"><data key="type">performed_in</data></edge>
+    <edge id="e198" source="raga:brindabani-sarang" target="jaati:audav-audav"><data key="type">has_jaati</data></edge>
+    <edge id="e199" source="raga:brindabani-sarang" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e200" source="raga:brindabani-sarang" target="rasa:joyful"><data key="type">has_rasa</data></edge>
+    <edge id="e201" source="raga:brindabani-sarang" target="prakriti:playful"><data key="type">has_prakriti</data></edge>
+    <edge id="e202" source="raga:brindabani-sarang" target="prakriti:romantic"><data key="type">has_prakriti</data></edge>
+    <edge id="e203" source="raga:brindabani-sarang" target="swar:R"><data key="type">vadi_swar</data></edge>
+    <edge id="e204" source="raga:brindabani-sarang" target="swar:P"><data key="type">samvadi_swar</data></edge>
+    <edge id="e205" source="raga:chandrakauns" target="thaat:bhairavi"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e206" source="raga:chandrakauns" target="prahar:7"><data key="type">performed_in</data></edge>
+    <edge id="e207" source="raga:chandrakauns" target="jaati:audav-audav"><data key="type">has_jaati</data></edge>
+    <edge id="e208" source="raga:chandrakauns" target="rasa:gambhir"><data key="type">has_rasa</data></edge>
+    <edge id="e209" source="raga:chandrakauns" target="rasa:shanti"><data key="type">has_rasa</data></edge>
+    <edge id="e210" source="raga:chandrakauns" target="prakriti:meditative"><data key="type">has_prakriti</data></edge>
+    <edge id="e211" source="raga:chandrakauns" target="prakriti:mysterious"><data key="type">has_prakriti</data></edge>
+    <edge id="e212" source="raga:chandrakauns" target="swar:m"><data key="type">vadi_swar</data></edge>
+    <edge id="e213" source="raga:chandrakauns" target="swar:S"><data key="type">samvadi_swar</data></edge>
+    <edge id="e214" source="raga:charukeshi" target="thaat:asavari"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e215" source="raga:charukeshi" target="prahar:6"><data key="type">performed_in</data></edge>
+    <edge id="e216" source="raga:charukeshi" target="jaati:sampurna-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e217" source="raga:charukeshi" target="rasa:karuna"><data key="type">has_rasa</data></edge>
+    <edge id="e218" source="raga:charukeshi" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e219" source="raga:charukeshi" target="prakriti:deeply-emotional"><data key="type">has_prakriti</data></edge>
+    <edge id="e220" source="raga:charukeshi" target="prakriti:romantic-sadness"><data key="type">has_prakriti</data></edge>
+    <edge id="e221" source="raga:charukeshi" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e222" source="raga:charukeshi" target="swar:S"><data key="type">vadi_swar</data></edge>
+    <edge id="e223" source="raga:charukeshi" target="swar:P"><data key="type">samvadi_swar</data></edge>
+    <edge id="e224" source="raga:charukeshi" target="raga:kirwani"><data key="type">samaprakritic</data></edge>
+    <edge id="e225" source="raga:chhayanat" target="thaat:kalyan"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e226" source="raga:chhayanat" target="prahar:6"><data key="type">performed_in</data></edge>
+    <edge id="e227" source="raga:chhayanat" target="jaati:sampurna-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e228" source="raga:chhayanat" target="rasa:shanti"><data key="type">has_rasa</data></edge>
+    <edge id="e229" source="raga:chhayanat" target="rasa:gambhir"><data key="type">has_rasa</data></edge>
+    <edge id="e230" source="raga:chhayanat" target="prakriti:peaceful"><data key="type">has_prakriti</data></edge>
+    <edge id="e231" source="raga:chhayanat" target="prakriti:sober"><data key="type">has_prakriti</data></edge>
+    <edge id="e232" source="raga:chhayanat" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e233" source="raga:chhayanat" target="swar:P"><data key="type">vadi_swar</data></edge>
+    <edge id="e234" source="raga:chhayanat" target="swar:R"><data key="type">samvadi_swar</data></edge>
+    <edge id="e235" source="raga:chhayanat" target="raga:kedar"><data key="type">samaprakritic</data></edge>
+    <edge id="e236" source="raga:chhayanat" target="raga:kamod"><data key="type">samaprakritic</data></edge>
+    <edge id="e237" source="raga:darbari-kanada" target="thaat:asavari"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e238" source="raga:darbari-kanada" target="prahar:6"><data key="type">performed_in</data></edge>
+    <edge id="e239" source="raga:darbari-kanada" target="jaati:sampurna-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e240" source="raga:darbari-kanada" target="rasa:gambhir"><data key="type">has_rasa</data></edge>
+    <edge id="e241" source="raga:darbari-kanada" target="rasa:karuna"><data key="type">has_rasa</data></edge>
+    <edge id="e242" source="raga:darbari-kanada" target="prakriti:sober"><data key="type">has_prakriti</data></edge>
+    <edge id="e243" source="raga:darbari-kanada" target="prakriti:majestic"><data key="type">has_prakriti</data></edge>
+    <edge id="e244" source="raga:darbari-kanada" target="prakriti:ponderous"><data key="type">has_prakriti</data></edge>
+    <edge id="e245" source="raga:darbari-kanada" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e246" source="raga:darbari-kanada" target="swar:R"><data key="type">vadi_swar</data></edge>
+    <edge id="e247" source="raga:darbari-kanada" target="swar:P"><data key="type">samvadi_swar</data></edge>
+    <edge id="e248" source="raga:darbari-kanada" target="raga:adana"><data key="type">samaprakritic</data></edge>
+    <edge id="e249" source="raga:darbari-kanada" target="raga:jaunpuri"><data key="type">samaprakritic</data></edge>
+    <edge id="e250" source="raga:des" target="thaat:khamaj"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e251" source="raga:des" target="prahar:6"><data key="type">performed_in</data></edge>
+    <edge id="e252" source="raga:des" target="jaati:audav-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e253" source="raga:des" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e254" source="raga:des" target="rasa:bhakti"><data key="type">has_rasa</data></edge>
+    <edge id="e255" source="raga:des" target="prakriti:romantic"><data key="type">has_prakriti</data></edge>
+    <edge id="e256" source="raga:des" target="prakriti:devotional"><data key="type">has_prakriti</data></edge>
+    <edge id="e257" source="raga:des" target="prakriti:patriotic"><data key="type">has_prakriti</data></edge>
+    <edge id="e258" source="raga:des" target="ritu:monsoon"><data key="type">associated_with_season</data></edge>
+    <edge id="e259" source="raga:des" target="swar:R"><data key="type">vadi_swar</data></edge>
+    <edge id="e260" source="raga:des" target="swar:P"><data key="type">samvadi_swar</data></edge>
+    <edge id="e261" source="raga:deshkar" target="thaat:kalyan"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e262" source="raga:deshkar" target="prahar:1"><data key="type">performed_in</data></edge>
+    <edge id="e263" source="raga:deshkar" target="jaati:audav-audav"><data key="type">has_jaati</data></edge>
+    <edge id="e264" source="raga:deshkar" target="rasa:veer"><data key="type">has_rasa</data></edge>
+    <edge id="e265" source="raga:deshkar" target="rasa:joyful"><data key="type">has_rasa</data></edge>
+    <edge id="e266" source="raga:deshkar" target="prakriti:heroic"><data key="type">has_prakriti</data></edge>
+    <edge id="e267" source="raga:deshkar" target="prakriti:bright"><data key="type">has_prakriti</data></edge>
+    <edge id="e268" source="raga:deshkar" target="swar:D"><data key="type">vadi_swar</data></edge>
+    <edge id="e269" source="raga:deshkar" target="swar:G"><data key="type">samvadi_swar</data></edge>
+    <edge id="e270" source="raga:desi" target="thaat:asavari"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e271" source="raga:desi" target="prahar:2"><data key="type">performed_in</data></edge>
+    <edge id="e272" source="raga:desi" target="jaati:audav-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e273" source="raga:desi" target="rasa:karuna"><data key="type">has_rasa</data></edge>
+    <edge id="e274" source="raga:desi" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e275" source="raga:desi" target="prakriti:melancholy"><data key="type">has_prakriti</data></edge>
+    <edge id="e276" source="raga:desi" target="prakriti:pleading"><data key="type">has_prakriti</data></edge>
+    <edge id="e277" source="raga:desi" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e278" source="raga:desi" target="swar:P"><data key="type">vadi_swar</data></edge>
+    <edge id="e279" source="raga:desi" target="swar:R"><data key="type">samvadi_swar</data></edge>
+    <edge id="e280" source="raga:devgandhar" target="thaat:asavari"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e281" source="raga:devgandhar" target="prahar:2"><data key="type">performed_in</data></edge>
+    <edge id="e282" source="raga:devgandhar" target="jaati:shadav-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e283" source="raga:devgandhar" target="rasa:bhakti"><data key="type">has_rasa</data></edge>
+    <edge id="e284" source="raga:devgandhar" target="rasa:karuna"><data key="type">has_rasa</data></edge>
+    <edge id="e285" source="raga:devgandhar" target="prakriti:devotional"><data key="type">has_prakriti</data></edge>
+    <edge id="e286" source="raga:devgandhar" target="prakriti:pleading"><data key="type">has_prakriti</data></edge>
+    <edge id="e287" source="raga:devgandhar" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e288" source="raga:devgandhar" target="swar:m"><data key="type">vadi_swar</data></edge>
+    <edge id="e289" source="raga:devgandhar" target="swar:S"><data key="type">samvadi_swar</data></edge>
+    <edge id="e290" source="raga:devgandhar" target="raga:jaunpuri"><data key="type">samaprakritic</data></edge>
+    <edge id="e291" source="raga:dhani" target="thaat:kafi"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e292" source="raga:dhani" target="prahar:4"><data key="type">performed_in</data></edge>
+    <edge id="e293" source="raga:dhani" target="jaati:audav-audav"><data key="type">has_jaati</data></edge>
+    <edge id="e294" source="raga:dhani" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e295" source="raga:dhani" target="prakriti:light"><data key="type">has_prakriti</data></edge>
+    <edge id="e296" source="raga:dhani" target="prakriti:romantic"><data key="type">has_prakriti</data></edge>
+    <edge id="e297" source="raga:dhani" target="swar:g"><data key="type">vadi_swar</data></edge>
+    <edge id="e298" source="raga:dhani" target="swar:S"><data key="type">samvadi_swar</data></edge>
+    <edge id="e299" source="raga:durga" target="thaat:bilawal"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e300" source="raga:durga" target="prahar:6"><data key="type">performed_in</data></edge>
+    <edge id="e301" source="raga:durga" target="jaati:audav-audav"><data key="type">has_jaati</data></edge>
+    <edge id="e302" source="raga:durga" target="rasa:bhakti"><data key="type">has_rasa</data></edge>
+    <edge id="e303" source="raga:durga" target="rasa:veer"><data key="type">has_rasa</data></edge>
+    <edge id="e304" source="raga:durga" target="prakriti:devotional"><data key="type">has_prakriti</data></edge>
+    <edge id="e305" source="raga:durga" target="prakriti:powerful"><data key="type">has_prakriti</data></edge>
+    <edge id="e306" source="raga:durga" target="swar:D"><data key="type">vadi_swar</data></edge>
+    <edge id="e307" source="raga:durga" target="swar:R"><data key="type">samvadi_swar</data></edge>
+    <edge id="e308" source="raga:gaud-malhar" target="thaat:khamaj"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e309" source="raga:gaud-malhar" target="prahar:any"><data key="type">performed_in</data></edge>
+    <edge id="e310" source="raga:gaud-malhar" target="jaati:shadav-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e311" source="raga:gaud-malhar" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e312" source="raga:gaud-malhar" target="rasa:joyful"><data key="type">has_rasa</data></edge>
+    <edge id="e313" source="raga:gaud-malhar" target="prakriti:welcoming-rain"><data key="type">has_prakriti</data></edge>
+    <edge id="e314" source="raga:gaud-malhar" target="prakriti:festive"><data key="type">has_prakriti</data></edge>
+    <edge id="e315" source="raga:gaud-malhar" target="ritu:monsoon"><data key="type">associated_with_season</data></edge>
+    <edge id="e316" source="raga:gaud-malhar" target="swar:m"><data key="type">vadi_swar</data></edge>
+    <edge id="e317" source="raga:gaud-malhar" target="swar:S"><data key="type">samvadi_swar</data></edge>
+    <edge id="e318" source="raga:gaud-malhar" target="raga:miyan-ki-malhar"><data key="type">samaprakritic</data></edge>
+    <edge id="e319" source="raga:gaud-sarang" target="thaat:kalyan"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e320" source="raga:gaud-sarang" target="prahar:3"><data key="type">performed_in</data></edge>
+    <edge id="e321" source="raga:gaud-sarang" target="jaati:vakra-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e322" source="raga:gaud-sarang" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e323" source="raga:gaud-sarang" target="rasa:chanchal"><data key="type">has_rasa</data></edge>
+    <edge id="e324" source="raga:gaud-sarang" target="prakriti:playful"><data key="type">has_prakriti</data></edge>
+    <edge id="e325" source="raga:gaud-sarang" target="prakriti:complex"><data key="type">has_prakriti</data></edge>
+    <edge id="e326" source="raga:gaud-sarang" target="ritu:summer"><data key="type">associated_with_season</data></edge>
+    <edge id="e327" source="raga:gaud-sarang" target="swar:G"><data key="type">vadi_swar</data></edge>
+    <edge id="e328" source="raga:gaud-sarang" target="swar:D"><data key="type">samvadi_swar</data></edge>
+    <edge id="e329" source="raga:gaud-sarang" target="raga:brindabani-sarang"><data key="type">samaprakritic</data></edge>
+    <edge id="e330" source="raga:gorakh-kalyan" target="thaat:khamaj"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e331" source="raga:gorakh-kalyan" target="prahar:6"><data key="type">performed_in</data></edge>
+    <edge id="e332" source="raga:gorakh-kalyan" target="jaati:shadav-shadav"><data key="type">has_jaati</data></edge>
+    <edge id="e333" source="raga:gorakh-kalyan" target="rasa:shanti"><data key="type">has_rasa</data></edge>
+    <edge id="e334" source="raga:gorakh-kalyan" target="rasa:gambhir"><data key="type">has_rasa</data></edge>
+    <edge id="e335" source="raga:gorakh-kalyan" target="prakriti:peaceful"><data key="type">has_prakriti</data></edge>
+    <edge id="e336" source="raga:gorakh-kalyan" target="prakriti:mysterious"><data key="type">has_prakriti</data></edge>
+    <edge id="e337" source="raga:gorakh-kalyan" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e338" source="raga:gorakh-kalyan" target="swar:R"><data key="type">vadi_swar</data></edge>
+    <edge id="e339" source="raga:gorakh-kalyan" target="swar:P"><data key="type">samvadi_swar</data></edge>
+    <edge id="e340" source="raga:gujari-todi" target="thaat:todi"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e341" source="raga:gujari-todi" target="prahar:2"><data key="type">performed_in</data></edge>
+    <edge id="e342" source="raga:gujari-todi" target="jaati:audav-audav"><data key="type">has_jaati</data></edge>
+    <edge id="e343" source="raga:gujari-todi" target="rasa:karuna"><data key="type">has_rasa</data></edge>
+    <edge id="e344" source="raga:gujari-todi" target="rasa:bhakti"><data key="type">has_rasa</data></edge>
+    <edge id="e345" source="raga:gujari-todi" target="prakriti:pathos"><data key="type">has_prakriti</data></edge>
+    <edge id="e346" source="raga:gujari-todi" target="prakriti:devotional"><data key="type">has_prakriti</data></edge>
+    <edge id="e347" source="raga:gujari-todi" target="swar:d"><data key="type">vadi_swar</data></edge>
+    <edge id="e348" source="raga:gujari-todi" target="swar:g"><data key="type">samvadi_swar</data></edge>
+    <edge id="e349" source="raga:gunkali" target="thaat:bhairav"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e350" source="raga:gunkali" target="prahar:1"><data key="type">performed_in</data></edge>
+    <edge id="e351" source="raga:gunkali" target="jaati:audav-audav"><data key="type">has_jaati</data></edge>
+    <edge id="e352" source="raga:gunkali" target="rasa:karuna"><data key="type">has_rasa</data></edge>
+    <edge id="e353" source="raga:gunkali" target="rasa:bhakti"><data key="type">has_rasa</data></edge>
+    <edge id="e354" source="raga:gunkali" target="prakriti:sadness"><data key="type">has_prakriti</data></edge>
+    <edge id="e355" source="raga:gunkali" target="prakriti:devotion"><data key="type">has_prakriti</data></edge>
+    <edge id="e356" source="raga:gunkali" target="swar:d"><data key="type">vadi_swar</data></edge>
+    <edge id="e357" source="raga:gunkali" target="swar:r"><data key="type">samvadi_swar</data></edge>
+    <edge id="e358" source="raga:hamir" target="thaat:kalyan"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e359" source="raga:hamir" target="prahar:5"><data key="type">performed_in</data></edge>
+    <edge id="e360" source="raga:hamir" target="jaati:audav-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e361" source="raga:hamir" target="rasa:veer"><data key="type">has_rasa</data></edge>
+    <edge id="e362" source="raga:hamir" target="rasa:joyful"><data key="type">has_rasa</data></edge>
+    <edge id="e363" source="raga:hamir" target="prakriti:heroic"><data key="type">has_prakriti</data></edge>
+    <edge id="e364" source="raga:hamir" target="prakriti:festive"><data key="type">has_prakriti</data></edge>
+    <edge id="e365" source="raga:hamir" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e366" source="raga:hamir" target="swar:D"><data key="type">vadi_swar</data></edge>
+    <edge id="e367" source="raga:hamir" target="swar:G"><data key="type">samvadi_swar</data></edge>
+    <edge id="e368" source="raga:hansadhwani" target="thaat:bilawal"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e369" source="raga:hansadhwani" target="prahar:5"><data key="type">performed_in</data></edge>
+    <edge id="e370" source="raga:hansadhwani" target="jaati:audav-audav"><data key="type">has_jaati</data></edge>
+    <edge id="e371" source="raga:hansadhwani" target="rasa:bhakti"><data key="type">has_rasa</data></edge>
+    <edge id="e372" source="raga:hansadhwani" target="rasa:joyful"><data key="type">has_rasa</data></edge>
+    <edge id="e373" source="raga:hansadhwani" target="prakriti:devotional"><data key="type">has_prakriti</data></edge>
+    <edge id="e374" source="raga:hansadhwani" target="prakriti:pleasing"><data key="type">has_prakriti</data></edge>
+    <edge id="e375" source="raga:hansadhwani" target="swar:S"><data key="type">vadi_swar</data></edge>
+    <edge id="e376" source="raga:hansadhwani" target="swar:P"><data key="type">samvadi_swar</data></edge>
+    <edge id="e377" source="raga:hemant" target="thaat:bhairav"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e378" source="raga:hemant" target="prahar:7"><data key="type">performed_in</data></edge>
+    <edge id="e379" source="raga:hemant" target="jaati:audav-audav"><data key="type">has_jaati</data></edge>
+    <edge id="e380" source="raga:hemant" target="rasa:gambhir"><data key="type">has_rasa</data></edge>
+    <edge id="e381" source="raga:hemant" target="rasa:shanti"><data key="type">has_rasa</data></edge>
+    <edge id="e382" source="raga:hemant" target="prakriti:serious"><data key="type">has_prakriti</data></edge>
+    <edge id="e383" source="raga:hemant" target="prakriti:tranquil"><data key="type">has_prakriti</data></edge>
+    <edge id="e384" source="raga:hemant" target="swar:S"><data key="type">vadi_swar</data></edge>
+    <edge id="e385" source="raga:hemant" target="swar:m"><data key="type">samvadi_swar</data></edge>
+    <edge id="e386" source="raga:hindol" target="thaat:kalyan"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e387" source="raga:hindol" target="prahar:1"><data key="type">performed_in</data></edge>
+    <edge id="e388" source="raga:hindol" target="jaati:audav-audav"><data key="type">has_jaati</data></edge>
+    <edge id="e389" source="raga:hindol" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e390" source="raga:hindol" target="rasa:joyful"><data key="type">has_rasa</data></edge>
+    <edge id="e391" source="raga:hindol" target="prakriti:playful"><data key="type">has_prakriti</data></edge>
+    <edge id="e392" source="raga:hindol" target="prakriti:swinging-motion"><data key="type">has_prakriti</data></edge>
+    <edge id="e393" source="raga:hindol" target="swar:D"><data key="type">vadi_swar</data></edge>
+    <edge id="e394" source="raga:hindol" target="swar:G"><data key="type">samvadi_swar</data></edge>
+    <edge id="e395" source="raga:jait" target="thaat:marwa"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e396" source="raga:jait" target="prahar:3"><data key="type">performed_in</data></edge>
+    <edge id="e397" source="raga:jait" target="jaati:audav-audav"><data key="type">has_jaati</data></edge>
+    <edge id="e398" source="raga:jait" target="rasa:veer"><data key="type">has_rasa</data></edge>
+    <edge id="e399" source="raga:jait" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e400" source="raga:jait" target="prakriti:bold"><data key="type">has_prakriti</data></edge>
+    <edge id="e401" source="raga:jait" target="prakriti:romantic"><data key="type">has_prakriti</data></edge>
+    <edge id="e402" source="raga:jait" target="swar:P"><data key="type">vadi_swar</data></edge>
+    <edge id="e403" source="raga:jait" target="swar:S"><data key="type">samvadi_swar</data></edge>
+    <edge id="e404" source="raga:jait-kalyan" target="thaat:kalyan"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e405" source="raga:jait-kalyan" target="prahar:5"><data key="type">performed_in</data></edge>
+    <edge id="e406" source="raga:jait-kalyan" target="jaati:audav-shadav"><data key="type">has_jaati</data></edge>
+    <edge id="e407" source="raga:jait-kalyan" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e408" source="raga:jait-kalyan" target="prakriti:peaceful"><data key="type">has_prakriti</data></edge>
+    <edge id="e409" source="raga:jait-kalyan" target="prakriti:romantic"><data key="type">has_prakriti</data></edge>
+    <edge id="e410" source="raga:jait-kalyan" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e411" source="raga:jait-kalyan" target="swar:P"><data key="type">vadi_swar</data></edge>
+    <edge id="e412" source="raga:jait-kalyan" target="swar:R"><data key="type">samvadi_swar</data></edge>
+    <edge id="e413" source="raga:jaunpuri" target="thaat:asavari"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e414" source="raga:jaunpuri" target="prahar:2"><data key="type">performed_in</data></edge>
+    <edge id="e415" source="raga:jaunpuri" target="jaati:shadav-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e416" source="raga:jaunpuri" target="rasa:karuna"><data key="type">has_rasa</data></edge>
+    <edge id="e417" source="raga:jaunpuri" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e418" source="raga:jaunpuri" target="prakriti:melancholic"><data key="type">has_prakriti</data></edge>
+    <edge id="e419" source="raga:jaunpuri" target="prakriti:romantic"><data key="type">has_prakriti</data></edge>
+    <edge id="e420" source="raga:jaunpuri" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e421" source="raga:jaunpuri" target="swar:d"><data key="type">vadi_swar</data></edge>
+    <edge id="e422" source="raga:jaunpuri" target="swar:g"><data key="type">samvadi_swar</data></edge>
+    <edge id="e423" source="raga:jaunpuri" target="raga:asavari"><data key="type">samaprakritic</data></edge>
+    <edge id="e424" source="raga:jhinjhoti" target="thaat:khamaj"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e425" source="raga:jhinjhoti" target="prahar:6"><data key="type">performed_in</data></edge>
+    <edge id="e426" source="raga:jhinjhoti" target="jaati:sampurna-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e427" source="raga:jhinjhoti" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e428" source="raga:jhinjhoti" target="rasa:chanchal"><data key="type">has_rasa</data></edge>
+    <edge id="e429" source="raga:jhinjhoti" target="prakriti:light"><data key="type">has_prakriti</data></edge>
+    <edge id="e430" source="raga:jhinjhoti" target="prakriti:romantic"><data key="type">has_prakriti</data></edge>
+    <edge id="e431" source="raga:jhinjhoti" target="prakriti:playful"><data key="type">has_prakriti</data></edge>
+    <edge id="e432" source="raga:jhinjhoti" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e433" source="raga:jhinjhoti" target="swar:G"><data key="type">vadi_swar</data></edge>
+    <edge id="e434" source="raga:jhinjhoti" target="swar:N"><data key="type">samvadi_swar</data></edge>
+    <edge id="e435" source="raga:jhinjhoti" target="raga:khamaj"><data key="type">samaprakritic</data></edge>
+    <edge id="e436" source="raga:jog" target="thaat:kafi"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e437" source="raga:jog" target="prahar:6"><data key="type">performed_in</data></edge>
+    <edge id="e438" source="raga:jog" target="jaati:audav-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e439" source="raga:jog" target="rasa:karuna"><data key="type">has_rasa</data></edge>
+    <edge id="e440" source="raga:jog" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e441" source="raga:jog" target="prakriti:pathos"><data key="type">has_prakriti</data></edge>
+    <edge id="e442" source="raga:jog" target="prakriti:intense-longing"><data key="type">has_prakriti</data></edge>
+    <edge id="e443" source="raga:jog" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e444" source="raga:jog" target="swar:m"><data key="type">vadi_swar</data></edge>
+    <edge id="e445" source="raga:jog" target="swar:S"><data key="type">samvadi_swar</data></edge>
+    <edge id="e446" source="raga:jogiya" target="thaat:bhairav"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e447" source="raga:jogiya" target="prahar:1"><data key="type">performed_in</data></edge>
+    <edge id="e448" source="raga:jogiya" target="jaati:audav-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e449" source="raga:jogiya" target="rasa:vairagya"><data key="type">has_rasa</data></edge>
+    <edge id="e450" source="raga:jogiya" target="rasa:karuna"><data key="type">has_rasa</data></edge>
+    <edge id="e451" source="raga:jogiya" target="prakriti:renunciation"><data key="type">has_prakriti</data></edge>
+    <edge id="e452" source="raga:jogiya" target="prakriti:sadness"><data key="type">has_prakriti</data></edge>
+    <edge id="e453" source="raga:jogiya" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e454" source="raga:jogiya" target="swar:S"><data key="type">vadi_swar</data></edge>
+    <edge id="e455" source="raga:jogiya" target="swar:m"><data key="type">samvadi_swar</data></edge>
+    <edge id="e456" source="raga:jogkauns" target="thaat:kafi"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e457" source="raga:jogkauns" target="prahar:7"><data key="type">performed_in</data></edge>
+    <edge id="e458" source="raga:jogkauns" target="jaati:sampurna-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e459" source="raga:jogkauns" target="rasa:gambhir"><data key="type">has_rasa</data></edge>
+    <edge id="e460" source="raga:jogkauns" target="rasa:karuna"><data key="type">has_rasa</data></edge>
+    <edge id="e461" source="raga:jogkauns" target="prakriti:serious"><data key="type">has_prakriti</data></edge>
+    <edge id="e462" source="raga:jogkauns" target="prakriti:pensive"><data key="type">has_prakriti</data></edge>
+    <edge id="e463" source="raga:jogkauns" target="ritu:winter"><data key="type">associated_with_season</data></edge>
+    <edge id="e464" source="raga:jogkauns" target="swar:m"><data key="type">vadi_swar</data></edge>
+    <edge id="e465" source="raga:jogkauns" target="swar:S"><data key="type">samvadi_swar</data></edge>
+    <edge id="e466" source="raga:jogkauns" target="raga:chandrakauns"><data key="type">samaprakritic</data></edge>
+    <edge id="e467" source="raga:jogkauns" target="raga:malkauns"><data key="type">samaprakritic</data></edge>
+    <edge id="e468" source="raga:kafi" target="thaat:kafi"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e469" source="raga:kafi" target="prahar:6"><data key="type">performed_in</data></edge>
+    <edge id="e470" source="raga:kafi" target="jaati:sampurna-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e471" source="raga:kafi" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e472" source="raga:kafi" target="rasa:bhakti"><data key="type">has_rasa</data></edge>
+    <edge id="e473" source="raga:kafi" target="prakriti:romantic"><data key="type">has_prakriti</data></edge>
+    <edge id="e474" source="raga:kafi" target="prakriti:devotional"><data key="type">has_prakriti</data></edge>
+    <edge id="e475" source="raga:kafi" target="prakriti:festive"><data key="type">has_prakriti</data></edge>
+    <edge id="e476" source="raga:kafi" target="ritu:spring"><data key="type">associated_with_season</data></edge>
+    <edge id="e477" source="raga:kafi" target="swar:P"><data key="type">vadi_swar</data></edge>
+    <edge id="e478" source="raga:kafi" target="swar:R"><data key="type">samvadi_swar</data></edge>
+    <edge id="e479" source="raga:kafi" target="raga:bhimpalasi"><data key="type">samaprakritic</data></edge>
+    <edge id="e480" source="raga:kafi" target="raga:sindhura"><data key="type">samaprakritic</data></edge>
+    <edge id="e481" source="raga:kalawati" target="thaat:khamaj"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e482" source="raga:kalawati" target="prahar:6"><data key="type">performed_in</data></edge>
+    <edge id="e483" source="raga:kalawati" target="jaati:audav-audav"><data key="type">has_jaati</data></edge>
+    <edge id="e484" source="raga:kalawati" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e485" source="raga:kalawati" target="rasa:joyful"><data key="type">has_rasa</data></edge>
+    <edge id="e486" source="raga:kalawati" target="prakriti:romantic"><data key="type">has_prakriti</data></edge>
+    <edge id="e487" source="raga:kalawati" target="prakriti:charming"><data key="type">has_prakriti</data></edge>
+    <edge id="e488" source="raga:kalawati" target="swar:P"><data key="type">vadi_swar</data></edge>
+    <edge id="e489" source="raga:kalawati" target="swar:S"><data key="type">samvadi_swar</data></edge>
+    <edge id="e490" source="raga:kalingda" target="thaat:bhairav"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e491" source="raga:kalingda" target="prahar:1"><data key="type">performed_in</data></edge>
+    <edge id="e492" source="raga:kalingda" target="jaati:sampurna-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e493" source="raga:kalingda" target="rasa:bhakti"><data key="type">has_rasa</data></edge>
+    <edge id="e494" source="raga:kalingda" target="rasa:shanti"><data key="type">has_rasa</data></edge>
+    <edge id="e495" source="raga:kalingda" target="prakriti:peaceful"><data key="type">has_prakriti</data></edge>
+    <edge id="e496" source="raga:kalingda" target="prakriti:prayerful"><data key="type">has_prakriti</data></edge>
+    <edge id="e497" source="raga:kalingda" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e498" source="raga:kalingda" target="swar:P"><data key="type">vadi_swar</data></edge>
+    <edge id="e499" source="raga:kalingda" target="swar:S"><data key="type">samvadi_swar</data></edge>
+    <edge id="e500" source="raga:kalingda" target="raga:bhairav"><data key="type">samaprakritic</data></edge>
+    <edge id="e501" source="raga:kalingda" target="raga:ramkali"><data key="type">samaprakritic</data></edge>
+    <edge id="e502" source="raga:kamod" target="thaat:kalyan"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e503" source="raga:kamod" target="prahar:5"><data key="type">performed_in</data></edge>
+    <edge id="e504" source="raga:kamod" target="jaati:vakra-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e505" source="raga:kamod" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e506" source="raga:kamod" target="rasa:bhakti"><data key="type">has_rasa</data></edge>
+    <edge id="e507" source="raga:kamod" target="prakriti:romantic"><data key="type">has_prakriti</data></edge>
+    <edge id="e508" source="raga:kamod" target="prakriti:complex"><data key="type">has_prakriti</data></edge>
+    <edge id="e509" source="raga:kamod" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e510" source="raga:kamod" target="swar:P"><data key="type">vadi_swar</data></edge>
+    <edge id="e511" source="raga:kamod" target="swar:R"><data key="type">samvadi_swar</data></edge>
+    <edge id="e512" source="raga:kamod" target="raga:kedar"><data key="type">samaprakritic</data></edge>
+    <edge id="e513" source="raga:kamod" target="raga:chhayanat"><data key="type">samaprakritic</data></edge>
+    <edge id="e514" source="raga:kaunsi-kanada" target="thaat:asavari"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e515" source="raga:kaunsi-kanada" target="prahar:7"><data key="type">performed_in</data></edge>
+    <edge id="e516" source="raga:kaunsi-kanada" target="jaati:audav-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e517" source="raga:kaunsi-kanada" target="rasa:gambhir"><data key="type">has_rasa</data></edge>
+    <edge id="e518" source="raga:kaunsi-kanada" target="rasa:karuna"><data key="type">has_rasa</data></edge>
+    <edge id="e519" source="raga:kaunsi-kanada" target="prakriti:serious"><data key="type">has_prakriti</data></edge>
+    <edge id="e520" source="raga:kaunsi-kanada" target="prakriti:pensive"><data key="type">has_prakriti</data></edge>
+    <edge id="e521" source="raga:kaunsi-kanada" target="ritu:winter"><data key="type">associated_with_season</data></edge>
+    <edge id="e522" source="raga:kaunsi-kanada" target="swar:m"><data key="type">vadi_swar</data></edge>
+    <edge id="e523" source="raga:kaunsi-kanada" target="swar:S"><data key="type">samvadi_swar</data></edge>
+    <edge id="e524" source="raga:kedar" target="thaat:kalyan"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e525" source="raga:kedar" target="prahar:5"><data key="type">performed_in</data></edge>
+    <edge id="e526" source="raga:kedar" target="jaati:audav-shadav"><data key="type">has_jaati</data></edge>
+    <edge id="e527" source="raga:kedar" target="rasa:shanti"><data key="type">has_rasa</data></edge>
+    <edge id="e528" source="raga:kedar" target="rasa:bhakti"><data key="type">has_rasa</data></edge>
+    <edge id="e529" source="raga:kedar" target="prakriti:calm"><data key="type">has_prakriti</data></edge>
+    <edge id="e530" source="raga:kedar" target="prakriti:spiritual"><data key="type">has_prakriti</data></edge>
+    <edge id="e531" source="raga:kedar" target="prakriti:mysterious"><data key="type">has_prakriti</data></edge>
+    <edge id="e532" source="raga:kedar" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e533" source="raga:kedar" target="swar:S"><data key="type">vadi_swar</data></edge>
+    <edge id="e534" source="raga:kedar" target="swar:P"><data key="type">samvadi_swar</data></edge>
+    <edge id="e535" source="raga:khamaj" target="thaat:khamaj"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e536" source="raga:khamaj" target="prahar:6"><data key="type">performed_in</data></edge>
+    <edge id="e537" source="raga:khamaj" target="jaati:shadav-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e538" source="raga:khamaj" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e539" source="raga:khamaj" target="rasa:chanchal"><data key="type">has_rasa</data></edge>
+    <edge id="e540" source="raga:khamaj" target="prakriti:romantic"><data key="type">has_prakriti</data></edge>
+    <edge id="e541" source="raga:khamaj" target="prakriti:playful"><data key="type">has_prakriti</data></edge>
+    <edge id="e542" source="raga:khamaj" target="prakriti:thumri-ang"><data key="type">has_prakriti</data></edge>
+    <edge id="e543" source="raga:khamaj" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e544" source="raga:khamaj" target="swar:G"><data key="type">vadi_swar</data></edge>
+    <edge id="e545" source="raga:khamaj" target="swar:N"><data key="type">samvadi_swar</data></edge>
+    <edge id="e546" source="raga:khamaj" target="raga:jhinjhoti"><data key="type">samaprakritic</data></edge>
+    <edge id="e547" source="raga:khamaj" target="raga:tilang"><data key="type">samaprakritic</data></edge>
+    <edge id="e548" source="raga:kirwani" target="thaat:asavari"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e549" source="raga:kirwani" target="prahar:7"><data key="type">performed_in</data></edge>
+    <edge id="e550" source="raga:kirwani" target="jaati:sampurna-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e551" source="raga:kirwani" target="rasa:karuna"><data key="type">has_rasa</data></edge>
+    <edge id="e552" source="raga:kirwani" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e553" source="raga:kirwani" target="prakriti:intense-sadness"><data key="type">has_prakriti</data></edge>
+    <edge id="e554" source="raga:kirwani" target="prakriti:yearning"><data key="type">has_prakriti</data></edge>
+    <edge id="e555" source="raga:kirwani" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e556" source="raga:kirwani" target="swar:P"><data key="type">vadi_swar</data></edge>
+    <edge id="e557" source="raga:kirwani" target="swar:R"><data key="type">samvadi_swar</data></edge>
+    <edge id="e558" source="raga:kirwani" target="raga:bageshri"><data key="type">samaprakritic</data></edge>
+    <edge id="e559" source="raga:lalit" target="thaat:marwa"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e560" source="raga:lalit" target="prahar:8"><data key="type">performed_in</data></edge>
+    <edge id="e561" source="raga:lalit" target="jaati:shadav-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e562" source="raga:lalit" target="rasa:bhakti"><data key="type">has_rasa</data></edge>
+    <edge id="e563" source="raga:lalit" target="rasa:karuna"><data key="type">has_rasa</data></edge>
+    <edge id="e564" source="raga:lalit" target="prakriti:pleading"><data key="type">has_prakriti</data></edge>
+    <edge id="e565" source="raga:lalit" target="prakriti:devotional"><data key="type">has_prakriti</data></edge>
+    <edge id="e566" source="raga:lalit" target="prakriti:intense"><data key="type">has_prakriti</data></edge>
+    <edge id="e567" source="raga:lalit" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e568" source="raga:lalit" target="swar:m"><data key="type">vadi_swar</data></edge>
+    <edge id="e569" source="raga:lalit" target="swar:S"><data key="type">samvadi_swar</data></edge>
+    <edge id="e570" source="raga:lalit" target="raga:puriya"><data key="type">samaprakritic</data></edge>
+    <edge id="e571" source="raga:lalit" target="raga:marwa"><data key="type">samaprakritic</data></edge>
+    <edge id="e572" source="raga:lankadahan-sarang" target="thaat:kafi"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e573" source="raga:lankadahan-sarang" target="prahar:3"><data key="type">performed_in</data></edge>
+    <edge id="e574" source="raga:lankadahan-sarang" target="jaati:audav-audav"><data key="type">has_jaati</data></edge>
+    <edge id="e575" source="raga:lankadahan-sarang" target="rasa:veer"><data key="type">has_rasa</data></edge>
+    <edge id="e576" source="raga:lankadahan-sarang" target="prakriti:dramatic"><data key="type">has_prakriti</data></edge>
+    <edge id="e577" source="raga:lankadahan-sarang" target="prakriti:heroic"><data key="type">has_prakriti</data></edge>
+    <edge id="e578" source="raga:lankadahan-sarang" target="swar:R"><data key="type">vadi_swar</data></edge>
+    <edge id="e579" source="raga:lankadahan-sarang" target="swar:P"><data key="type">samvadi_swar</data></edge>
+    <edge id="e580" source="raga:madhmad-sarang" target="thaat:kafi"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e581" source="raga:madhmad-sarang" target="prahar:3"><data key="type">performed_in</data></edge>
+    <edge id="e582" source="raga:madhmad-sarang" target="jaati:audav-audav"><data key="type">has_jaati</data></edge>
+    <edge id="e583" source="raga:madhmad-sarang" target="rasa:veer"><data key="type">has_rasa</data></edge>
+    <edge id="e584" source="raga:madhmad-sarang" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e585" source="raga:madhmad-sarang" target="prakriti:bold"><data key="type">has_prakriti</data></edge>
+    <edge id="e586" source="raga:madhmad-sarang" target="prakriti:dynamic"><data key="type">has_prakriti</data></edge>
+    <edge id="e587" source="raga:madhmad-sarang" target="swar:R"><data key="type">vadi_swar</data></edge>
+    <edge id="e588" source="raga:madhmad-sarang" target="swar:P"><data key="type">samvadi_swar</data></edge>
+    <edge id="e589" source="raga:madhukauns" target="thaat:bhairavi"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e590" source="raga:madhukauns" target="prahar:7"><data key="type">performed_in</data></edge>
+    <edge id="e591" source="raga:madhukauns" target="jaati:audav-audav"><data key="type">has_jaati</data></edge>
+    <edge id="e592" source="raga:madhukauns" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e593" source="raga:madhukauns" target="rasa:karuna"><data key="type">has_rasa</data></edge>
+    <edge id="e594" source="raga:madhukauns" target="prakriti:sweet"><data key="type">has_prakriti</data></edge>
+    <edge id="e595" source="raga:madhukauns" target="prakriti:romantic-sadness"><data key="type">has_prakriti</data></edge>
+    <edge id="e596" source="raga:madhukauns" target="swar:m"><data key="type">vadi_swar</data></edge>
+    <edge id="e597" source="raga:madhukauns" target="swar:S"><data key="type">samvadi_swar</data></edge>
+    <edge id="e598" source="raga:madhuvanti" target="thaat:todi"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e599" source="raga:madhuvanti" target="prahar:4"><data key="type">performed_in</data></edge>
+    <edge id="e600" source="raga:madhuvanti" target="jaati:audav-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e601" source="raga:madhuvanti" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e602" source="raga:madhuvanti" target="rasa:karuna"><data key="type">has_rasa</data></edge>
+    <edge id="e603" source="raga:madhuvanti" target="prakriti:sweet"><data key="type">has_prakriti</data></edge>
+    <edge id="e604" source="raga:madhuvanti" target="prakriti:yearning"><data key="type">has_prakriti</data></edge>
+    <edge id="e605" source="raga:madhuvanti" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e606" source="raga:madhuvanti" target="swar:P"><data key="type">vadi_swar</data></edge>
+    <edge id="e607" source="raga:madhuvanti" target="swar:S"><data key="type">samvadi_swar</data></edge>
+    <edge id="e608" source="raga:malgunji" target="thaat:kafi"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e609" source="raga:malgunji" target="prahar:7"><data key="type">performed_in</data></edge>
+    <edge id="e610" source="raga:malgunji" target="jaati:audav-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e611" source="raga:malgunji" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e612" source="raga:malgunji" target="rasa:karuna"><data key="type">has_rasa</data></edge>
+    <edge id="e613" source="raga:malgunji" target="prakriti:romantic"><data key="type">has_prakriti</data></edge>
+    <edge id="e614" source="raga:malgunji" target="prakriti:pensive"><data key="type">has_prakriti</data></edge>
+    <edge id="e615" source="raga:malgunji" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e616" source="raga:malgunji" target="swar:S"><data key="type">vadi_swar</data></edge>
+    <edge id="e617" source="raga:malgunji" target="swar:m"><data key="type">samvadi_swar</data></edge>
+    <edge id="e618" source="raga:malkauns" target="thaat:bhairavi"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e619" source="raga:malkauns" target="prahar:7"><data key="type">performed_in</data></edge>
+    <edge id="e620" source="raga:malkauns" target="jaati:audav-audav"><data key="type">has_jaati</data></edge>
+    <edge id="e621" source="raga:malkauns" target="rasa:gambhir"><data key="type">has_rasa</data></edge>
+    <edge id="e622" source="raga:malkauns" target="rasa:veer"><data key="type">has_rasa</data></edge>
+    <edge id="e623" source="raga:malkauns" target="prakriti:serious"><data key="type">has_prakriti</data></edge>
+    <edge id="e624" source="raga:malkauns" target="prakriti:meditative"><data key="type">has_prakriti</data></edge>
+    <edge id="e625" source="raga:malkauns" target="prakriti:majestic"><data key="type">has_prakriti</data></edge>
+    <edge id="e626" source="raga:malkauns" target="swar:m"><data key="type">vadi_swar</data></edge>
+    <edge id="e627" source="raga:malkauns" target="swar:S"><data key="type">samvadi_swar</data></edge>
+    <edge id="e628" source="raga:mand" target="thaat:bilawal"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e629" source="raga:mand" target="prahar:any"><data key="type">performed_in</data></edge>
+    <edge id="e630" source="raga:mand" target="jaati:sampurna-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e631" source="raga:mand" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e632" source="raga:mand" target="rasa:joyful"><data key="type">has_rasa</data></edge>
+    <edge id="e633" source="raga:mand" target="prakriti:folk-based"><data key="type">has_prakriti</data></edge>
+    <edge id="e634" source="raga:mand" target="prakriti:light"><data key="type">has_prakriti</data></edge>
+    <edge id="e635" source="raga:mand" target="prakriti:cheerful"><data key="type">has_prakriti</data></edge>
+    <edge id="e636" source="raga:mand" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e637" source="raga:mand" target="swar:S"><data key="type">vadi_swar</data></edge>
+    <edge id="e638" source="raga:mand" target="swar:P"><data key="type">samvadi_swar</data></edge>
+    <edge id="e639" source="raga:mand" target="raga:pahadi"><data key="type">samaprakritic</data></edge>
+    <edge id="e640" source="raga:mand" target="raga:bhupali"><data key="type">samaprakritic</data></edge>
+    <edge id="e641" source="raga:maru-bihag" target="thaat:kalyan"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e642" source="raga:maru-bihag" target="prahar:6"><data key="type">performed_in</data></edge>
+    <edge id="e643" source="raga:maru-bihag" target="jaati:audav-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e644" source="raga:maru-bihag" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e645" source="raga:maru-bihag" target="rasa:karuna"><data key="type">has_rasa</data></edge>
+    <edge id="e646" source="raga:maru-bihag" target="prakriti:intense-romance"><data key="type">has_prakriti</data></edge>
+    <edge id="e647" source="raga:maru-bihag" target="prakriti:pleading"><data key="type">has_prakriti</data></edge>
+    <edge id="e648" source="raga:maru-bihag" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e649" source="raga:maru-bihag" target="swar:G"><data key="type">vadi_swar</data></edge>
+    <edge id="e650" source="raga:maru-bihag" target="swar:N"><data key="type">samvadi_swar</data></edge>
+    <edge id="e651" source="raga:marwa" target="thaat:marwa"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e652" source="raga:marwa" target="prahar:4"><data key="type">performed_in</data></edge>
+    <edge id="e653" source="raga:marwa" target="jaati:shadav-shadav"><data key="type">has_jaati</data></edge>
+    <edge id="e654" source="raga:marwa" target="rasa:shanti"><data key="type">has_rasa</data></edge>
+    <edge id="e655" source="raga:marwa" target="rasa:vairagya"><data key="type">has_rasa</data></edge>
+    <edge id="e656" source="raga:marwa" target="prakriti:anxious"><data key="type">has_prakriti</data></edge>
+    <edge id="e657" source="raga:marwa" target="prakriti:somber"><data key="type">has_prakriti</data></edge>
+    <edge id="e658" source="raga:marwa" target="prakriti:philosophical"><data key="type">has_prakriti</data></edge>
+    <edge id="e659" source="raga:marwa" target="ritu:winter"><data key="type">associated_with_season</data></edge>
+    <edge id="e660" source="raga:marwa" target="swar:r"><data key="type">vadi_swar</data></edge>
+    <edge id="e661" source="raga:marwa" target="swar:D"><data key="type">samvadi_swar</data></edge>
+    <edge id="e662" source="raga:marwa" target="raga:puriya"><data key="type">samaprakritic</data></edge>
+    <edge id="e663" source="raga:marwa" target="raga:sohani"><data key="type">samaprakritic</data></edge>
+    <edge id="e664" source="raga:megh" target="thaat:kafi"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e665" source="raga:megh" target="prahar:any"><data key="type">performed_in</data></edge>
+    <edge id="e666" source="raga:megh" target="jaati:audav-audav"><data key="type">has_jaati</data></edge>
+    <edge id="e667" source="raga:megh" target="rasa:veer"><data key="type">has_rasa</data></edge>
+    <edge id="e668" source="raga:megh" target="rasa:shanti"><data key="type">has_rasa</data></edge>
+    <edge id="e669" source="raga:megh" target="prakriti:anticipation-of-rain"><data key="type">has_prakriti</data></edge>
+    <edge id="e670" source="raga:megh" target="prakriti:soothing"><data key="type">has_prakriti</data></edge>
+    <edge id="e671" source="raga:megh" target="swar:S"><data key="type">vadi_swar</data></edge>
+    <edge id="e672" source="raga:megh" target="swar:P"><data key="type">samvadi_swar</data></edge>
+    <edge id="e673" source="raga:miyan-ki-malhar" target="thaat:kafi"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e674" source="raga:miyan-ki-malhar" target="prahar:6"><data key="type">performed_in</data></edge>
+    <edge id="e675" source="raga:miyan-ki-malhar" target="jaati:sampurna-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e676" source="raga:miyan-ki-malhar" target="rasa:gambhir"><data key="type">has_rasa</data></edge>
+    <edge id="e677" source="raga:miyan-ki-malhar" target="rasa:shanti"><data key="type">has_rasa</data></edge>
+    <edge id="e678" source="raga:miyan-ki-malhar" target="ritu:monsoon"><data key="type">associated_with_season</data></edge>
+    <edge id="e679" source="raga:miyan-ki-malhar" target="swar:m"><data key="type">vadi_swar</data></edge>
+    <edge id="e680" source="raga:miyan-ki-malhar" target="swar:S"><data key="type">samvadi_swar</data></edge>
+    <edge id="e681" source="raga:miyan-ki-todi" target="thaat:todi"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e682" source="raga:miyan-ki-todi" target="prahar:2"><data key="type">performed_in</data></edge>
+    <edge id="e683" source="raga:miyan-ki-todi" target="jaati:sampurna-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e684" source="raga:miyan-ki-todi" target="rasa:karuna"><data key="type">has_rasa</data></edge>
+    <edge id="e685" source="raga:miyan-ki-todi" target="rasa:gambhir"><data key="type">has_rasa</data></edge>
+    <edge id="e686" source="raga:miyan-ki-todi" target="prakriti:deep-pathos"><data key="type">has_prakriti</data></edge>
+    <edge id="e687" source="raga:miyan-ki-todi" target="prakriti:pleading"><data key="type">has_prakriti</data></edge>
+    <edge id="e688" source="raga:miyan-ki-todi" target="ritu:winter"><data key="type">associated_with_season</data></edge>
+    <edge id="e689" source="raga:miyan-ki-todi" target="swar:d"><data key="type">vadi_swar</data></edge>
+    <edge id="e690" source="raga:miyan-ki-todi" target="swar:g"><data key="type">samvadi_swar</data></edge>
+    <edge id="e691" source="raga:miyan-ki-todi" target="raga:gujari-todi"><data key="type">samaprakritic</data></edge>
+    <edge id="e692" source="raga:multani" target="thaat:todi"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e693" source="raga:multani" target="prahar:4"><data key="type">performed_in</data></edge>
+    <edge id="e694" source="raga:multani" target="jaati:audav-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e695" source="raga:multani" target="rasa:karuna"><data key="type">has_rasa</data></edge>
+    <edge id="e696" source="raga:multani" target="rasa:vairagya"><data key="type">has_rasa</data></edge>
+    <edge id="e697" source="raga:multani" target="prakriti:pensive"><data key="type">has_prakriti</data></edge>
+    <edge id="e698" source="raga:multani" target="prakriti:longing"><data key="type">has_prakriti</data></edge>
+    <edge id="e699" source="raga:multani" target="ritu:summer"><data key="type">associated_with_season</data></edge>
+    <edge id="e700" source="raga:multani" target="swar:P"><data key="type">vadi_swar</data></edge>
+    <edge id="e701" source="raga:multani" target="swar:S"><data key="type">samvadi_swar</data></edge>
+    <edge id="e702" source="raga:nand" target="thaat:kalyan"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e703" source="raga:nand" target="prahar:6"><data key="type">performed_in</data></edge>
+    <edge id="e704" source="raga:nand" target="jaati:shadav-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e705" source="raga:nand" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e706" source="raga:nand" target="rasa:shanti"><data key="type">has_rasa</data></edge>
+    <edge id="e707" source="raga:nand" target="prakriti:peaceful"><data key="type">has_prakriti</data></edge>
+    <edge id="e708" source="raga:nand" target="prakriti:pleasing"><data key="type">has_prakriti</data></edge>
+    <edge id="e709" source="raga:nand" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e710" source="raga:nand" target="swar:P"><data key="type">vadi_swar</data></edge>
+    <edge id="e711" source="raga:nand" target="swar:S"><data key="type">samvadi_swar</data></edge>
+    <edge id="e712" source="raga:nand" target="raga:bihag"><data key="type">samaprakritic</data></edge>
+    <edge id="e713" source="raga:nand" target="raga:kamod"><data key="type">samaprakritic</data></edge>
+    <edge id="e714" source="raga:nat-bhairav" target="thaat:bhairav"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e715" source="raga:nat-bhairav" target="prahar:1"><data key="type">performed_in</data></edge>
+    <edge id="e716" source="raga:nat-bhairav" target="jaati:sampurna-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e717" source="raga:nat-bhairav" target="rasa:veer"><data key="type">has_rasa</data></edge>
+    <edge id="e718" source="raga:nat-bhairav" target="rasa:bhakti"><data key="type">has_rasa</data></edge>
+    <edge id="e719" source="raga:nat-bhairav" target="prakriti:heroic"><data key="type">has_prakriti</data></edge>
+    <edge id="e720" source="raga:nat-bhairav" target="prakriti:devotional"><data key="type">has_prakriti</data></edge>
+    <edge id="e721" source="raga:nat-bhairav" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e722" source="raga:nat-bhairav" target="swar:R"><data key="type">vadi_swar</data></edge>
+    <edge id="e723" source="raga:nat-bhairav" target="swar:P"><data key="type">samvadi_swar</data></edge>
+    <edge id="e724" source="raga:nat-bhairav" target="raga:ahir-bhairav"><data key="type">samaprakritic</data></edge>
+    <edge id="e725" source="raga:nayaki-kanada" target="thaat:kafi"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e726" source="raga:nayaki-kanada" target="prahar:6"><data key="type">performed_in</data></edge>
+    <edge id="e727" source="raga:nayaki-kanada" target="jaati:shadav-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e728" source="raga:nayaki-kanada" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e729" source="raga:nayaki-kanada" target="rasa:karuna"><data key="type">has_rasa</data></edge>
+    <edge id="e730" source="raga:nayaki-kanada" target="prakriti:romantic"><data key="type">has_prakriti</data></edge>
+    <edge id="e731" source="raga:nayaki-kanada" target="prakriti:pleading"><data key="type">has_prakriti</data></edge>
+    <edge id="e732" source="raga:nayaki-kanada" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e733" source="raga:nayaki-kanada" target="swar:m"><data key="type">vadi_swar</data></edge>
+    <edge id="e734" source="raga:nayaki-kanada" target="swar:S"><data key="type">samvadi_swar</data></edge>
+    <edge id="e735" source="raga:nayaki-kanada" target="raga:suha-kanada"><data key="type">samaprakritic</data></edge>
+    <edge id="e736" source="raga:pahadi" target="thaat:bilawal"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e737" source="raga:pahadi" target="prahar:any"><data key="type">performed_in</data></edge>
+    <edge id="e738" source="raga:pahadi" target="jaati:audav-audav-often"><data key="type">has_jaati</data></edge>
+    <edge id="e739" source="raga:pahadi" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e740" source="raga:pahadi" target="rasa:shanti"><data key="type">has_rasa</data></edge>
+    <edge id="e741" source="raga:pahadi" target="prakriti:folk-based"><data key="type">has_prakriti</data></edge>
+    <edge id="e742" source="raga:pahadi" target="prakriti:light"><data key="type">has_prakriti</data></edge>
+    <edge id="e743" source="raga:pahadi" target="prakriti:sweet"><data key="type">has_prakriti</data></edge>
+    <edge id="e744" source="raga:pahadi" target="swar:S"><data key="type">vadi_swar</data></edge>
+    <edge id="e745" source="raga:pahadi" target="swar:P"><data key="type">samvadi_swar</data></edge>
+    <edge id="e746" source="raga:palasi" target="thaat:kafi"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e747" source="raga:palasi" target="prahar:4"><data key="type">performed_in</data></edge>
+    <edge id="e748" source="raga:palasi" target="jaati:audav-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e749" source="raga:palasi" target="rasa:karuna"><data key="type">has_rasa</data></edge>
+    <edge id="e750" source="raga:palasi" target="prakriti:pensive"><data key="type">has_prakriti</data></edge>
+    <edge id="e751" source="raga:palasi" target="prakriti:longing"><data key="type">has_prakriti</data></edge>
+    <edge id="e752" source="raga:palasi" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e753" source="raga:palasi" target="swar:m"><data key="type">vadi_swar</data></edge>
+    <edge id="e754" source="raga:palasi" target="swar:S"><data key="type">samvadi_swar</data></edge>
+    <edge id="e755" source="raga:paraj" target="thaat:poorvi"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e756" source="raga:paraj" target="prahar:8"><data key="type">performed_in</data></edge>
+    <edge id="e757" source="raga:paraj" target="jaati:sampurna-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e758" source="raga:paraj" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e759" source="raga:paraj" target="rasa:joyful"><data key="type">has_rasa</data></edge>
+    <edge id="e760" source="raga:paraj" target="prakriti:romantic"><data key="type">has_prakriti</data></edge>
+    <edge id="e761" source="raga:paraj" target="prakriti:celebratory"><data key="type">has_prakriti</data></edge>
+    <edge id="e762" source="raga:paraj" target="ritu:spring"><data key="type">associated_with_season</data></edge>
+    <edge id="e763" source="raga:paraj" target="swar:P"><data key="type">vadi_swar</data></edge>
+    <edge id="e764" source="raga:paraj" target="swar:r"><data key="type">samvadi_swar</data></edge>
+    <edge id="e765" source="raga:paraj" target="raga:basant"><data key="type">samaprakritic</data></edge>
+    <edge id="e766" source="raga:patdeep" target="thaat:kafi"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e767" source="raga:patdeep" target="prahar:4"><data key="type">performed_in</data></edge>
+    <edge id="e768" source="raga:patdeep" target="jaati:audav-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e769" source="raga:patdeep" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e770" source="raga:patdeep" target="rasa:karuna"><data key="type">has_rasa</data></edge>
+    <edge id="e771" source="raga:patdeep" target="prakriti:gentle-sadness"><data key="type">has_prakriti</data></edge>
+    <edge id="e772" source="raga:patdeep" target="prakriti:yearning"><data key="type">has_prakriti</data></edge>
+    <edge id="e773" source="raga:patdeep" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e774" source="raga:patdeep" target="swar:P"><data key="type">vadi_swar</data></edge>
+    <edge id="e775" source="raga:patdeep" target="swar:S"><data key="type">samvadi_swar</data></edge>
+    <edge id="e776" source="raga:pilu" target="thaat:kafi"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e777" source="raga:pilu" target="prahar:4"><data key="type">performed_in</data></edge>
+    <edge id="e778" source="raga:pilu" target="jaati:audav-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e779" source="raga:pilu" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e780" source="raga:pilu" target="rasa:karuna"><data key="type">has_rasa</data></edge>
+    <edge id="e781" source="raga:pilu" target="prakriti:light"><data key="type">has_prakriti</data></edge>
+    <edge id="e782" source="raga:pilu" target="prakriti:romantic"><data key="type">has_prakriti</data></edge>
+    <edge id="e783" source="raga:pilu" target="prakriti:sad"><data key="type">has_prakriti</data></edge>
+    <edge id="e784" source="raga:pilu" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e785" source="raga:pilu" target="swar:G"><data key="type">vadi_swar</data></edge>
+    <edge id="e786" source="raga:pilu" target="swar:N"><data key="type">samvadi_swar</data></edge>
+    <edge id="e787" source="raga:poorvi" target="thaat:poorvi"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e788" source="raga:poorvi" target="prahar:5"><data key="type">performed_in</data></edge>
+    <edge id="e789" source="raga:poorvi" target="jaati:sampurna-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e790" source="raga:poorvi" target="rasa:bhakti"><data key="type">has_rasa</data></edge>
+    <edge id="e791" source="raga:poorvi" target="rasa:gambhir"><data key="type">has_rasa</data></edge>
+    <edge id="e792" source="raga:poorvi" target="prakriti:devotional"><data key="type">has_prakriti</data></edge>
+    <edge id="e793" source="raga:poorvi" target="prakriti:pensive"><data key="type">has_prakriti</data></edge>
+    <edge id="e794" source="raga:poorvi" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e795" source="raga:poorvi" target="swar:G"><data key="type">vadi_swar</data></edge>
+    <edge id="e796" source="raga:poorvi" target="swar:N"><data key="type">samvadi_swar</data></edge>
+    <edge id="e797" source="raga:poorvi" target="raga:puriya-dhanashree"><data key="type">samaprakritic</data></edge>
+    <edge id="e798" source="raga:poorvi" target="raga:shree"><data key="type">samaprakritic</data></edge>
+    <edge id="e799" source="raga:puriya" target="thaat:marwa"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e800" source="raga:puriya" target="prahar:5"><data key="type">performed_in</data></edge>
+    <edge id="e801" source="raga:puriya" target="jaati:shadav-shadav"><data key="type">has_jaati</data></edge>
+    <edge id="e802" source="raga:puriya" target="rasa:shanti"><data key="type">has_rasa</data></edge>
+    <edge id="e803" source="raga:puriya" target="rasa:gambhir"><data key="type">has_rasa</data></edge>
+    <edge id="e804" source="raga:puriya" target="prakriti:mystical"><data key="type">has_prakriti</data></edge>
+    <edge id="e805" source="raga:puriya" target="prakriti:pensive"><data key="type">has_prakriti</data></edge>
+    <edge id="e806" source="raga:puriya" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e807" source="raga:puriya" target="swar:G"><data key="type">vadi_swar</data></edge>
+    <edge id="e808" source="raga:puriya" target="swar:N"><data key="type">samvadi_swar</data></edge>
+    <edge id="e809" source="raga:puriya" target="raga:marwa"><data key="type">samaprakritic</data></edge>
+    <edge id="e810" source="raga:puriya" target="raga:sohani"><data key="type">samaprakritic</data></edge>
+    <edge id="e811" source="raga:puriya-dhanashree" target="thaat:poorvi"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e812" source="raga:puriya-dhanashree" target="prahar:4"><data key="type">performed_in</data></edge>
+    <edge id="e813" source="raga:puriya-dhanashree" target="jaati:sampurna-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e814" source="raga:puriya-dhanashree" target="rasa:karuna"><data key="type">has_rasa</data></edge>
+    <edge id="e815" source="raga:puriya-dhanashree" target="rasa:bhakti"><data key="type">has_rasa</data></edge>
+    <edge id="e816" source="raga:puriya-dhanashree" target="prakriti:sweet"><data key="type">has_prakriti</data></edge>
+    <edge id="e817" source="raga:puriya-dhanashree" target="prakriti:devotional"><data key="type">has_prakriti</data></edge>
+    <edge id="e818" source="raga:puriya-dhanashree" target="prakriti:pensive"><data key="type">has_prakriti</data></edge>
+    <edge id="e819" source="raga:puriya-dhanashree" target="ritu:autumn"><data key="type">associated_with_season</data></edge>
+    <edge id="e820" source="raga:puriya-dhanashree" target="swar:P"><data key="type">vadi_swar</data></edge>
+    <edge id="e821" source="raga:puriya-dhanashree" target="swar:r"><data key="type">samvadi_swar</data></edge>
+    <edge id="e822" source="raga:puriya-dhanashree" target="raga:basant"><data key="type">samaprakritic</data></edge>
+    <edge id="e823" source="raga:puriya-dhanashree" target="raga:shree"><data key="type">samaprakritic</data></edge>
+    <edge id="e824" source="raga:rageshri" target="thaat:khamaj"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e825" source="raga:rageshri" target="prahar:6"><data key="type">performed_in</data></edge>
+    <edge id="e826" source="raga:rageshri" target="jaati:audav-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e827" source="raga:rageshri" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e828" source="raga:rageshri" target="rasa:shanti"><data key="type">has_rasa</data></edge>
+    <edge id="e829" source="raga:rageshri" target="prakriti:romantic"><data key="type">has_prakriti</data></edge>
+    <edge id="e830" source="raga:rageshri" target="prakriti:peaceful"><data key="type">has_prakriti</data></edge>
+    <edge id="e831" source="raga:rageshri" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e832" source="raga:rageshri" target="swar:G"><data key="type">vadi_swar</data></edge>
+    <edge id="e833" source="raga:rageshri" target="swar:n"><data key="type">samvadi_swar</data></edge>
+    <edge id="e834" source="raga:ramkali" target="thaat:bhairav"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e835" source="raga:ramkali" target="prahar:1"><data key="type">performed_in</data></edge>
+    <edge id="e836" source="raga:ramkali" target="jaati:sampurna-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e837" source="raga:ramkali" target="rasa:bhakti"><data key="type">has_rasa</data></edge>
+    <edge id="e838" source="raga:ramkali" target="rasa:gambhir"><data key="type">has_rasa</data></edge>
+    <edge id="e839" source="raga:ramkali" target="prakriti:devotional"><data key="type">has_prakriti</data></edge>
+    <edge id="e840" source="raga:ramkali" target="prakriti:sober"><data key="type">has_prakriti</data></edge>
+    <edge id="e841" source="raga:ramkali" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e842" source="raga:ramkali" target="swar:P"><data key="type">vadi_swar</data></edge>
+    <edge id="e843" source="raga:ramkali" target="swar:r"><data key="type">samvadi_swar</data></edge>
+    <edge id="e844" source="raga:ramkali" target="raga:bhairav"><data key="type">samaprakritic</data></edge>
+    <edge id="e845" source="raga:ramkali" target="raga:kalingda"><data key="type">samaprakritic</data></edge>
+    <edge id="e846" source="raga:salag-varali" target="thaat:marwa"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e847" source="raga:salag-varali" target="prahar:3"><data key="type">performed_in</data></edge>
+    <edge id="e848" source="raga:salag-varali" target="jaati:audav-audav"><data key="type">has_jaati</data></edge>
+    <edge id="e849" source="raga:salag-varali" target="rasa:veer"><data key="type">has_rasa</data></edge>
+    <edge id="e850" source="raga:salag-varali" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e851" source="raga:salag-varali" target="prakriti:bright"><data key="type">has_prakriti</data></edge>
+    <edge id="e852" source="raga:salag-varali" target="prakriti:playful"><data key="type">has_prakriti</data></edge>
+    <edge id="e853" source="raga:salag-varali" target="swar:P"><data key="type">vadi_swar</data></edge>
+    <edge id="e854" source="raga:salag-varali" target="swar:r"><data key="type">samvadi_swar</data></edge>
+    <edge id="e855" source="raga:saraswati" target="thaat:kalyan"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e856" source="raga:saraswati" target="prahar:5"><data key="type">performed_in</data></edge>
+    <edge id="e857" source="raga:saraswati" target="jaati:audav-audav"><data key="type">has_jaati</data></edge>
+    <edge id="e858" source="raga:saraswati" target="rasa:bhakti"><data key="type">has_rasa</data></edge>
+    <edge id="e859" source="raga:saraswati" target="rasa:shanti"><data key="type">has_rasa</data></edge>
+    <edge id="e860" source="raga:saraswati" target="prakriti:devotional"><data key="type">has_prakriti</data></edge>
+    <edge id="e861" source="raga:saraswati" target="prakriti:intellectual"><data key="type">has_prakriti</data></edge>
+    <edge id="e862" source="raga:saraswati" target="swar:R"><data key="type">vadi_swar</data></edge>
+    <edge id="e863" source="raga:saraswati" target="swar:P"><data key="type">samvadi_swar</data></edge>
+    <edge id="e864" source="raga:shahana-kanada" target="thaat:kafi"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e865" source="raga:shahana-kanada" target="prahar:7"><data key="type">performed_in</data></edge>
+    <edge id="e866" source="raga:shahana-kanada" target="jaati:sampurna-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e867" source="raga:shahana-kanada" target="rasa:gambhir"><data key="type">has_rasa</data></edge>
+    <edge id="e868" source="raga:shahana-kanada" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e869" source="raga:shahana-kanada" target="prakriti:majestic"><data key="type">has_prakriti</data></edge>
+    <edge id="e870" source="raga:shahana-kanada" target="prakriti:romantic"><data key="type">has_prakriti</data></edge>
+    <edge id="e871" source="raga:shahana-kanada" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e872" source="raga:shahana-kanada" target="swar:P"><data key="type">vadi_swar</data></edge>
+    <edge id="e873" source="raga:shahana-kanada" target="swar:R"><data key="type">samvadi_swar</data></edge>
+    <edge id="e874" source="raga:shahana-kanada" target="raga:nayaki-kanada"><data key="type">samaprakritic</data></edge>
+    <edge id="e875" source="raga:shankara" target="thaat:bilawal"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e876" source="raga:shankara" target="prahar:6"><data key="type">performed_in</data></edge>
+    <edge id="e877" source="raga:shankara" target="jaati:audav-shadav"><data key="type">has_jaati</data></edge>
+    <edge id="e878" source="raga:shankara" target="rasa:veer"><data key="type">has_rasa</data></edge>
+    <edge id="e879" source="raga:shankara" target="rasa:joyful"><data key="type">has_rasa</data></edge>
+    <edge id="e880" source="raga:shankara" target="prakriti:heroic"><data key="type">has_prakriti</data></edge>
+    <edge id="e881" source="raga:shankara" target="prakriti:majestic"><data key="type">has_prakriti</data></edge>
+    <edge id="e882" source="raga:shankara" target="swar:G"><data key="type">vadi_swar</data></edge>
+    <edge id="e883" source="raga:shankara" target="swar:N"><data key="type">samvadi_swar</data></edge>
+    <edge id="e884" source="raga:shree" target="thaat:poorvi"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e885" source="raga:shree" target="prahar:5"><data key="type">performed_in</data></edge>
+    <edge id="e886" source="raga:shree" target="jaati:audav-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e887" source="raga:shree" target="rasa:gambhir"><data key="type">has_rasa</data></edge>
+    <edge id="e888" source="raga:shree" target="rasa:bhakti"><data key="type">has_rasa</data></edge>
+    <edge id="e889" source="raga:shree" target="prakriti:majestic"><data key="type">has_prakriti</data></edge>
+    <edge id="e890" source="raga:shree" target="prakriti:devotional"><data key="type">has_prakriti</data></edge>
+    <edge id="e891" source="raga:shree" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e892" source="raga:shree" target="swar:r"><data key="type">vadi_swar</data></edge>
+    <edge id="e893" source="raga:shree" target="swar:P"><data key="type">samvadi_swar</data></edge>
+    <edge id="e894" source="raga:shuddha-bilawal" target="thaat:bilawal"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e895" source="raga:shuddha-bilawal" target="prahar:2"><data key="type">performed_in</data></edge>
+    <edge id="e896" source="raga:shuddha-bilawal" target="jaati:sampurna-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e897" source="raga:shuddha-bilawal" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e898" source="raga:shuddha-bilawal" target="rasa:joyful"><data key="type">has_rasa</data></edge>
+    <edge id="e899" source="raga:shuddha-bilawal" target="prakriti:pure"><data key="type">has_prakriti</data></edge>
+    <edge id="e900" source="raga:shuddha-bilawal" target="prakriti:bright"><data key="type">has_prakriti</data></edge>
+    <edge id="e901" source="raga:shuddha-bilawal" target="prakriti:cheerful"><data key="type">has_prakriti</data></edge>
+    <edge id="e902" source="raga:shuddha-bilawal" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e903" source="raga:shuddha-bilawal" target="swar:D"><data key="type">vadi_swar</data></edge>
+    <edge id="e904" source="raga:shuddha-bilawal" target="swar:G"><data key="type">samvadi_swar</data></edge>
+    <edge id="e905" source="raga:shuddha-bilawal" target="raga:alhaiya-bilawal"><data key="type">samaprakritic</data></edge>
+    <edge id="e906" source="raga:shuddha-kalyan" target="thaat:kalyan"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e907" source="raga:shuddha-kalyan" target="prahar:5"><data key="type">performed_in</data></edge>
+    <edge id="e908" source="raga:shuddha-kalyan" target="jaati:audav-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e909" source="raga:shuddha-kalyan" target="rasa:shanti"><data key="type">has_rasa</data></edge>
+    <edge id="e910" source="raga:shuddha-kalyan" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e911" source="raga:shuddha-kalyan" target="prakriti:peaceful"><data key="type">has_prakriti</data></edge>
+    <edge id="e912" source="raga:shuddha-kalyan" target="prakriti:romantic"><data key="type">has_prakriti</data></edge>
+    <edge id="e913" source="raga:shuddha-kalyan" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e914" source="raga:shuddha-kalyan" target="swar:G"><data key="type">vadi_swar</data></edge>
+    <edge id="e915" source="raga:shuddha-kalyan" target="swar:D"><data key="type">samvadi_swar</data></edge>
+    <edge id="e916" source="raga:shuddha-sarang" target="thaat:kalyan"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e917" source="raga:shuddha-sarang" target="prahar:3"><data key="type">performed_in</data></edge>
+    <edge id="e918" source="raga:shuddha-sarang" target="jaati:audav-audav"><data key="type">has_jaati</data></edge>
+    <edge id="e919" source="raga:shuddha-sarang" target="rasa:veer"><data key="type">has_rasa</data></edge>
+    <edge id="e920" source="raga:shuddha-sarang" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e921" source="raga:shuddha-sarang" target="prakriti:bright"><data key="type">has_prakriti</data></edge>
+    <edge id="e922" source="raga:shuddha-sarang" target="prakriti:powerful"><data key="type">has_prakriti</data></edge>
+    <edge id="e923" source="raga:shuddha-sarang" target="swar:R"><data key="type">vadi_swar</data></edge>
+    <edge id="e924" source="raga:shuddha-sarang" target="swar:P"><data key="type">samvadi_swar</data></edge>
+    <edge id="e925" source="raga:shyam-kalyan" target="thaat:kalyan"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e926" source="raga:shyam-kalyan" target="prahar:5"><data key="type">performed_in</data></edge>
+    <edge id="e927" source="raga:shyam-kalyan" target="jaati:audav-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e928" source="raga:shyam-kalyan" target="rasa:bhakti"><data key="type">has_rasa</data></edge>
+    <edge id="e929" source="raga:shyam-kalyan" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e930" source="raga:shyam-kalyan" target="prakriti:devotional"><data key="type">has_prakriti</data></edge>
+    <edge id="e931" source="raga:shyam-kalyan" target="prakriti:romantic"><data key="type">has_prakriti</data></edge>
+    <edge id="e932" source="raga:shyam-kalyan" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e933" source="raga:shyam-kalyan" target="swar:P"><data key="type">vadi_swar</data></edge>
+    <edge id="e934" source="raga:shyam-kalyan" target="swar:S"><data key="type">samvadi_swar</data></edge>
+    <edge id="e935" source="raga:sindhura" target="thaat:kafi"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e936" source="raga:sindhura" target="prahar:4"><data key="type">performed_in</data></edge>
+    <edge id="e937" source="raga:sindhura" target="jaati:sampurna-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e938" source="raga:sindhura" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e939" source="raga:sindhura" target="prakriti:light"><data key="type">has_prakriti</data></edge>
+    <edge id="e940" source="raga:sindhura" target="prakriti:romantic"><data key="type">has_prakriti</data></edge>
+    <edge id="e941" source="raga:sindhura" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e942" source="raga:sindhura" target="swar:R"><data key="type">vadi_swar</data></edge>
+    <edge id="e943" source="raga:sindhura" target="swar:P"><data key="type">samvadi_swar</data></edge>
+    <edge id="e944" source="raga:sindhura" target="raga:barwa"><data key="type">samaprakritic</data></edge>
+    <edge id="e945" source="raga:sindhura" target="raga:kafi"><data key="type">samaprakritic</data></edge>
+    <edge id="e946" source="raga:sohani" target="thaat:marwa"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e947" source="raga:sohani" target="prahar:8"><data key="type">performed_in</data></edge>
+    <edge id="e948" source="raga:sohani" target="jaati:audav-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e949" source="raga:sohani" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e950" source="raga:sohani" target="rasa:viyog"><data key="type">has_rasa</data></edge>
+    <edge id="e951" source="raga:sohani" target="prakriti:longing"><data key="type">has_prakriti</data></edge>
+    <edge id="e952" source="raga:sohani" target="prakriti:separation"><data key="type">has_prakriti</data></edge>
+    <edge id="e953" source="raga:sohani" target="ritu:winter"><data key="type">associated_with_season</data></edge>
+    <edge id="e954" source="raga:sohani" target="swar:D"><data key="type">vadi_swar</data></edge>
+    <edge id="e955" source="raga:sohani" target="swar:G"><data key="type">samvadi_swar</data></edge>
+    <edge id="e956" source="raga:sorath" target="thaat:khamaj"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e957" source="raga:sorath" target="prahar:6"><data key="type">performed_in</data></edge>
+    <edge id="e958" source="raga:sorath" target="jaati:audav-shadav"><data key="type">has_jaati</data></edge>
+    <edge id="e959" source="raga:sorath" target="rasa:bhakti"><data key="type">has_rasa</data></edge>
+    <edge id="e960" source="raga:sorath" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e961" source="raga:sorath" target="prakriti:devotional"><data key="type">has_prakriti</data></edge>
+    <edge id="e962" source="raga:sorath" target="prakriti:romantic"><data key="type">has_prakriti</data></edge>
+    <edge id="e963" source="raga:sorath" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e964" source="raga:sorath" target="swar:R"><data key="type">vadi_swar</data></edge>
+    <edge id="e965" source="raga:sorath" target="swar:D"><data key="type">samvadi_swar</data></edge>
+    <edge id="e966" source="raga:sorath" target="raga:des"><data key="type">samaprakritic</data></edge>
+    <edge id="e967" source="raga:suha-kanada" target="thaat:kafi"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e968" source="raga:suha-kanada" target="prahar:6"><data key="type">performed_in</data></edge>
+    <edge id="e969" source="raga:suha-kanada" target="jaati:shadav-shadav"><data key="type">has_jaati</data></edge>
+    <edge id="e970" source="raga:suha-kanada" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e971" source="raga:suha-kanada" target="rasa:karuna"><data key="type">has_rasa</data></edge>
+    <edge id="e972" source="raga:suha-kanada" target="prakriti:tender"><data key="type">has_prakriti</data></edge>
+    <edge id="e973" source="raga:suha-kanada" target="prakriti:romantic-sadness"><data key="type">has_prakriti</data></edge>
+    <edge id="e974" source="raga:suha-kanada" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e975" source="raga:suha-kanada" target="swar:R"><data key="type">vadi_swar</data></edge>
+    <edge id="e976" source="raga:suha-kanada" target="swar:P"><data key="type">samvadi_swar</data></edge>
+    <edge id="e977" source="raga:suha-kanada" target="raga:nayaki-kanada"><data key="type">samaprakritic</data></edge>
+    <edge id="e978" source="raga:sur-malhar" target="thaat:kafi"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e979" source="raga:sur-malhar" target="prahar:any"><data key="type">performed_in</data></edge>
+    <edge id="e980" source="raga:sur-malhar" target="jaati:shadav-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e981" source="raga:sur-malhar" target="rasa:veer"><data key="type">has_rasa</data></edge>
+    <edge id="e982" source="raga:sur-malhar" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e983" source="raga:sur-malhar" target="prakriti:majestic-rain"><data key="type">has_prakriti</data></edge>
+    <edge id="e984" source="raga:sur-malhar" target="ritu:monsoon"><data key="type">associated_with_season</data></edge>
+    <edge id="e985" source="raga:sur-malhar" target="swar:m"><data key="type">vadi_swar</data></edge>
+    <edge id="e986" source="raga:sur-malhar" target="swar:S"><data key="type">samvadi_swar</data></edge>
+    <edge id="e987" source="raga:sur-malhar" target="raga:miyan-ki-malhar"><data key="type">samaprakritic</data></edge>
+    <edge id="e988" source="raga:surdasi-malhar" target="thaat:kafi"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e989" source="raga:surdasi-malhar" target="prahar:any"><data key="type">performed_in</data></edge>
+    <edge id="e990" source="raga:surdasi-malhar" target="jaati:audav-audav"><data key="type">has_jaati</data></edge>
+    <edge id="e991" source="raga:surdasi-malhar" target="rasa:bhakti"><data key="type">has_rasa</data></edge>
+    <edge id="e992" source="raga:surdasi-malhar" target="rasa:joyful"><data key="type">has_rasa</data></edge>
+    <edge id="e993" source="raga:surdasi-malhar" target="prakriti:devotional"><data key="type">has_prakriti</data></edge>
+    <edge id="e994" source="raga:surdasi-malhar" target="prakriti:welcoming-rain"><data key="type">has_prakriti</data></edge>
+    <edge id="e995" source="raga:surdasi-malhar" target="swar:m"><data key="type">vadi_swar</data></edge>
+    <edge id="e996" source="raga:surdasi-malhar" target="swar:S"><data key="type">samvadi_swar</data></edge>
+    <edge id="e997" source="raga:tilak-kamod" target="thaat:khamaj"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e998" source="raga:tilak-kamod" target="prahar:6"><data key="type">performed_in</data></edge>
+    <edge id="e999" source="raga:tilak-kamod" target="jaati:audav-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e1000" source="raga:tilak-kamod" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e1001" source="raga:tilak-kamod" target="rasa:chanchal"><data key="type">has_rasa</data></edge>
+    <edge id="e1002" source="raga:tilak-kamod" target="prakriti:light"><data key="type">has_prakriti</data></edge>
+    <edge id="e1003" source="raga:tilak-kamod" target="prakriti:playful"><data key="type">has_prakriti</data></edge>
+    <edge id="e1004" source="raga:tilak-kamod" target="prakriti:romantic"><data key="type">has_prakriti</data></edge>
+    <edge id="e1005" source="raga:tilak-kamod" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e1006" source="raga:tilak-kamod" target="swar:R"><data key="type">vadi_swar</data></edge>
+    <edge id="e1007" source="raga:tilak-kamod" target="swar:P"><data key="type">samvadi_swar</data></edge>
+    <edge id="e1008" source="raga:tilang" target="thaat:khamaj"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e1009" source="raga:tilang" target="prahar:6"><data key="type">performed_in</data></edge>
+    <edge id="e1010" source="raga:tilang" target="jaati:audav-audav"><data key="type">has_jaati</data></edge>
+    <edge id="e1011" source="raga:tilang" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e1012" source="raga:tilang" target="rasa:chanchal"><data key="type">has_rasa</data></edge>
+    <edge id="e1013" source="raga:tilang" target="prakriti:romantic"><data key="type">has_prakriti</data></edge>
+    <edge id="e1014" source="raga:tilang" target="prakriti:light"><data key="type">has_prakriti</data></edge>
+    <edge id="e1015" source="raga:tilang" target="swar:G"><data key="type">vadi_swar</data></edge>
+    <edge id="e1016" source="raga:tilang" target="swar:N"><data key="type">samvadi_swar</data></edge>
+    <edge id="e1017" source="raga:todi" target="thaat:todi"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e1018" source="raga:todi" target="prahar:2"><data key="type">performed_in</data></edge>
+    <edge id="e1019" source="raga:todi" target="jaati:sampurna-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e1020" source="raga:todi" target="rasa:karuna"><data key="type">has_rasa</data></edge>
+    <edge id="e1021" source="raga:todi" target="rasa:vairagya"><data key="type">has_rasa</data></edge>
+    <edge id="e1022" source="raga:todi" target="prakriti:pleading"><data key="type">has_prakriti</data></edge>
+    <edge id="e1023" source="raga:todi" target="prakriti:intense"><data key="type">has_prakriti</data></edge>
+    <edge id="e1024" source="raga:todi" target="prakriti:somber"><data key="type">has_prakriti</data></edge>
+    <edge id="e1025" source="raga:todi" target="ritu:winter"><data key="type">associated_with_season</data></edge>
+    <edge id="e1026" source="raga:todi" target="swar:d"><data key="type">vadi_swar</data></edge>
+    <edge id="e1027" source="raga:todi" target="swar:g"><data key="type">samvadi_swar</data></edge>
+    <edge id="e1028" source="raga:todi" target="raga:multani"><data key="type">samaprakritic</data></edge>
+    <edge id="e1029" source="raga:todi" target="raga:gujari-todi"><data key="type">samaprakritic</data></edge>
+    <edge id="e1030" source="raga:vachaspati" target="thaat:kalyan"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e1031" source="raga:vachaspati" target="prahar:6"><data key="type">performed_in</data></edge>
+    <edge id="e1032" source="raga:vachaspati" target="jaati:sampurna-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e1033" source="raga:vachaspati" target="rasa:gambhir"><data key="type">has_rasa</data></edge>
+    <edge id="e1034" source="raga:vachaspati" target="rasa:bhakti"><data key="type">has_rasa</data></edge>
+    <edge id="e1035" source="raga:vachaspati" target="prakriti:intellectual"><data key="type">has_prakriti</data></edge>
+    <edge id="e1036" source="raga:vachaspati" target="prakriti:meditative"><data key="type">has_prakriti</data></edge>
+    <edge id="e1037" source="raga:vachaspati" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e1038" source="raga:vachaspati" target="swar:P"><data key="type">vadi_swar</data></edge>
+    <edge id="e1039" source="raga:vachaspati" target="swar:S"><data key="type">samvadi_swar</data></edge>
+    <edge id="e1040" source="raga:vachaspati" target="raga:kirwani"><data key="type">samaprakritic</data></edge>
+    <edge id="e1041" source="raga:vibhas" target="thaat:marwa"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e1042" source="raga:vibhas" target="prahar:1"><data key="type">performed_in</data></edge>
+    <edge id="e1043" source="raga:vibhas" target="jaati:audav-audav"><data key="type">has_jaati</data></edge>
+    <edge id="e1044" source="raga:vibhas" target="rasa:shanti"><data key="type">has_rasa</data></edge>
+    <edge id="e1045" source="raga:vibhas" target="rasa:veer"><data key="type">has_rasa</data></edge>
+    <edge id="e1046" source="raga:vibhas" target="prakriti:bright"><data key="type">has_prakriti</data></edge>
+    <edge id="e1047" source="raga:vibhas" target="prakriti:heroic"><data key="type">has_prakriti</data></edge>
+    <edge id="e1048" source="raga:vibhas" target="swar:D"><data key="type">vadi_swar</data></edge>
+    <edge id="e1049" source="raga:vibhas" target="swar:r"><data key="type">samvadi_swar</data></edge>
+    <edge id="e1050" source="raga:yaman" target="thaat:kalyan"><data key="type">belongs_to_thaat</data></edge>
+    <edge id="e1051" source="raga:yaman" target="prahar:5"><data key="type">performed_in</data></edge>
+    <edge id="e1052" source="raga:yaman" target="jaati:sampurna-sampurna"><data key="type">has_jaati</data></edge>
+    <edge id="e1053" source="raga:yaman" target="rasa:shringar"><data key="type">has_rasa</data></edge>
+    <edge id="e1054" source="raga:yaman" target="rasa:bhakti"><data key="type">has_rasa</data></edge>
+    <edge id="e1055" source="raga:yaman" target="prakriti:peaceful"><data key="type">has_prakriti</data></edge>
+    <edge id="e1056" source="raga:yaman" target="prakriti:majestic"><data key="type">has_prakriti</data></edge>
+    <edge id="e1057" source="raga:yaman" target="prakriti:romantic"><data key="type">has_prakriti</data></edge>
+    <edge id="e1058" source="raga:yaman" target="ritu:all"><data key="type">associated_with_season</data></edge>
+    <edge id="e1059" source="raga:yaman" target="swar:G"><data key="type">vadi_swar</data></edge>
+    <edge id="e1060" source="raga:yaman" target="swar:N"><data key="type">samvadi_swar</data></edge>
+    <edge id="e1061" source="raga:yaman" target="raga:bhupali"><data key="type">samaprakritic</data></edge>
+    <edge id="e1062" source="raga:yaman" target="raga:shuddha-kalyan"><data key="type">samaprakritic</data></edge>
+  </graph>
+</graphml>

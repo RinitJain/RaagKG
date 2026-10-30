@@ -1,0 +1,2450 @@
+[
+ {
+  "raga": "Abhogi",
+  "thaat": "Kafi",
+  "aroha": "S R g m D S'",
+  "avaroha": "S' D m g R S",
+  "vadi": "S",
+  "samvadi": "m",
+  "pakad": "g m D S', D m g R S",
+  "jaati": "Audav-Audav",
+  "prahar": "Mid Night (9PM-12AM)",
+  "prahar_slot": "6",
+  "rasa": [
+   "Veer",
+   "Bhakti"
+  ],
+  "prakriti": [
+   "Powerful",
+   "Devotional"
+  ],
+  "ritu": "",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Adana",
+  "thaat": "Asavari",
+  "aroha": "S R g m P, d n S'",
+  "avaroha": "S' d n P, m P g R S",
+  "vadi": "S'",
+  "samvadi": "g",
+  "pakad": "S R g m P, d n P, g m R S",
+  "jaati": "Shadav-Shadav",
+  "prahar": "Late Night (12AM-3AM)",
+  "prahar_slot": "7",
+  "rasa": [
+   "Veer",
+   "Joyful"
+  ],
+  "prakriti": [
+   "Heroic",
+   "Energetic"
+  ],
+  "ritu": "all",
+  "samaprakritic": [
+   "Darbari Kanada",
+   "Suha Kanada"
+  ],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Ahir Bhairav",
+  "thaat": "Bhairav",
+  "aroha": "S r G m P D n S'",
+  "avaroha": "S' n D P m G r S",
+  "vadi": "m",
+  "samvadi": "S",
+  "pakad": "S, r G m, (G)r, S",
+  "jaati": "Sampurna-Sampurna",
+  "prahar": "Early Morning (6AM-9AM)",
+  "prahar_slot": "1",
+  "rasa": [
+   "Bhakti",
+   "Shanti"
+  ],
+  "prakriti": [
+   "Devotional",
+   "Serene",
+   "Peaceful"
+  ],
+  "ritu": "all",
+  "samaprakritic": [
+   "Bhairav",
+   "Kalingda"
+  ],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Alhaiya Bilawal",
+  "thaat": "Bilawal",
+  "aroha": "S R G P, D N S'",
+  "avaroha": "S' N D P, D n D P, m G, R S",
+  "vadi": "D",
+  "samvadi": "G",
+  "pakad": "G R G P, D N S', N D P",
+  "jaati": "Shadav-Sampurna",
+  "prahar": "Late Morning (9AM-12PM)",
+  "prahar_slot": "2",
+  "rasa": [
+   "Shringar",
+   "Bhakti"
+  ],
+  "prakriti": [
+   "Joyful",
+   "Romantic"
+  ],
+  "ritu": "all",
+  "samaprakritic": [
+   "Gaud Sarang"
+  ],
+  "samaprakritic_unresolved": [
+   "Bilawal"
+  ]
+ },
+ {
+  "raga": "Asavari",
+  "thaat": "Asavari",
+  "aroha": "S R m P d S'",
+  "avaroha": "S' n d P m g R S",
+  "vadi": "d",
+  "samvadi": "g",
+  "pakad": "R m P, 'n 'd S', d m P g, R g R S",
+  "jaati": "Audav-Sampurna",
+  "prahar": "Late Morning (9AM-12PM)",
+  "prahar_slot": "2",
+  "rasa": [
+   "Vairagya",
+   "Karuna"
+  ],
+  "prakriti": [
+   "Detachment",
+   "Melancholy"
+  ],
+  "ritu": "all",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Bageshri",
+  "thaat": "Kafi",
+  "aroha": "S g m D n S'",
+  "avaroha": "S' n D m, P D g, R S",
+  "vadi": "m",
+  "samvadi": "S",
+  "pakad": "S, 'n 'D, 'n S m, g R S",
+  "jaati": "Audav-Sampurna",
+  "prahar": "Mid Night (9PM-12AM)",
+  "prahar_slot": "6",
+  "rasa": [
+   "Shringar",
+   "Karuna"
+  ],
+  "prakriti": [
+   "Romantic",
+   "Longing"
+  ],
+  "ritu": "all",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Bahar",
+  "thaat": "Kafi",
+  "aroha": "n S G m, P G m, n D N S'",
+  "avaroha": "S' n D n P, m P G m, R S",
+  "vadi": "m",
+  "samvadi": "S",
+  "pakad": "m P G m, n D N S'",
+  "jaati": "Shadav-Sampurna",
+  "prahar": "Mid Night (12AM-3AM)",
+  "prahar_slot": "7",
+  "rasa": [
+   "Shringar",
+   "Joyful"
+  ],
+  "prakriti": [
+   "Playful",
+   "Celebratory"
+  ],
+  "ritu": "spring",
+  "samaprakritic": [
+   "Miyan Ki Malhar",
+   "Shahana Kanada"
+  ],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Barwa",
+  "thaat": "Kafi",
+  "aroha": "S R g R m P D n D S'",
+  "avaroha": "S' n D P m g R S",
+  "vadi": "R",
+  "samvadi": "P",
+  "pakad": "R g R m P D P",
+  "jaati": "Sampurna-Sampurna",
+  "prahar": "Late Afternoon (3-6pm)",
+  "prahar_slot": "4",
+  "rasa": [
+   "Shringar"
+  ],
+  "prakriti": [
+   "Playful",
+   "Romantic"
+  ],
+  "ritu": "all",
+  "samaprakritic": [
+   "Sindhura"
+  ],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Basant",
+  "thaat": "Poorvi",
+  "aroha": "S G M' d N S'",
+  "avaroha": "S' N d P, M' G r S",
+  "vadi": "S'",
+  "samvadi": "P",
+  "pakad": "M' G r S, 'd 'N S",
+  "jaati": "Audav-Sampurna",
+  "prahar": "Late Night / Spring Season",
+  "prahar_slot": "7",
+  "rasa": [
+   "Shringar",
+   "Joyful"
+  ],
+  "prakriti": [
+   "Celebratory",
+   "Playful"
+  ],
+  "ritu": "spring",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Bhairav",
+  "thaat": "Bhairav",
+  "aroha": "S r G m P d N S'",
+  "avaroha": "S' N d P m G r S",
+  "vadi": "d",
+  "samvadi": "r",
+  "pakad": "G m r S, d P",
+  "jaati": "Sampurna-Sampurna",
+  "prahar": "Early Morning (6AM-9AM)",
+  "prahar_slot": "1",
+  "rasa": [
+   "Bhakti",
+   "Shanti"
+  ],
+  "prakriti": [
+   "Devotional",
+   "Grave",
+   "Peaceful"
+  ],
+  "ritu": "all",
+  "samaprakritic": [
+   "Ramkali",
+   "Kalingda"
+  ],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Bhairavi",
+  "thaat": "Bhairavi",
+  "aroha": "S r g m P d n S'",
+  "avaroha": "S' n d P m g r S",
+  "vadi": "m or P",
+  "samvadi": "S",
+  "pakad": "m g r S, 'd 'n S'",
+  "jaati": "Sampurna-Sampurna",
+  "prahar": "Early Morning (6AM-9AM)",
+  "prahar_slot": "1",
+  "rasa": [
+   "Bhakti",
+   "Karuna"
+  ],
+  "prakriti": [
+   "Devotional",
+   "Poignant",
+   "Soothing"
+  ],
+  "ritu": "all",
+  "samaprakritic": [
+   "Bilaskhani Todi"
+  ],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Bhatiyar",
+  "thaat": "Marwa",
+  "aroha": "S M', P M' G, r S, 'N D' S",
+  "avaroha": "S' N D P M' G, r S",
+  "vadi": "m",
+  "samvadi": "S",
+  "pakad": "P M' G r S, D' S",
+  "jaati": "Sampurna-Sampurna",
+  "prahar": "Dawn (3AM-6AM)",
+  "prahar_slot": "8",
+  "rasa": [
+   "Bhakti",
+   "Karuna"
+  ],
+  "prakriti": [
+   "Devotional",
+   "Pensive"
+  ],
+  "ritu": "all",
+  "samaprakritic": [
+   "Mand"
+  ],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Bhimpalasi",
+  "thaat": "Kafi",
+  "aroha": "n S g m P n S'",
+  "avaroha": "S' n D P m g R S",
+  "vadi": "m",
+  "samvadi": "S",
+  "pakad": "n S m, m P g, R S",
+  "jaati": "Audav-Sampurna",
+  "prahar": "Late Afternoon (3PM-6PM)",
+  "prahar_slot": "4",
+  "rasa": [
+   "Shringar",
+   "Karuna"
+  ],
+  "prakriti": [
+   "Romantic",
+   "Yearning",
+   "Sweet"
+  ],
+  "ritu": "all",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Bhupali",
+  "thaat": "Kalyan",
+  "aroha": "S R G P D S'",
+  "avaroha": "S' D P G R S",
+  "vadi": "G",
+  "samvadi": "D",
+  "pakad": "G R S, 'D S R G, P G D P G R S",
+  "jaati": "Audav-Audav",
+  "prahar": "First Quarter of Night (6PM-9PM)",
+  "prahar_slot": "5",
+  "rasa": [
+   "Bhakti",
+   "Shanti"
+  ],
+  "prakriti": [
+   "Peaceful",
+   "Devotional",
+   "Meditative"
+  ],
+  "ritu": "",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Bibhas (Bhairav Ang)",
+  "thaat": "Bhairav",
+  "aroha": "S r G P d S'",
+  "avaroha": "S' d P G r S",
+  "vadi": "d",
+  "samvadi": "r",
+  "pakad": "G P d, P G r S",
+  "jaati": "Audav-Audav",
+  "prahar": "Early Morning (6AM-9AM)",
+  "prahar_slot": "1",
+  "rasa": [
+   "Shanti",
+   "Bhakti"
+  ],
+  "prakriti": [
+   "Peaceful",
+   "Devotional"
+  ],
+  "ritu": "",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Bihag",
+  "thaat": "Bilawal",
+  "aroha": "N S G m P N S'",
+  "avaroha": "S' N D P, M' P G m G, R S",
+  "vadi": "G",
+  "samvadi": "N",
+  "pakad": "N S G m P",
+  "jaati": "Audav-Sampurna",
+  "prahar": "First Quarter of Night (9PM-12AM)",
+  "prahar_slot": "6",
+  "rasa": [
+   "Shringar",
+   "Shanti"
+  ],
+  "prakriti": [
+   "Romantic",
+   "Peaceful"
+  ],
+  "ritu": "all",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Bihagda",
+  "thaat": "Kalyan",
+  "aroha": "N S G m P D P, N S'",
+  "avaroha": "S' N D P, M' G m R S",
+  "vadi": "G",
+  "samvadi": "N",
+  "pakad": "P N S' G' m' R' S', S' N D P",
+  "jaati": "Shadav-Sampurna",
+  "prahar": "Mid Night (9PM-12AM)",
+  "prahar_slot": "6",
+  "rasa": [
+   "Shringar",
+   "Karuna"
+  ],
+  "prakriti": [
+   "Romantic",
+   "Serious"
+  ],
+  "ritu": "all",
+  "samaprakritic": [
+   "Bihag",
+   "Hamir"
+  ],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Bilaskhani Todi",
+  "thaat": "Bhairavi",
+  "aroha": "S r g P d S'",
+  "avaroha": "S' r' n d P, d m g r S",
+  "vadi": "d",
+  "samvadi": "g",
+  "pakad": "r g P, d, m g r S",
+  "jaati": "Audav-Sampurna",
+  "prahar": "Late Morning (9AM-12PM)",
+  "prahar_slot": "2",
+  "rasa": [
+   "Karuna",
+   "Gambhir"
+  ],
+  "prakriti": [
+   "Pathos",
+   "Grave"
+  ],
+  "ritu": "all",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Brindabani Sarang",
+  "thaat": "Kafi",
+  "aroha": "N' S R m P N S'",
+  "avaroha": "S' n P m R S",
+  "vadi": "R",
+  "samvadi": "P",
+  "pakad": "N' S R m, R P, m R S",
+  "jaati": "Audav-Audav",
+  "prahar": "Mid-day (12PM-3PM)",
+  "prahar_slot": "3",
+  "rasa": [
+   "Shringar",
+   "Joyful"
+  ],
+  "prakriti": [
+   "Playful",
+   "Romantic"
+  ],
+  "ritu": "",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Chandrakauns",
+  "thaat": "Bhairavi",
+  "aroha": "S g m d N S'",
+  "avaroha": "S' N d m g S",
+  "vadi": "m",
+  "samvadi": "S",
+  "pakad": "g m d N S', N d m g S",
+  "jaati": "Audav-Audav",
+  "prahar": "Late Night (12AM-3AM)",
+  "prahar_slot": "7",
+  "rasa": [
+   "Gambhir",
+   "Shanti"
+  ],
+  "prakriti": [
+   "Meditative",
+   "Mysterious"
+  ],
+  "ritu": "",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Charukeshi",
+  "thaat": "Asavari",
+  "aroha": "S R G m P d n S'",
+  "avaroha": "S' n d P m G R S",
+  "vadi": "S",
+  "samvadi": "P",
+  "pakad": "d n S' R G m P",
+  "jaati": "Sampurna-Sampurna",
+  "prahar": "Late Night (10pm-1am)",
+  "prahar_slot": "6",
+  "rasa": [
+   "Karuna",
+   "Shringar"
+  ],
+  "prakriti": [
+   "Deeply emotional",
+   "Romantic sadness"
+  ],
+  "ritu": "all",
+  "samaprakritic": [
+   "Kirwani"
+  ],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Chhayanat",
+  "thaat": "Kalyan",
+  "aroha": "S R G m P, P D N S'",
+  "avaroha": "S' N D P, M' P G m R S",
+  "vadi": "P",
+  "samvadi": "R",
+  "pakad": "R G m P, G m R S",
+  "jaati": "Sampurna-Sampurna",
+  "prahar": "First Quarter of Night (9PM-12AM)",
+  "prahar_slot": "6",
+  "rasa": [
+   "Shanti",
+   "Gambhir"
+  ],
+  "prakriti": [
+   "Peaceful",
+   "Sober"
+  ],
+  "ritu": "all",
+  "samaprakritic": [
+   "Kedar",
+   "Kamod"
+  ],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Darbari Kanada",
+  "thaat": "Asavari",
+  "aroha": "S R g m P d n S'",
+  "avaroha": "S' d n P, m P g, m R S",
+  "vadi": "R",
+  "samvadi": "P",
+  "pakad": "d 'n P, m P g, m R S",
+  "jaati": "Sampurna-Sampurna",
+  "prahar": "Late Night (9PM-12AM)",
+  "prahar_slot": "6",
+  "rasa": [
+   "Gambhir",
+   "Karuna"
+  ],
+  "prakriti": [
+   "Sober",
+   "Majestic",
+   "Ponderous"
+  ],
+  "ritu": "all",
+  "samaprakritic": [
+   "Adana",
+   "Jaunpuri"
+  ],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Des",
+  "thaat": "Khamaj",
+  "aroha": "N S R m P N S'",
+  "avaroha": "S' n D P, m G R G 'N S",
+  "vadi": "R",
+  "samvadi": "P",
+  "pakad": "R m P, n D P, m G R",
+  "jaati": "Audav-Sampurna",
+  "prahar": "Second Quarter of Night (9PM-12PM)",
+  "prahar_slot": "6",
+  "rasa": [
+   "Shringar",
+   "Bhakti"
+  ],
+  "prakriti": [
+   "Romantic",
+   "Devotional",
+   "Patriotic"
+  ],
+  "ritu": "monsoon",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Deshkar",
+  "thaat": "Kalyan",
+  "aroha": "S R G P D S'",
+  "avaroha": "S' D P G R S",
+  "vadi": "D",
+  "samvadi": "G",
+  "pakad": "G P D, P G, R S",
+  "jaati": "Audav-Audav",
+  "prahar": "Early Morning (6AM-9AM)",
+  "prahar_slot": "1",
+  "rasa": [
+   "Veer",
+   "Joyful"
+  ],
+  "prakriti": [
+   "Heroic",
+   "Bright"
+  ],
+  "ritu": "",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Desi",
+  "thaat": "Asavari",
+  "aroha": "S R m P n S'",
+  "avaroha": "S' n d P m g R S",
+  "vadi": "P",
+  "samvadi": "R",
+  "pakad": "P n' S' R' n d P",
+  "jaati": "Audav-Sampurna",
+  "prahar": "Late Morning (9-12am)",
+  "prahar_slot": "2",
+  "rasa": [
+   "Karuna",
+   "Shringar"
+  ],
+  "prakriti": [
+   "Melancholy",
+   "Pleading"
+  ],
+  "ritu": "all",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Devgandhar",
+  "thaat": "Asavari",
+  "aroha": "S R g m P d S'",
+  "avaroha": "S' n d P m g R S",
+  "vadi": "m",
+  "samvadi": "S",
+  "pakad": "R g m P, d m P, g R S",
+  "jaati": "Shadav-Sampurna",
+  "prahar": "Late Morning (9-12am)",
+  "prahar_slot": "2",
+  "rasa": [
+   "Bhakti",
+   "Karuna"
+  ],
+  "prakriti": [
+   "Devotional",
+   "Pleading"
+  ],
+  "ritu": "all",
+  "samaprakritic": [
+   "Jaunpuri"
+  ],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Dhani",
+  "thaat": "Kafi",
+  "aroha": "n S g m P n S'",
+  "avaroha": "S' n P m g S",
+  "vadi": "g",
+  "samvadi": "S",
+  "pakad": "S g m P, n P, m g S",
+  "jaati": "Audav-Audav",
+  "prahar": "Late Afternoon (3PM-6PM)",
+  "prahar_slot": "4",
+  "rasa": [
+   "Shringar"
+  ],
+  "prakriti": [
+   "Light",
+   "Romantic"
+  ],
+  "ritu": "",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Durga",
+  "thaat": "Bilawal",
+  "aroha": "S R m P D S'",
+  "avaroha": "S' D P m R S",
+  "vadi": "D",
+  "samvadi": "R",
+  "pakad": "m P D m R, 'D S",
+  "jaati": "Audav-Audav",
+  "prahar": "Second Quarter of Night (9PM-12AM)",
+  "prahar_slot": "6",
+  "rasa": [
+   "Bhakti",
+   "Veer"
+  ],
+  "prakriti": [
+   "Devotional",
+   "Powerful"
+  ],
+  "ritu": "",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Gaud Malhar",
+  "thaat": "Khamaj",
+  "aroha": "S R G m, R P, m D N S'",
+  "avaroha": "S' n D m P, G m R S",
+  "vadi": "m",
+  "samvadi": "S",
+  "pakad": "R G m, R P",
+  "jaati": "Shadav-Sampurna",
+  "prahar": "Rainy Season (any time)",
+  "prahar_slot": "any",
+  "rasa": [
+   "Shringar",
+   "Joyful"
+  ],
+  "prakriti": [
+   "Welcoming Rain",
+   "Festive"
+  ],
+  "ritu": "monsoon",
+  "samaprakritic": [
+   "Miyan Ki Malhar"
+  ],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Gaud Sarang",
+  "thaat": "Kalyan",
+  "aroha": "S G R m G, P M' D P, N S'",
+  "avaroha": "S' D n P, D M' P, G R S",
+  "vadi": "G",
+  "samvadi": "D",
+  "pakad": "S G R m G",
+  "jaati": "Vakra Sampurna",
+  "prahar": "Mid-day (12PM-3PM)",
+  "prahar_slot": "3",
+  "rasa": [
+   "Shringar",
+   "Chanchal"
+  ],
+  "prakriti": [
+   "Playful",
+   "Complex"
+  ],
+  "ritu": "summer",
+  "samaprakritic": [
+   "Brindabani Sarang"
+  ],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Gorakh Kalyan",
+  "thaat": "Khamaj",
+  "aroha": "S R m, P D N S'",
+  "avaroha": "S' N D P m R S",
+  "vadi": "R",
+  "samvadi": "P",
+  "pakad": "S R , m R , 'D 'N S",
+  "jaati": "Shadav-Shadav",
+  "prahar": "Mid Night (9PM-12AM)",
+  "prahar_slot": "6",
+  "rasa": [
+   "Shanti",
+   "Gambhir"
+  ],
+  "prakriti": [
+   "Peaceful",
+   "Mysterious"
+  ],
+  "ritu": "all",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Gujari Todi",
+  "thaat": "Todi",
+  "aroha": "S r g M' d S'",
+  "avaroha": "S' d M' g r S",
+  "vadi": "d",
+  "samvadi": "g",
+  "pakad": "d 'N S r g, r S",
+  "jaati": "Audav-Audav",
+  "prahar": "Late Morning (9AM-12PM)",
+  "prahar_slot": "2",
+  "rasa": [
+   "Karuna",
+   "Bhakti"
+  ],
+  "prakriti": [
+   "Pathos",
+   "Devotional"
+  ],
+  "ritu": "",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Gunkali",
+  "thaat": "Bhairav",
+  "aroha": "S r m P d S'",
+  "avaroha": "S' d P m r S",
+  "vadi": "d",
+  "samvadi": "r",
+  "pakad": "r m P d, m P d, m r S",
+  "jaati": "Audav-Audav",
+  "prahar": "Early Morning (6AM-9AM)",
+  "prahar_slot": "1",
+  "rasa": [
+   "Karuna",
+   "Bhakti"
+  ],
+  "prakriti": [
+   "Sadness",
+   "Devotion"
+  ],
+  "ritu": "",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Hamir",
+  "thaat": "Kalyan",
+  "aroha": "S G m D N S'",
+  "avaroha": "S' N D P, M' P G m R S",
+  "vadi": "D",
+  "samvadi": "G",
+  "pakad": "S G m D, N D, P",
+  "jaati": "Audav-Sampurna",
+  "prahar": "First Quarter of Night (7PM-9PM)",
+  "prahar_slot": "5",
+  "rasa": [
+   "Veer",
+   "Joyful"
+  ],
+  "prakriti": [
+   "Heroic",
+   "Festive"
+  ],
+  "ritu": "all",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Hansadhwani",
+  "thaat": "Bilawal",
+  "aroha": "S R G P N S'",
+  "avaroha": "S' N P G R S",
+  "vadi": "S",
+  "samvadi": "P",
+  "pakad": "R G P N, P G R S",
+  "jaati": "Audav-Audav",
+  "prahar": "First Quarter of Night (7PM-9PM)",
+  "prahar_slot": "5",
+  "rasa": [
+   "Bhakti",
+   "Joyful"
+  ],
+  "prakriti": [
+   "Devotional",
+   "Pleasing"
+  ],
+  "ritu": "",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Hemant",
+  "thaat": "Bhairav",
+  "aroha": "S g m d N S'",
+  "avaroha": "S' N d m g S, 'd 'N S",
+  "vadi": "S",
+  "samvadi": "m",
+  "pakad": "g m d N S'",
+  "jaati": "Audav-Audav",
+  "prahar": "Late Night (12AM-3AM)",
+  "prahar_slot": "7",
+  "rasa": [
+   "Gambhir",
+   "Shanti"
+  ],
+  "prakriti": [
+   "Serious",
+   "Tranquil"
+  ],
+  "ritu": "",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Hindol",
+  "thaat": "Kalyan",
+  "aroha": "S G M' D N S'",
+  "avaroha": "S' N D M' G S",
+  "vadi": "D",
+  "samvadi": "G",
+  "pakad": "S G M' D, N D, M' G S",
+  "jaati": "Audav-Audav",
+  "prahar": "First Quarter of Morning (6AM-9AM)",
+  "prahar_slot": "1",
+  "rasa": [
+   "Shringar",
+   "Joyful"
+  ],
+  "prakriti": [
+   "Playful",
+   "Swinging motion"
+  ],
+  "ritu": "",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Jait",
+  "thaat": "Marwa",
+  "aroha": "S G P G, D P S'",
+  "avaroha": "S' D P G, r S",
+  "vadi": "P",
+  "samvadi": "S",
+  "pakad": "G P D P G, r S",
+  "jaati": "Audav-Audav",
+  "prahar": "Mid-day (12PM-3PM)",
+  "prahar_slot": "3",
+  "rasa": [
+   "Veer",
+   "Shringar"
+  ],
+  "prakriti": [
+   "Bold",
+   "Romantic"
+  ],
+  "ritu": "",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Jait Kalyan",
+  "thaat": "Kalyan",
+  "aroha": "S R G P D S'",
+  "avaroha": "S' N D P G R S",
+  "vadi": "P",
+  "samvadi": "R",
+  "pakad": "G P D P G, R S",
+  "jaati": "Audav-Shadav",
+  "prahar": "First quarter of night (6-9pm)",
+  "prahar_slot": "5",
+  "rasa": [
+   "Shringar"
+  ],
+  "prakriti": [
+   "Peaceful",
+   "Romantic"
+  ],
+  "ritu": "all",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Jaunpuri",
+  "thaat": "Asavari",
+  "aroha": "S R m P d n S'",
+  "avaroha": "S' n d P m g R S",
+  "vadi": "d",
+  "samvadi": "g",
+  "pakad": "m P, n d P, d m P g, R g R S",
+  "jaati": "Shadav-Sampurna",
+  "prahar": "Late Morning (9AM-12PM)",
+  "prahar_slot": "2",
+  "rasa": [
+   "Karuna",
+   "Shringar"
+  ],
+  "prakriti": [
+   "Melancholic",
+   "Romantic"
+  ],
+  "ritu": "all",
+  "samaprakritic": [
+   "Asavari"
+  ],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Jhinjhoti",
+  "thaat": "Khamaj",
+  "aroha": "S R G m P D n S'",
+  "avaroha": "S' n D P m G R S",
+  "vadi": "G",
+  "samvadi": "N",
+  "pakad": "D' n' S R G m, G R S",
+  "jaati": "Sampurna-Sampurna",
+  "prahar": "Second Quarter of Night (9PM-12AM)",
+  "prahar_slot": "6",
+  "rasa": [
+   "Shringar",
+   "Chanchal"
+  ],
+  "prakriti": [
+   "Light",
+   "Romantic",
+   "Playful"
+  ],
+  "ritu": "all",
+  "samaprakritic": [
+   "Khamaj"
+  ],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Jog",
+  "thaat": "Kafi",
+  "aroha": "S g m P n S'",
+  "avaroha": "S' n P m g S, R S",
+  "vadi": "m",
+  "samvadi": "S",
+  "pakad": "g m P n S', n P m g S",
+  "jaati": "Audav-Sampurna",
+  "prahar": "Second Quarter of Night (10PM-1AM)",
+  "prahar_slot": "6",
+  "rasa": [
+   "Karuna",
+   "Shringar"
+  ],
+  "prakriti": [
+   "Pathos",
+   "Intense Longing"
+  ],
+  "ritu": "all",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Jogiya",
+  "thaat": "Bhairav",
+  "aroha": "S r m P d S'",
+  "avaroha": "S' N d P m G r S",
+  "vadi": "S",
+  "samvadi": "m",
+  "pakad": "S r m, P d S'",
+  "jaati": "Audav-Sampurna",
+  "prahar": "Early Morning (6AM-9AM)",
+  "prahar_slot": "1",
+  "rasa": [
+   "Vairagya",
+   "Karuna"
+  ],
+  "prakriti": [
+   "Renunciation",
+   "Sadness"
+  ],
+  "ritu": "all",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Jogkauns",
+  "thaat": "Kafi",
+  "aroha": "S g m P d n S'",
+  "avaroha": "S' n d P m g S",
+  "vadi": "m",
+  "samvadi": "S",
+  "pakad": "g m P d n S'",
+  "jaati": "Sampurna-Sampurna",
+  "prahar": "Late Night (12AM-3AM)",
+  "prahar_slot": "7",
+  "rasa": [
+   "Gambhir",
+   "Karuna"
+  ],
+  "prakriti": [
+   "Serious",
+   "Pensive"
+  ],
+  "ritu": "winter",
+  "samaprakritic": [
+   "Chandrakauns",
+   "Malkauns"
+  ],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Kafi",
+  "thaat": "Kafi",
+  "aroha": "S R g m P D n S'",
+  "avaroha": "S' n D P m g R S",
+  "vadi": "P",
+  "samvadi": "R",
+  "pakad": "S R g m P",
+  "jaati": "Sampurna-Sampurna",
+  "prahar": "Mid Night (9PM-12AM)",
+  "prahar_slot": "6",
+  "rasa": [
+   "Shringar",
+   "Bhakti"
+  ],
+  "prakriti": [
+   "Romantic",
+   "Devotional",
+   "Festive"
+  ],
+  "ritu": "spring",
+  "samaprakritic": [
+   "Bhimpalasi",
+   "Sindhura"
+  ],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Kalawati",
+  "thaat": "Khamaj",
+  "aroha": "S G P D n S'",
+  "avaroha": "S' n D P G S",
+  "vadi": "P",
+  "samvadi": "S",
+  "pakad": "G P D n D P, G S",
+  "jaati": "Audav-Audav",
+  "prahar": "Mid Night (9PM-12AM)",
+  "prahar_slot": "6",
+  "rasa": [
+   "Shringar",
+   "Joyful"
+  ],
+  "prakriti": [
+   "Romantic",
+   "Charming"
+  ],
+  "ritu": "",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Kalingda",
+  "thaat": "Bhairav",
+  "aroha": "S r G m P d N S'",
+  "avaroha": "S' N d P m G r S",
+  "vadi": "P",
+  "samvadi": "S",
+  "pakad": "P d P G m, G r S",
+  "jaati": "Sampurna-Sampurna",
+  "prahar": "Early Morning (6AM-9AM)",
+  "prahar_slot": "1",
+  "rasa": [
+   "Bhakti",
+   "Shanti"
+  ],
+  "prakriti": [
+   "Peaceful",
+   "Prayerful"
+  ],
+  "ritu": "all",
+  "samaprakritic": [
+   "Bhairav",
+   "Ramkali"
+  ],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Kamod",
+  "thaat": "Kalyan",
+  "aroha": "S R P, M' P D N S'",
+  "avaroha": "S' N D P, M' P G m R S",
+  "vadi": "P",
+  "samvadi": "R",
+  "pakad": "G m P, G m R S",
+  "jaati": "Vakra Sampurna",
+  "prahar": "First Quarter of Night (7PM-9PM)",
+  "prahar_slot": "5",
+  "rasa": [
+   "Shringar",
+   "Bhakti"
+  ],
+  "prakriti": [
+   "Romantic",
+   "Complex"
+  ],
+  "ritu": "all",
+  "samaprakritic": [
+   "Kedar",
+   "Chhayanat"
+  ],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Kaunsi Kanada",
+  "thaat": "Asavari",
+  "aroha": "g m d n S', R' S'",
+  "avaroha": "S' n d P m g, R S",
+  "vadi": "m",
+  "samvadi": "S",
+  "pakad": "g m d n S', R' S'",
+  "jaati": "Audav-Sampurna",
+  "prahar": "Late Night (11PM-2AM)",
+  "prahar_slot": "7",
+  "rasa": [
+   "Gambhir",
+   "Karuna"
+  ],
+  "prakriti": [
+   "Serious",
+   "Pensive"
+  ],
+  "ritu": "winter",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Kedar",
+  "thaat": "Kalyan",
+  "aroha": "S M, M P, D P, N D S'",
+  "avaroha": "S' N D P, M P D P M, G P M, R S",
+  "vadi": "S",
+  "samvadi": "P",
+  "pakad": "S M, G P, M R S",
+  "jaati": "Audav-Shadav",
+  "prahar": "First Quarter of Night (7PM-9PM)",
+  "prahar_slot": "5",
+  "rasa": [
+   "Shanti",
+   "Bhakti"
+  ],
+  "prakriti": [
+   "Calm",
+   "Spiritual",
+   "Mysterious"
+  ],
+  "ritu": "all",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Khamaj",
+  "thaat": "Khamaj",
+  "aroha": "S G m P D N S'",
+  "avaroha": "S' n D P m G R S",
+  "vadi": "G",
+  "samvadi": "N",
+  "pakad": "S G m P, D m G",
+  "jaati": "Shadav-Sampurna",
+  "prahar": "Second Quarter of Night (9PM-12AM)",
+  "prahar_slot": "6",
+  "rasa": [
+   "Shringar",
+   "Chanchal"
+  ],
+  "prakriti": [
+   "Romantic",
+   "Playful",
+   "Thumri-ang"
+  ],
+  "ritu": "all",
+  "samaprakritic": [
+   "Jhinjhoti",
+   "Tilang"
+  ],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Kirwani",
+  "thaat": "Asavari",
+  "aroha": "S R g m P d N S'",
+  "avaroha": "S' N d P m g R S",
+  "vadi": "P",
+  "samvadi": "R",
+  "pakad": "d P m g R S, R g m P",
+  "jaati": "Sampurna-Sampurna",
+  "prahar": "Late Night (12AM-3AM)",
+  "prahar_slot": "7",
+  "rasa": [
+   "Karuna",
+   "Shringar"
+  ],
+  "prakriti": [
+   "Intense sadness",
+   "Yearning"
+  ],
+  "ritu": "all",
+  "samaprakritic": [
+   "Bageshri"
+  ],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Lalit",
+  "thaat": "Marwa",
+  "aroha": "N r G m, M' m G, M' d S'",
+  "avaroha": "S' N d P M' G r S",
+  "vadi": "m",
+  "samvadi": "S",
+  "pakad": "N r G, m M' m G",
+  "jaati": "Shadav-Sampurna",
+  "prahar": "Last Quarter of Night (3AM-6AM)",
+  "prahar_slot": "8",
+  "rasa": [
+   "Bhakti",
+   "Karuna"
+  ],
+  "prakriti": [
+   "Pleading",
+   "Devotional",
+   "Intense"
+  ],
+  "ritu": "all",
+  "samaprakritic": [
+   "Puriya",
+   "Marwa"
+  ],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Lankadahan Sarang",
+  "thaat": "Kafi",
+  "aroha": "S R m P N S'",
+  "avaroha": "S' N P m R S",
+  "vadi": "R",
+  "samvadi": "P",
+  "pakad": "S R m P N P m R S",
+  "jaati": "Audav-Audav",
+  "prahar": "Mid-day (12PM-3PM)",
+  "prahar_slot": "3",
+  "rasa": [
+   "Veer"
+  ],
+  "prakriti": [
+   "Dramatic",
+   "Heroic"
+  ],
+  "ritu": "",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Madhmad Sarang",
+  "thaat": "Kafi",
+  "aroha": "S R m P n S'",
+  "avaroha": "S' n P m R S",
+  "vadi": "R",
+  "samvadi": "P",
+  "pakad": "R m P n P, m R S",
+  "jaati": "Audav-Audav",
+  "prahar": "Mid-day (12PM-3PM)",
+  "prahar_slot": "3",
+  "rasa": [
+   "Veer",
+   "Shringar"
+  ],
+  "prakriti": [
+   "Bold",
+   "Dynamic"
+  ],
+  "ritu": "",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Madhukauns",
+  "thaat": "Bhairavi",
+  "aroha": "S g m d N S'",
+  "avaroha": "S' N d m g S",
+  "vadi": "m",
+  "samvadi": "S",
+  "pakad": "g m d N S'",
+  "jaati": "Audav-Audav",
+  "prahar": "Late Night (12AM-3AM)",
+  "prahar_slot": "7",
+  "rasa": [
+   "Shringar",
+   "Karuna"
+  ],
+  "prakriti": [
+   "Sweet",
+   "Romantic sadness"
+  ],
+  "ritu": "",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Madhuvanti",
+  "thaat": "Todi",
+  "aroha": "N S g M' P N S'",
+  "avaroha": "S' N D P M' g R S",
+  "vadi": "P",
+  "samvadi": "S",
+  "pakad": "g M' P N S', D P M' g R S",
+  "jaati": "Audav-Sampurna",
+  "prahar": "Late Afternoon (4PM-7PM)",
+  "prahar_slot": "4",
+  "rasa": [
+   "Shringar",
+   "Karuna"
+  ],
+  "prakriti": [
+   "Sweet",
+   "Yearning"
+  ],
+  "ritu": "all",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Malgunji",
+  "thaat": "Kafi",
+  "aroha": "S g m D n S'",
+  "avaroha": "S' n D P m g R S",
+  "vadi": "S",
+  "samvadi": "m",
+  "pakad": "D' n S g m, g R S",
+  "jaati": "Audav-Sampurna",
+  "prahar": "Late Night (11PM-2AM)",
+  "prahar_slot": "7",
+  "rasa": [
+   "Shringar",
+   "Karuna"
+  ],
+  "prakriti": [
+   "Romantic",
+   "Pensive"
+  ],
+  "ritu": "all",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Malkauns",
+  "thaat": "Bhairavi",
+  "aroha": "n S g m d n S'",
+  "avaroha": "S' n d m g S",
+  "vadi": "m",
+  "samvadi": "S",
+  "pakad": "d 'n S g m, g S",
+  "jaati": "Audav-Audav",
+  "prahar": "Late Night (12AM-3AM)",
+  "prahar_slot": "7",
+  "rasa": [
+   "Gambhir",
+   "Veer"
+  ],
+  "prakriti": [
+   "Serious",
+   "Meditative",
+   "Majestic"
+  ],
+  "ritu": "",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Mand",
+  "thaat": "Bilawal",
+  "aroha": "S R G m P D N S'",
+  "avaroha": "S' N D P m G R S",
+  "vadi": "S",
+  "samvadi": "P",
+  "pakad": "G m D N S', D P m G R S",
+  "jaati": "Sampurna-Sampurna",
+  "prahar": "Any time (Sarvakalik)",
+  "prahar_slot": "any",
+  "rasa": [
+   "Shringar",
+   "Joyful"
+  ],
+  "prakriti": [
+   "Folk-based",
+   "Light",
+   "Cheerful"
+  ],
+  "ritu": "all",
+  "samaprakritic": [
+   "Pahadi",
+   "Bhupali"
+  ],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Maru Bihag",
+  "thaat": "Kalyan",
+  "aroha": "S G M' P N S'",
+  "avaroha": "S' N D P M' G R S",
+  "vadi": "G",
+  "samvadi": "N",
+  "pakad": "G M' P N S', D P M' G R S",
+  "jaati": "Audav-Sampurna",
+  "prahar": "Second Quarter of Night (9PM-12AM)",
+  "prahar_slot": "6",
+  "rasa": [
+   "Shringar",
+   "Karuna"
+  ],
+  "prakriti": [
+   "Intense Romance",
+   "Pleading"
+  ],
+  "ritu": "all",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Marwa",
+  "thaat": "Marwa",
+  "aroha": "N r G M' D N S'",
+  "avaroha": "S' N D M' G r S",
+  "vadi": "r",
+  "samvadi": "D",
+  "pakad": "D M' G r, G M' D, M' G r S",
+  "jaati": "Shadav-Shadav",
+  "prahar": "Late Afternoon / Sunset (4PM-6PM)",
+  "prahar_slot": "4",
+  "rasa": [
+   "Shanti",
+   "Vairagya"
+  ],
+  "prakriti": [
+   "Anxious",
+   "Somber",
+   "Philosophical"
+  ],
+  "ritu": "winter",
+  "samaprakritic": [
+   "Puriya",
+   "Sohani"
+  ],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Megh",
+  "thaat": "Kafi",
+  "aroha": "S R m P n S'",
+  "avaroha": "S' n P m R S",
+  "vadi": "S",
+  "samvadi": "P",
+  "pakad": "R m P n P, m R S",
+  "jaati": "Audav-Audav",
+  "prahar": "Rainy Season (any time)",
+  "prahar_slot": "any",
+  "rasa": [
+   "Veer",
+   "Shanti"
+  ],
+  "prakriti": [
+   "Anticipation of rain",
+   "Soothing"
+  ],
+  "ritu": "",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Miyan Ki Malhar",
+  "thaat": "Kafi",
+  "aroha": "S R g m P D n S'",
+  "avaroha": "S' n D P m g R S",
+  "vadi": "m",
+  "samvadi": "S",
+  "pakad": "R g m, P n D, N S'",
+  "jaati": "Sampurna-Sampurna",
+  "prahar": "Mid Night (Rainy Season)",
+  "prahar_slot": "6",
+  "rasa": [
+   "Gambhir",
+   "Shanti"
+  ],
+  "prakriti": [],
+  "ritu": "monsoon",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Miyan Ki Todi",
+  "thaat": "Todi",
+  "aroha": "S r g M' P d N S'",
+  "avaroha": "S' N d P M' g r S",
+  "vadi": "d",
+  "samvadi": "g",
+  "pakad": "d 'N S r g, r S, P M' g r S",
+  "jaati": "Sampurna-Sampurna",
+  "prahar": "Late Morning (9AM-12PM)",
+  "prahar_slot": "2",
+  "rasa": [
+   "Karuna",
+   "Gambhir"
+  ],
+  "prakriti": [
+   "Deep Pathos",
+   "Pleading"
+  ],
+  "ritu": "winter",
+  "samaprakritic": [
+   "Gujari Todi"
+  ],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Multani",
+  "thaat": "Todi",
+  "aroha": "N S g M' P N S'",
+  "avaroha": "S' N d P M' g r S",
+  "vadi": "P",
+  "samvadi": "S",
+  "pakad": "N S M' g P, M' g r S",
+  "jaati": "Audav-Sampurna",
+  "prahar": "Late Afternoon (3PM-5PM)",
+  "prahar_slot": "4",
+  "rasa": [
+   "Karuna",
+   "Vairagya"
+  ],
+  "prakriti": [
+   "Pensive",
+   "Longing"
+  ],
+  "ritu": "summer",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Nand",
+  "thaat": "Kalyan",
+  "aroha": "S G m P D N S'",
+  "avaroha": "S' N D P, M' P D P, G R S",
+  "vadi": "P",
+  "samvadi": "S",
+  "pakad": "G m D N, D P, M' P G",
+  "jaati": "Shadav-Sampurna",
+  "prahar": "Late Night (9PM-12AM)",
+  "prahar_slot": "6",
+  "rasa": [
+   "Shringar",
+   "Shanti"
+  ],
+  "prakriti": [
+   "Peaceful",
+   "Pleasing"
+  ],
+  "ritu": "all",
+  "samaprakritic": [
+   "Bihag",
+   "Kamod"
+  ],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Nat Bhairav",
+  "thaat": "Bhairav",
+  "aroha": "S R G m P d N S'",
+  "avaroha": "S' N d P m G R S",
+  "vadi": "R",
+  "samvadi": "P",
+  "pakad": "S G m P, G m r r S",
+  "jaati": "Sampurna-Sampurna",
+  "prahar": "Early Morning (6AM-9AM)",
+  "prahar_slot": "1",
+  "rasa": [
+   "Veer",
+   "Bhakti"
+  ],
+  "prakriti": [
+   "Heroic",
+   "Devotional"
+  ],
+  "ritu": "all",
+  "samaprakritic": [
+   "Ahir Bhairav"
+  ],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Nayaki Kanada",
+  "thaat": "Kafi",
+  "aroha": "S R g m P n S'",
+  "avaroha": "S' n P m P g R S",
+  "vadi": "m",
+  "samvadi": "S",
+  "pakad": "R P, g m R S",
+  "jaati": "Shadav-Sampurna",
+  "prahar": "Mid Night (9PM-12AM)",
+  "prahar_slot": "6",
+  "rasa": [
+   "Shringar",
+   "Karuna"
+  ],
+  "prakriti": [
+   "Romantic",
+   "Pleading"
+  ],
+  "ritu": "all",
+  "samaprakritic": [
+   "Suha Kanada"
+  ],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Pahadi",
+  "thaat": "Bilawal",
+  "aroha": "S R G P D S' (varies)",
+  "avaroha": "S' D P G R S (varies)",
+  "vadi": "S",
+  "samvadi": "P",
+  "pakad": "P D S' R' G', R' S' D P",
+  "jaati": "Audav-Audav (often)",
+  "prahar": "Any time (Sarvakalik)",
+  "prahar_slot": "any",
+  "rasa": [
+   "Shringar",
+   "Shanti"
+  ],
+  "prakriti": [
+   "Folk-based",
+   "Light",
+   "Sweet"
+  ],
+  "ritu": "",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Palasi",
+  "thaat": "Kafi",
+  "aroha": "n S g m P n S'",
+  "avaroha": "S' n d P m g R S",
+  "vadi": "m",
+  "samvadi": "S",
+  "pakad": "d P m g, R g m P",
+  "jaati": "Audav-Sampurna",
+  "prahar": "Late Afternoon (3-6pm)",
+  "prahar_slot": "4",
+  "rasa": [
+   "Karuna"
+  ],
+  "prakriti": [
+   "Pensive",
+   "Longing"
+  ],
+  "ritu": "all",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Paraj",
+  "thaat": "Poorvi",
+  "aroha": "N S G M' P D N S'",
+  "avaroha": "S' N d P, M' P d G, M' G r S",
+  "vadi": "P",
+  "samvadi": "r",
+  "pakad": "N S G M' P",
+  "jaati": "Sampurna-Sampurna",
+  "prahar": "Last Quarter of Night (3AM-6AM)",
+  "prahar_slot": "8",
+  "rasa": [
+   "Shringar",
+   "Joyful"
+  ],
+  "prakriti": [
+   "Romantic",
+   "Celebratory"
+  ],
+  "ritu": "spring",
+  "samaprakritic": [
+   "Basant"
+  ],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Patdeep",
+  "thaat": "Kafi",
+  "aroha": "N S g m P N S'",
+  "avaroha": "S' N D P m g R S",
+  "vadi": "P",
+  "samvadi": "S",
+  "pakad": "N S g m P, D P, m g R S",
+  "jaati": "Audav-Sampurna",
+  "prahar": "Late Afternoon (3PM-6PM)",
+  "prahar_slot": "4",
+  "rasa": [
+   "Shringar",
+   "Karuna"
+  ],
+  "prakriti": [
+   "Gentle sadness",
+   "Yearning"
+  ],
+  "ritu": "all",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Pilu",
+  "thaat": "Kafi",
+  "aroha": "S G m P N S'",
+  "avaroha": "S' n D P m G R S",
+  "vadi": "G",
+  "samvadi": "N",
+  "pakad": "N S G m P",
+  "jaati": "Audav-Sampurna",
+  "prahar": "Late Afternoon (3PM-6PM)",
+  "prahar_slot": "4",
+  "rasa": [
+   "Shringar",
+   "Karuna"
+  ],
+  "prakriti": [
+   "Light",
+   "Romantic",
+   "Sad"
+  ],
+  "ritu": "all",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Poorvi",
+  "thaat": "Poorvi",
+  "aroha": "N r G M' d N S'",
+  "avaroha": "S' N d P M' G r S",
+  "vadi": "G",
+  "samvadi": "N",
+  "pakad": "N r G, M' d P, M' G r S",
+  "jaati": "Sampurna-Sampurna",
+  "prahar": "Sunset (6PM-9PM)",
+  "prahar_slot": "5",
+  "rasa": [
+   "Bhakti",
+   "Gambhir"
+  ],
+  "prakriti": [
+   "Devotional",
+   "Pensive"
+  ],
+  "ritu": "all",
+  "samaprakritic": [
+   "Puriya Dhanashree",
+   "Shree"
+  ],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Puriya",
+  "thaat": "Marwa",
+  "aroha": "N r G M' D N S'",
+  "avaroha": "S' N D M' G r S",
+  "vadi": "G",
+  "samvadi": "N",
+  "pakad": "N r G, M' D, N D, M' G r S",
+  "jaati": "Shadav-Shadav",
+  "prahar": "Sunset (6PM-9PM)",
+  "prahar_slot": "5",
+  "rasa": [
+   "Shanti",
+   "Gambhir"
+  ],
+  "prakriti": [
+   "Mystical",
+   "Pensive"
+  ],
+  "ritu": "all",
+  "samaprakritic": [
+   "Marwa",
+   "Sohani"
+  ],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Puriya Dhanashree",
+  "thaat": "Poorvi",
+  "aroha": "N r G M' P D N S'",
+  "avaroha": "S' N D P M' G r S",
+  "vadi": "P",
+  "samvadi": "r",
+  "pakad": "N r G, M' P, D P, M' G M' r S",
+  "jaati": "Sampurna-Sampurna",
+  "prahar": "Late Afternoon / Sunset (4PM-6PM)",
+  "prahar_slot": "4",
+  "rasa": [
+   "Karuna",
+   "Bhakti"
+  ],
+  "prakriti": [
+   "Sweet",
+   "Devotional",
+   "Pensive"
+  ],
+  "ritu": "autumn",
+  "samaprakritic": [
+   "Basant",
+   "Shree"
+  ],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Rageshri",
+  "thaat": "Khamaj",
+  "aroha": "S G m D n S'",
+  "avaroha": "S' n D m G R S",
+  "vadi": "G",
+  "samvadi": "n",
+  "pakad": "D' n S G m, G R S",
+  "jaati": "Audav-Sampurna",
+  "prahar": "Second Quarter of Night (9PM-12AM)",
+  "prahar_slot": "6",
+  "rasa": [
+   "Shringar",
+   "Shanti"
+  ],
+  "prakriti": [
+   "Romantic",
+   "Peaceful"
+  ],
+  "ritu": "all",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Ramkali",
+  "thaat": "Bhairav",
+  "aroha": "S G m P d N S'",
+  "avaroha": "S' N d P M' G r S",
+  "vadi": "P",
+  "samvadi": "r",
+  "pakad": "P d N S', N d P, M' P G m",
+  "jaati": "Sampurna-Sampurna",
+  "prahar": "Early Morning (6AM-9AM)",
+  "prahar_slot": "1",
+  "rasa": [
+   "Bhakti",
+   "Gambhir"
+  ],
+  "prakriti": [
+   "Devotional",
+   "Sober"
+  ],
+  "ritu": "all",
+  "samaprakritic": [
+   "Bhairav",
+   "Kalingda"
+  ],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Salag Varali",
+  "thaat": "Marwa",
+  "aroha": "S r M' P D S'",
+  "avaroha": "S' D P M' r S",
+  "vadi": "P",
+  "samvadi": "r",
+  "pakad": "S r M' P",
+  "jaati": "Audav-Audav",
+  "prahar": "Mid-day (12-3pm)",
+  "prahar_slot": "3",
+  "rasa": [
+   "Veer",
+   "Shringar"
+  ],
+  "prakriti": [
+   "Bright",
+   "Playful"
+  ],
+  "ritu": "",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Saraswati",
+  "thaat": "Kalyan",
+  "aroha": "S R M' P D S'",
+  "avaroha": "S' D P M' R S",
+  "vadi": "R",
+  "samvadi": "P",
+  "pakad": "S R M' P D",
+  "jaati": "Audav-Audav",
+  "prahar": "First Quarter of Night (6-9pm)",
+  "prahar_slot": "5",
+  "rasa": [
+   "Bhakti",
+   "Shanti"
+  ],
+  "prakriti": [
+   "Devotional",
+   "Intellectual"
+  ],
+  "ritu": "",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Shahana Kanada",
+  "thaat": "Kafi",
+  "aroha": "S R g m, P D n S'",
+  "avaroha": "S' n D P, m P g m, R S",
+  "vadi": "P",
+  "samvadi": "R",
+  "pakad": "g m P D n S'",
+  "jaati": "Sampurna-Sampurna",
+  "prahar": "Late Night (11PM-2AM)",
+  "prahar_slot": "7",
+  "rasa": [
+   "Gambhir",
+   "Shringar"
+  ],
+  "prakriti": [
+   "Majestic",
+   "Romantic"
+  ],
+  "ritu": "all",
+  "samaprakritic": [
+   "Nayaki Kanada"
+  ],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Shankara",
+  "thaat": "Bilawal",
+  "aroha": "S G P N S'",
+  "avaroha": "S' N P G P R S",
+  "vadi": "G",
+  "samvadi": "N",
+  "pakad": "G P N S', N P G, P R S",
+  "jaati": "Audav-Shadav",
+  "prahar": "Late Night (9PM-12AM)",
+  "prahar_slot": "6",
+  "rasa": [
+   "Veer",
+   "Joyful"
+  ],
+  "prakriti": [
+   "Heroic",
+   "Majestic"
+  ],
+  "ritu": "",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Shree",
+  "thaat": "Poorvi",
+  "aroha": "S r M' P N S'",
+  "avaroha": "S' N d P M' G r S",
+  "vadi": "r",
+  "samvadi": "P",
+  "pakad": "S, r, r P, M' P, N d P",
+  "jaati": "Audav-Sampurna",
+  "prahar": "Sunset (6PM-9PM)",
+  "prahar_slot": "5",
+  "rasa": [
+   "Gambhir",
+   "Bhakti"
+  ],
+  "prakriti": [
+   "Majestic",
+   "Devotional"
+  ],
+  "ritu": "all",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Shuddha Bilawal",
+  "thaat": "Bilawal",
+  "aroha": "S R G m P D N S'",
+  "avaroha": "S' N D P m G R S",
+  "vadi": "D",
+  "samvadi": "G",
+  "pakad": "S R G, m G R, G m P D",
+  "jaati": "Sampurna-Sampurna",
+  "prahar": "Late Morning (9AM-12PM)",
+  "prahar_slot": "2",
+  "rasa": [
+   "Shringar",
+   "Joyful"
+  ],
+  "prakriti": [
+   "Pure",
+   "Bright",
+   "Cheerful"
+  ],
+  "ritu": "all",
+  "samaprakritic": [
+   "Alhaiya Bilawal"
+  ],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Shuddha Kalyan",
+  "thaat": "Kalyan",
+  "aroha": "S R G P D S'",
+  "avaroha": "S' N D P, M' P G R S",
+  "vadi": "G",
+  "samvadi": "D",
+  "pakad": "G P D, P G, R S",
+  "jaati": "Audav-Sampurna",
+  "prahar": "First Quarter of Night (7PM-9PM)",
+  "prahar_slot": "5",
+  "rasa": [
+   "Shanti",
+   "Shringar"
+  ],
+  "prakriti": [
+   "Peaceful",
+   "Romantic"
+  ],
+  "ritu": "all",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Shuddha Sarang",
+  "thaat": "Kalyan",
+  "aroha": "S R M' P N S'",
+  "avaroha": "S' N P M' R S",
+  "vadi": "R",
+  "samvadi": "P",
+  "pakad": "S R, M' R, P M' R S",
+  "jaati": "Audav-Audav",
+  "prahar": "Mid-day (12PM-3PM)",
+  "prahar_slot": "3",
+  "rasa": [
+   "Veer",
+   "Shringar"
+  ],
+  "prakriti": [
+   "Bright",
+   "Powerful"
+  ],
+  "ritu": "",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Shyam Kalyan",
+  "thaat": "Kalyan",
+  "aroha": "N R M' P N S'",
+  "avaroha": "S' N D P M' G R S",
+  "vadi": "P",
+  "samvadi": "S",
+  "pakad": "N R, G m P, N D P",
+  "jaati": "Audav-Sampurna",
+  "prahar": "First Quarter of Night (7PM-9PM)",
+  "prahar_slot": "5",
+  "rasa": [
+   "Bhakti",
+   "Shringar"
+  ],
+  "prakriti": [
+   "Devotional",
+   "Romantic"
+  ],
+  "ritu": "all",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Sindhura",
+  "thaat": "Kafi",
+  "aroha": "S R G m P D N S'",
+  "avaroha": "S' n D P m G R S",
+  "vadi": "R",
+  "samvadi": "P",
+  "pakad": "D P m G, R G m P",
+  "jaati": "Sampurna-Sampurna",
+  "prahar": "Late Afternoon (3-6pm)",
+  "prahar_slot": "4",
+  "rasa": [
+   "Shringar"
+  ],
+  "prakriti": [
+   "Light",
+   "Romantic"
+  ],
+  "ritu": "all",
+  "samaprakritic": [
+   "Barwa",
+   "Kafi"
+  ],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Sohani",
+  "thaat": "Marwa",
+  "aroha": "S G M' D N S'",
+  "avaroha": "S' N D M' G r S",
+  "vadi": "D",
+  "samvadi": "G",
+  "pakad": "G M' D N, M' D N S'",
+  "jaati": "Audav-Sampurna",
+  "prahar": "Last Quarter of Night (3AM-6AM)",
+  "prahar_slot": "8",
+  "rasa": [
+   "Shringar",
+   "Viyog"
+  ],
+  "prakriti": [
+   "Longing",
+   "Separation"
+  ],
+  "ritu": "winter",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Sorath",
+  "thaat": "Khamaj",
+  "aroha": "S R m P N S'",
+  "avaroha": "S' n D P m R S",
+  "vadi": "R",
+  "samvadi": "D",
+  "pakad": "R m P, n D P, D m R S",
+  "jaati": "Audav-Shadav",
+  "prahar": "Mid Night (9PM-12AM)",
+  "prahar_slot": "6",
+  "rasa": [
+   "Bhakti",
+   "Shringar"
+  ],
+  "prakriti": [
+   "Devotional",
+   "Romantic"
+  ],
+  "ritu": "all",
+  "samaprakritic": [
+   "Des"
+  ],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Suha Kanada",
+  "thaat": "Kafi",
+  "aroha": "S R g m P n S'",
+  "avaroha": "S' n P m g R S",
+  "vadi": "R",
+  "samvadi": "P",
+  "pakad": "R g m P n P, m g R S",
+  "jaati": "Shadav-Shadav",
+  "prahar": "Mid Night (9PM-12AM)",
+  "prahar_slot": "6",
+  "rasa": [
+   "Shringar",
+   "Karuna"
+  ],
+  "prakriti": [
+   "Tender",
+   "Romantic Sadness"
+  ],
+  "ritu": "all",
+  "samaprakritic": [
+   "Nayaki Kanada"
+  ],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Sur Malhar",
+  "thaat": "Kafi",
+  "aroha": "S R m P n D S'",
+  "avaroha": "S' n D P m, g R S",
+  "vadi": "m",
+  "samvadi": "S",
+  "pakad": "R m P, n D S'",
+  "jaati": "Shadav-Sampurna",
+  "prahar": "Rainy Season (any time)",
+  "prahar_slot": "any",
+  "rasa": [
+   "Veer",
+   "Shringar"
+  ],
+  "prakriti": [
+   "Majestic Rain"
+  ],
+  "ritu": "monsoon",
+  "samaprakritic": [
+   "Miyan Ki Malhar"
+  ],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Surdasi Malhar",
+  "thaat": "Kafi",
+  "aroha": "S R m P n S'",
+  "avaroha": "S' n P m R S",
+  "vadi": "m",
+  "samvadi": "S",
+  "pakad": "S R R m m P P",
+  "jaati": "Audav-Audav",
+  "prahar": "Rainy Season (any time)",
+  "prahar_slot": "any",
+  "rasa": [
+   "Bhakti",
+   "Joyful"
+  ],
+  "prakriti": [
+   "Devotional",
+   "Welcoming Rain"
+  ],
+  "ritu": "",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Tilak Kamod",
+  "thaat": "Khamaj",
+  "aroha": "S R G P S'",
+  "avaroha": "S' n D P, G S R G, S 'N",
+  "vadi": "R",
+  "samvadi": "P",
+  "pakad": "P' N' S R G, S 'N",
+  "jaati": "Audav-Sampurna",
+  "prahar": "Second Quarter of Night (9PM-12AM)",
+  "prahar_slot": "6",
+  "rasa": [
+   "Shringar",
+   "Chanchal"
+  ],
+  "prakriti": [
+   "Light",
+   "Playful",
+   "Romantic"
+  ],
+  "ritu": "all",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Tilang",
+  "thaat": "Khamaj",
+  "aroha": "S G m P N S'",
+  "avaroha": "S' n P m G S",
+  "vadi": "G",
+  "samvadi": "N",
+  "pakad": "P N S' n P G",
+  "jaati": "Audav-Audav",
+  "prahar": "Second Quarter of Night (9PM-12AM)",
+  "prahar_slot": "6",
+  "rasa": [
+   "Shringar",
+   "Chanchal"
+  ],
+  "prakriti": [
+   "Romantic",
+   "Light"
+  ],
+  "ritu": "",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Todi",
+  "thaat": "Todi",
+  "aroha": "S r g M' d N S'",
+  "avaroha": "S' N d P M' g r S",
+  "vadi": "d",
+  "samvadi": "g",
+  "pakad": "N S r g, r S, d N S r",
+  "jaati": "Sampurna-Sampurna",
+  "prahar": "Late Morning (9AM-12PM)",
+  "prahar_slot": "2",
+  "rasa": [
+   "Karuna",
+   "Vairagya"
+  ],
+  "prakriti": [
+   "Pleading",
+   "Intense",
+   "Somber"
+  ],
+  "ritu": "winter",
+  "samaprakritic": [
+   "Multani",
+   "Gujari Todi"
+  ],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Vachaspati",
+  "thaat": "Kalyan",
+  "aroha": "S R G M' P d N S'",
+  "avaroha": "S' N d P M' G R S",
+  "vadi": "P",
+  "samvadi": "S",
+  "pakad": "P d N S', N d P, M' G R S",
+  "jaati": "Sampurna-Sampurna",
+  "prahar": "Second Quarter of Night (9PM-12AM)",
+  "prahar_slot": "6",
+  "rasa": [
+   "Gambhir",
+   "Bhakti"
+  ],
+  "prakriti": [
+   "Intellectual",
+   "Meditative"
+  ],
+  "ritu": "all",
+  "samaprakritic": [
+   "Kirwani"
+  ],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Vibhas",
+  "thaat": "Marwa",
+  "aroha": "S r G P D P, G r S",
+  "avaroha": "S' D P G r S",
+  "vadi": "D",
+  "samvadi": "r",
+  "pakad": "G P D, P G r S",
+  "jaati": "Audav-Audav",
+  "prahar": "Early Morning (6AM-9AM)",
+  "prahar_slot": "1",
+  "rasa": [
+   "Shanti",
+   "Veer"
+  ],
+  "prakriti": [
+   "Bright",
+   "Heroic"
+  ],
+  "ritu": "",
+  "samaprakritic": [],
+  "samaprakritic_unresolved": []
+ },
+ {
+  "raga": "Yaman",
+  "thaat": "Kalyan",
+  "aroha": "N' R G M' P D N S'",
+  "avaroha": "S' N D P M' G R S",
+  "vadi": "G",
+  "samvadi": "N",
+  "pakad": "N' R G, R S, P M' G R S",
+  "jaati": "Sampurna-Sampurna",
+  "prahar": "First Quarter of Night (6PM-9PM)",
+  "prahar_slot": "5",
+  "rasa": [
+   "Shringar",
+   "Bhakti"
+  ],
+  "prakriti": [
+   "Peaceful",
+   "Majestic",
+   "Romantic"
+  ],
+  "ritu": "all",
+  "samaprakritic": [
+   "Bhupali",
+   "Shuddha Kalyan"
+  ],
+  "samaprakritic_unresolved": []
+ }
+]

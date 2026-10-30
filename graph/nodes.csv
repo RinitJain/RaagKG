@@ -1,0 +1,225 @@
+id,label,name,aroha,avaroha,pakad,prahar_text
+jaati:audav-audav,Jaati,Audav-Audav,,,,
+jaati:audav-audav-often,Jaati,Audav-Audav (often),,,,
+jaati:audav-sampurna,Jaati,Audav-Sampurna,,,,
+jaati:audav-shadav,Jaati,Audav-Shadav,,,,
+jaati:sampurna-sampurna,Jaati,Sampurna-Sampurna,,,,
+jaati:shadav-sampurna,Jaati,Shadav-Sampurna,,,,
+jaati:shadav-shadav,Jaati,Shadav-Shadav,,,,
+jaati:vakra-sampurna,Jaati,Vakra Sampurna,,,,
+prahar:1,Prahar,Prahar 1 (6 AM - 9 AM),,,,
+prahar:2,Prahar,Prahar 2 (9 AM - 12 PM),,,,
+prahar:3,Prahar,Prahar 3 (12 PM - 3 PM),,,,
+prahar:4,Prahar,Prahar 4 (3 PM - 6 PM),,,,
+prahar:5,Prahar,Prahar 5 (6 PM - 9 PM),,,,
+prahar:6,Prahar,Prahar 6 (9 PM - 12 AM),,,,
+prahar:7,Prahar,Prahar 7 (12 AM - 3 AM),,,,
+prahar:8,Prahar,Prahar 8 (3 AM - 6 AM),,,,
+prahar:any,Prahar,Any time,,,,
+prakriti:anticipation-of-rain,Prakriti,Anticipation of rain,,,,
+prakriti:anxious,Prakriti,Anxious,,,,
+prakriti:bold,Prakriti,Bold,,,,
+prakriti:bright,Prakriti,Bright,,,,
+prakriti:calm,Prakriti,Calm,,,,
+prakriti:celebratory,Prakriti,Celebratory,,,,
+prakriti:charming,Prakriti,Charming,,,,
+prakriti:cheerful,Prakriti,Cheerful,,,,
+prakriti:complex,Prakriti,Complex,,,,
+prakriti:deep-pathos,Prakriti,Deep Pathos,,,,
+prakriti:deeply-emotional,Prakriti,Deeply emotional,,,,
+prakriti:detachment,Prakriti,Detachment,,,,
+prakriti:devotion,Prakriti,Devotion,,,,
+prakriti:devotional,Prakriti,Devotional,,,,
+prakriti:dramatic,Prakriti,Dramatic,,,,
+prakriti:dynamic,Prakriti,Dynamic,,,,
+prakriti:energetic,Prakriti,Energetic,,,,
+prakriti:festive,Prakriti,Festive,,,,
+prakriti:folk-based,Prakriti,Folk-based,,,,
+prakriti:gentle-sadness,Prakriti,Gentle sadness,,,,
+prakriti:grave,Prakriti,Grave,,,,
+prakriti:heroic,Prakriti,Heroic,,,,
+prakriti:intellectual,Prakriti,Intellectual,,,,
+prakriti:intense,Prakriti,Intense,,,,
+prakriti:intense-longing,Prakriti,Intense Longing,,,,
+prakriti:intense-romance,Prakriti,Intense Romance,,,,
+prakriti:intense-sadness,Prakriti,Intense sadness,,,,
+prakriti:joyful,Prakriti,Joyful,,,,
+prakriti:light,Prakriti,Light,,,,
+prakriti:longing,Prakriti,Longing,,,,
+prakriti:majestic,Prakriti,Majestic,,,,
+prakriti:majestic-rain,Prakriti,Majestic Rain,,,,
+prakriti:meditative,Prakriti,Meditative,,,,
+prakriti:melancholic,Prakriti,Melancholic,,,,
+prakriti:melancholy,Prakriti,Melancholy,,,,
+prakriti:mysterious,Prakriti,Mysterious,,,,
+prakriti:mystical,Prakriti,Mystical,,,,
+prakriti:pathos,Prakriti,Pathos,,,,
+prakriti:patriotic,Prakriti,Patriotic,,,,
+prakriti:peaceful,Prakriti,Peaceful,,,,
+prakriti:pensive,Prakriti,Pensive,,,,
+prakriti:philosophical,Prakriti,Philosophical,,,,
+prakriti:playful,Prakriti,Playful,,,,
+prakriti:pleading,Prakriti,Pleading,,,,
+prakriti:pleasing,Prakriti,Pleasing,,,,
+prakriti:poignant,Prakriti,Poignant,,,,
+prakriti:ponderous,Prakriti,Ponderous,,,,
+prakriti:powerful,Prakriti,Powerful,,,,
+prakriti:prayerful,Prakriti,Prayerful,,,,
+prakriti:pure,Prakriti,Pure,,,,
+prakriti:renunciation,Prakriti,Renunciation,,,,
+prakriti:romantic,Prakriti,Romantic,,,,
+prakriti:romantic-sadness,Prakriti,Romantic sadness,,,,
+prakriti:sad,Prakriti,Sad,,,,
+prakriti:sadness,Prakriti,Sadness,,,,
+prakriti:separation,Prakriti,Separation,,,,
+prakriti:serene,Prakriti,Serene,,,,
+prakriti:serious,Prakriti,Serious,,,,
+prakriti:sober,Prakriti,Sober,,,,
+prakriti:somber,Prakriti,Somber,,,,
+prakriti:soothing,Prakriti,Soothing,,,,
+prakriti:spiritual,Prakriti,Spiritual,,,,
+prakriti:sweet,Prakriti,Sweet,,,,
+prakriti:swinging-motion,Prakriti,Swinging motion,,,,
+prakriti:tender,Prakriti,Tender,,,,
+prakriti:thumri-ang,Prakriti,Thumri-ang,,,,
+prakriti:tranquil,Prakriti,Tranquil,,,,
+prakriti:welcoming-rain,Prakriti,Welcoming Rain,,,,
+prakriti:yearning,Prakriti,Yearning,,,,
+raga:abhogi,Raga,Abhogi,S R g m D S',S' D m g R S,"g m D S', D m g R S",Mid Night (9PM-12AM)
+raga:adana,Raga,Adana,"S R g m P, d n S'","S' d n P, m P g R S","S R g m P, d n P, g m R S",Late Night (12AM-3AM)
+raga:ahir-bhairav,Raga,Ahir Bhairav,S r G m P D n S',S' n D P m G r S,"S, r G m, (G)r, S",Early Morning (6AM-9AM)
+raga:alhaiya-bilawal,Raga,Alhaiya Bilawal,"S R G P, D N S'","S' N D P, D n D P, m G, R S","G R G P, D N S', N D P",Late Morning (9AM-12PM)
+raga:asavari,Raga,Asavari,S R m P d S',S' n d P m g R S,"R m P, 'n 'd S', d m P g, R g R S",Late Morning (9AM-12PM)
+raga:bageshri,Raga,Bageshri,S g m D n S',"S' n D m, P D g, R S","S, 'n 'D, 'n S m, g R S",Mid Night (9PM-12AM)
+raga:bahar,Raga,Bahar,"n S G m, P G m, n D N S'","S' n D n P, m P G m, R S","m P G m, n D N S'",Mid Night (12AM-3AM)
+raga:barwa,Raga,Barwa,S R g R m P D n D S',S' n D P m g R S,R g R m P D P,Late Afternoon (3-6pm)
+raga:basant,Raga,Basant,S G M' d N S',"S' N d P, M' G r S","M' G r S, 'd 'N S",Late Night / Spring Season
+raga:bhairav,Raga,Bhairav,S r G m P d N S',S' N d P m G r S,"G m r S, d P",Early Morning (6AM-9AM)
+raga:bhairavi,Raga,Bhairavi,S r g m P d n S',S' n d P m g r S,"m g r S, 'd 'n S'",Early Morning (6AM-9AM)
+raga:bhatiyar,Raga,Bhatiyar,"S M', P M' G, r S, 'N D' S","S' N D P M' G, r S","P M' G r S, D' S",Dawn (3AM-6AM)
+raga:bhimpalasi,Raga,Bhimpalasi,n S g m P n S',S' n D P m g R S,"n S m, m P g, R S",Late Afternoon (3PM-6PM)
+raga:bhupali,Raga,Bhupali,S R G P D S',S' D P G R S,"G R S, 'D S R G, P G D P G R S",First Quarter of Night (6PM-9PM)
+raga:bibhas-bhairav-ang,Raga,Bibhas (Bhairav Ang),S r G P d S',S' d P G r S,"G P d, P G r S",Early Morning (6AM-9AM)
+raga:bihag,Raga,Bihag,N S G m P N S',"S' N D P, M' P G m G, R S",N S G m P,First Quarter of Night (9PM-12AM)
+raga:bihagda,Raga,Bihagda,"N S G m P D P, N S'","S' N D P, M' G m R S","P N S' G' m' R' S', S' N D P",Mid Night (9PM-12AM)
+raga:bilaskhani-todi,Raga,Bilaskhani Todi,S r g P d S',"S' r' n d P, d m g r S","r g P, d, m g r S",Late Morning (9AM-12PM)
+raga:brindabani-sarang,Raga,Brindabani Sarang,N' S R m P N S',S' n P m R S,"N' S R m, R P, m R S",Mid-day (12PM-3PM)
+raga:chandrakauns,Raga,Chandrakauns,S g m d N S',S' N d m g S,"g m d N S', N d m g S",Late Night (12AM-3AM)
+raga:charukeshi,Raga,Charukeshi,S R G m P d n S',S' n d P m G R S,d n S' R G m P,Late Night (10pm-1am)
+raga:chhayanat,Raga,Chhayanat,"S R G m P, P D N S'","S' N D P, M' P G m R S","R G m P, G m R S",First Quarter of Night (9PM-12AM)
+raga:darbari-kanada,Raga,Darbari Kanada,S R g m P d n S',"S' d n P, m P g, m R S","d 'n P, m P g, m R S",Late Night (9PM-12AM)
+raga:des,Raga,Des,N S R m P N S',"S' n D P, m G R G 'N S","R m P, n D P, m G R",Second Quarter of Night (9PM-12PM)
+raga:deshkar,Raga,Deshkar,S R G P D S',S' D P G R S,"G P D, P G, R S",Early Morning (6AM-9AM)
+raga:desi,Raga,Desi,S R m P n S',S' n d P m g R S,P n' S' R' n d P,Late Morning (9-12am)
+raga:devgandhar,Raga,Devgandhar,S R g m P d S',S' n d P m g R S,"R g m P, d m P, g R S",Late Morning (9-12am)
+raga:dhani,Raga,Dhani,n S g m P n S',S' n P m g S,"S g m P, n P, m g S",Late Afternoon (3PM-6PM)
+raga:durga,Raga,Durga,S R m P D S',S' D P m R S,"m P D m R, 'D S",Second Quarter of Night (9PM-12AM)
+raga:gaud-malhar,Raga,Gaud Malhar,"S R G m, R P, m D N S'","S' n D m P, G m R S","R G m, R P",Rainy Season (any time)
+raga:gaud-sarang,Raga,Gaud Sarang,"S G R m G, P M' D P, N S'","S' D n P, D M' P, G R S",S G R m G,Mid-day (12PM-3PM)
+raga:gorakh-kalyan,Raga,Gorakh Kalyan,"S R m, P D N S'",S' N D P m R S,"S R , m R , 'D 'N S",Mid Night (9PM-12AM)
+raga:gujari-todi,Raga,Gujari Todi,S r g M' d S',S' d M' g r S,"d 'N S r g, r S",Late Morning (9AM-12PM)
+raga:gunkali,Raga,Gunkali,S r m P d S',S' d P m r S,"r m P d, m P d, m r S",Early Morning (6AM-9AM)
+raga:hamir,Raga,Hamir,S G m D N S',"S' N D P, M' P G m R S","S G m D, N D, P",First Quarter of Night (7PM-9PM)
+raga:hansadhwani,Raga,Hansadhwani,S R G P N S',S' N P G R S,"R G P N, P G R S",First Quarter of Night (7PM-9PM)
+raga:hemant,Raga,Hemant,S g m d N S',"S' N d m g S, 'd 'N S",g m d N S',Late Night (12AM-3AM)
+raga:hindol,Raga,Hindol,S G M' D N S',S' N D M' G S,"S G M' D, N D, M' G S",First Quarter of Morning (6AM-9AM)
+raga:jait,Raga,Jait,"S G P G, D P S'","S' D P G, r S","G P D P G, r S",Mid-day (12PM-3PM)
+raga:jait-kalyan,Raga,Jait Kalyan,S R G P D S',S' N D P G R S,"G P D P G, R S",First quarter of night (6-9pm)
+raga:jaunpuri,Raga,Jaunpuri,S R m P d n S',S' n d P m g R S,"m P, n d P, d m P g, R g R S",Late Morning (9AM-12PM)
+raga:jhinjhoti,Raga,Jhinjhoti,S R G m P D n S',S' n D P m G R S,"D' n' S R G m, G R S",Second Quarter of Night (9PM-12AM)
+raga:jog,Raga,Jog,S g m P n S',"S' n P m g S, R S","g m P n S', n P m g S",Second Quarter of Night (10PM-1AM)
+raga:jogiya,Raga,Jogiya,S r m P d S',S' N d P m G r S,"S r m, P d S'",Early Morning (6AM-9AM)
+raga:jogkauns,Raga,Jogkauns,S g m P d n S',S' n d P m g S,g m P d n S',Late Night (12AM-3AM)
+raga:kafi,Raga,Kafi,S R g m P D n S',S' n D P m g R S,S R g m P,Mid Night (9PM-12AM)
+raga:kalawati,Raga,Kalawati,S G P D n S',S' n D P G S,"G P D n D P, G S",Mid Night (9PM-12AM)
+raga:kalingda,Raga,Kalingda,S r G m P d N S',S' N d P m G r S,"P d P G m, G r S",Early Morning (6AM-9AM)
+raga:kamod,Raga,Kamod,"S R P, M' P D N S'","S' N D P, M' P G m R S","G m P, G m R S",First Quarter of Night (7PM-9PM)
+raga:kaunsi-kanada,Raga,Kaunsi Kanada,"g m d n S', R' S'","S' n d P m g, R S","g m d n S', R' S'",Late Night (11PM-2AM)
+raga:kedar,Raga,Kedar,"S M, M P, D P, N D S'","S' N D P, M P D P M, G P M, R S","S M, G P, M R S",First Quarter of Night (7PM-9PM)
+raga:khamaj,Raga,Khamaj,S G m P D N S',S' n D P m G R S,"S G m P, D m G",Second Quarter of Night (9PM-12AM)
+raga:kirwani,Raga,Kirwani,S R g m P d N S',S' N d P m g R S,"d P m g R S, R g m P",Late Night (12AM-3AM)
+raga:lalit,Raga,Lalit,"N r G m, M' m G, M' d S'",S' N d P M' G r S,"N r G, m M' m G",Last Quarter of Night (3AM-6AM)
+raga:lankadahan-sarang,Raga,Lankadahan Sarang,S R m P N S',S' N P m R S,S R m P N P m R S,Mid-day (12PM-3PM)
+raga:madhmad-sarang,Raga,Madhmad Sarang,S R m P n S',S' n P m R S,"R m P n P, m R S",Mid-day (12PM-3PM)
+raga:madhukauns,Raga,Madhukauns,S g m d N S',S' N d m g S,g m d N S',Late Night (12AM-3AM)
+raga:madhuvanti,Raga,Madhuvanti,N S g M' P N S',S' N D P M' g R S,"g M' P N S', D P M' g R S",Late Afternoon (4PM-7PM)
+raga:malgunji,Raga,Malgunji,S g m D n S',S' n D P m g R S,"D' n S g m, g R S",Late Night (11PM-2AM)
+raga:malkauns,Raga,Malkauns,n S g m d n S',S' n d m g S,"d 'n S g m, g S",Late Night (12AM-3AM)
+raga:mand,Raga,Mand,S R G m P D N S',S' N D P m G R S,"G m D N S', D P m G R S",Any time (Sarvakalik)
+raga:maru-bihag,Raga,Maru Bihag,S G M' P N S',S' N D P M' G R S,"G M' P N S', D P M' G R S",Second Quarter of Night (9PM-12AM)
+raga:marwa,Raga,Marwa,N r G M' D N S',S' N D M' G r S,"D M' G r, G M' D, M' G r S",Late Afternoon / Sunset (4PM-6PM)
+raga:megh,Raga,Megh,S R m P n S',S' n P m R S,"R m P n P, m R S",Rainy Season (any time)
+raga:miyan-ki-malhar,Raga,Miyan Ki Malhar,S R g m P D n S',S' n D P m g R S,"R g m, P n D, N S'",Mid Night (Rainy Season)
+raga:miyan-ki-todi,Raga,Miyan Ki Todi,S r g M' P d N S',S' N d P M' g r S,"d 'N S r g, r S, P M' g r S",Late Morning (9AM-12PM)
+raga:multani,Raga,Multani,N S g M' P N S',S' N d P M' g r S,"N S M' g P, M' g r S",Late Afternoon (3PM-5PM)
+raga:nand,Raga,Nand,S G m P D N S',"S' N D P, M' P D P, G R S","G m D N, D P, M' P G",Late Night (9PM-12AM)
+raga:nat-bhairav,Raga,Nat Bhairav,S R G m P d N S',S' N d P m G R S,"S G m P, G m r r S",Early Morning (6AM-9AM)
+raga:nayaki-kanada,Raga,Nayaki Kanada,S R g m P n S',S' n P m P g R S,"R P, g m R S",Mid Night (9PM-12AM)
+raga:pahadi,Raga,Pahadi,S R G P D S' (varies),S' D P G R S (varies),"P D S' R' G', R' S' D P",Any time (Sarvakalik)
+raga:palasi,Raga,Palasi,n S g m P n S',S' n d P m g R S,"d P m g, R g m P",Late Afternoon (3-6pm)
+raga:paraj,Raga,Paraj,N S G M' P D N S',"S' N d P, M' P d G, M' G r S",N S G M' P,Last Quarter of Night (3AM-6AM)
+raga:patdeep,Raga,Patdeep,N S g m P N S',S' N D P m g R S,"N S g m P, D P, m g R S",Late Afternoon (3PM-6PM)
+raga:pilu,Raga,Pilu,S G m P N S',S' n D P m G R S,N S G m P,Late Afternoon (3PM-6PM)
+raga:poorvi,Raga,Poorvi,N r G M' d N S',S' N d P M' G r S,"N r G, M' d P, M' G r S",Sunset (6PM-9PM)
+raga:puriya,Raga,Puriya,N r G M' D N S',S' N D M' G r S,"N r G, M' D, N D, M' G r S",Sunset (6PM-9PM)
+raga:puriya-dhanashree,Raga,Puriya Dhanashree,N r G M' P D N S',S' N D P M' G r S,"N r G, M' P, D P, M' G M' r S",Late Afternoon / Sunset (4PM-6PM)
+raga:rageshri,Raga,Rageshri,S G m D n S',S' n D m G R S,"D' n S G m, G R S",Second Quarter of Night (9PM-12AM)
+raga:ramkali,Raga,Ramkali,S G m P d N S',S' N d P M' G r S,"P d N S', N d P, M' P G m",Early Morning (6AM-9AM)
+raga:salag-varali,Raga,Salag Varali,S r M' P D S',S' D P M' r S,S r M' P,Mid-day (12-3pm)
+raga:saraswati,Raga,Saraswati,S R M' P D S',S' D P M' R S,S R M' P D,First Quarter of Night (6-9pm)
+raga:shahana-kanada,Raga,Shahana Kanada,"S R g m, P D n S'","S' n D P, m P g m, R S",g m P D n S',Late Night (11PM-2AM)
+raga:shankara,Raga,Shankara,S G P N S',S' N P G P R S,"G P N S', N P G, P R S",Late Night (9PM-12AM)
+raga:shree,Raga,Shree,S r M' P N S',S' N d P M' G r S,"S, r, r P, M' P, N d P",Sunset (6PM-9PM)
+raga:shuddha-bilawal,Raga,Shuddha Bilawal,S R G m P D N S',S' N D P m G R S,"S R G, m G R, G m P D",Late Morning (9AM-12PM)
+raga:shuddha-kalyan,Raga,Shuddha Kalyan,S R G P D S',"S' N D P, M' P G R S","G P D, P G, R S",First Quarter of Night (7PM-9PM)
+raga:shuddha-sarang,Raga,Shuddha Sarang,S R M' P N S',S' N P M' R S,"S R, M' R, P M' R S",Mid-day (12PM-3PM)
+raga:shyam-kalyan,Raga,Shyam Kalyan,N R M' P N S',S' N D P M' G R S,"N R, G m P, N D P",First Quarter of Night (7PM-9PM)
+raga:sindhura,Raga,Sindhura,S R G m P D N S',S' n D P m G R S,"D P m G, R G m P",Late Afternoon (3-6pm)
+raga:sohani,Raga,Sohani,S G M' D N S',S' N D M' G r S,"G M' D N, M' D N S'",Last Quarter of Night (3AM-6AM)
+raga:sorath,Raga,Sorath,S R m P N S',S' n D P m R S,"R m P, n D P, D m R S",Mid Night (9PM-12AM)
+raga:suha-kanada,Raga,Suha Kanada,S R g m P n S',S' n P m g R S,"R g m P n P, m g R S",Mid Night (9PM-12AM)
+raga:sur-malhar,Raga,Sur Malhar,S R m P n D S',"S' n D P m, g R S","R m P, n D S'",Rainy Season (any time)
+raga:surdasi-malhar,Raga,Surdasi Malhar,S R m P n S',S' n P m R S,S R R m m P P,Rainy Season (any time)
+raga:tilak-kamod,Raga,Tilak Kamod,S R G P S',"S' n D P, G S R G, S 'N","P' N' S R G, S 'N",Second Quarter of Night (9PM-12AM)
+raga:tilang,Raga,Tilang,S G m P N S',S' n P m G S,P N S' n P G,Second Quarter of Night (9PM-12AM)
+raga:todi,Raga,Todi,S r g M' d N S',S' N d P M' g r S,"N S r g, r S, d N S r",Late Morning (9AM-12PM)
+raga:vachaspati,Raga,Vachaspati,S R G M' P d N S',S' N d P M' G R S,"P d N S', N d P, M' G R S",Second Quarter of Night (9PM-12AM)
+raga:vibhas,Raga,Vibhas,"S r G P D P, G r S",S' D P G r S,"G P D, P G r S",Early Morning (6AM-9AM)
+raga:yaman,Raga,Yaman,N' R G M' P D N S',S' N D P M' G R S,"N' R G, R S, P M' G R S",First Quarter of Night (6PM-9PM)
+rasa:bhakti,Rasa,Bhakti,,,,
+rasa:chanchal,Rasa,Chanchal,,,,
+rasa:gambhir,Rasa,Gambhir,,,,
+rasa:joyful,Rasa,Joyful,,,,
+rasa:karuna,Rasa,Karuna,,,,
+rasa:shanti,Rasa,Shanti,,,,
+rasa:shringar,Rasa,Shringar,,,,
+rasa:vairagya,Rasa,Vairagya,,,,
+rasa:veer,Rasa,Veer,,,,
+rasa:viyog,Rasa,Viyog,,,,
+ritu:all,Ritu,All seasons (Sarvakalik),,,,
+ritu:autumn,Ritu,Autumn,,,,
+ritu:monsoon,Ritu,Monsoon,,,,
+ritu:spring,Ritu,Spring,,,,
+ritu:summer,Ritu,Summer,,,,
+ritu:winter,Ritu,Winter,,,,
+swar:D,Swar,D,,,,
+swar:G,Swar,G,,,,
+swar:N,Swar,N,,,,
+swar:P,Swar,P,,,,
+swar:R,Swar,R,,,,
+swar:S,Swar,S,,,,
+swar:d,Swar,d,,,,
+swar:g,Swar,g,,,,
+swar:m,Swar,m,,,,
+swar:n,Swar,n,,,,
+swar:r,Swar,r,,,,
+thaat:asavari,Thaat,Asavari,,,,
+thaat:bhairav,Thaat,Bhairav,,,,
+thaat:bhairavi,Thaat,Bhairavi,,,,
+thaat:bilawal,Thaat,Bilawal,,,,
+thaat:kafi,Thaat,Kafi,,,,
+thaat:kalyan,Thaat,Kalyan,,,,
+thaat:khamaj,Thaat,Khamaj,,,,
+thaat:marwa,Thaat,Marwa,,,,
+thaat:poorvi,Thaat,Poorvi,,,,
+thaat:todi,Thaat,Todi,,,,

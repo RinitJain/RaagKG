@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use RaagKG, please cite it as below."
+title: "RaagKG: A Knowledge Graph of Hindustani Ragas"
+type: dataset
+version: 1.0.0
+date-released: 2026-10-30
+license: CC-BY-4.0
+authors:
+  - given-names: Rinit
+    family-names: Jain
+  - given-names: Advait
+    family-names: Joshi
+  - given-names: Tirthraj
+    family-names: Mahajan
+  - given-names: Sheetal
+    family-names: Sonawane
+    affiliation: "Pune Institute of Computer Technology"
+  - given-names: Raviraj
+    family-names: Joshi
+    affiliation: "L3Cube Labs, Pune; Indian Institute of Technology Madras"
+keywords:
+  - knowledge graph
+  - Hindustani classical music
+  - raga
+  - music information retrieval
+  - explainable AI
