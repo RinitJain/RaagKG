@@ -1,5 +1,7 @@
 # RaagKG
 
+[![DOI](https://zenodo.org/badge/1439996614.svg)](https://doi.org/10.5281/zenodo.23813360)
+
 A hand-curated knowledge graph of 101 Hindustani ragas. For each raga it
 records twelve attributes, covering both the musical rules (parent scale,
 ascent, descent, principal notes, signature phrase, note count) and the
