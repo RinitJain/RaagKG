@@ -96,3 +96,5 @@ Code (`src/`, `scripts/`, `tests/`): [MIT](LICENSE).
 
 See `CITATION.cff`, or use GitHub's "Cite this repository" button.
 Corrections from musicians are welcome as issues or pull requests.
+
+Example outputs of RaagAI, which builds on RaagKG: https://github.com/RinitJain/RaagAI-Outputs
